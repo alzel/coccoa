@@ -1,0 +1,2388 @@
+#Compartmentalized model with concatenated isoreactions. Made from Scere_master_Kiran.txt file
+
+
+-REACTIONS
+AAC1|AAC3|PET9 : ADP + ATPM + Orthophosphate -> ADPM + ATP + H+M + OrthophosphateM
+AAH1_1 : Adenosine -> Inosine + NH3
+AAH1_2 : Deoxyadenosine -> Deoxyinosine + NH3
+AAH1_3 : Adenine -> HYXN + NH3
+AAT1_1 : GlutamateM + OxaloacetateM <-> 2-OxoglutarateM + L-AspartateM
+AAT1_2|AAT2_2|ARO8|ARO9_2 : 3-(4-Hydroxyphenyl)pyruvate + L-Glutamate <-> 2-Oxoglutarate + L-Tyrosine
+AAT2_1 : L-Glutamate + Oxaloacetate <-> 2-Oxoglutarate + L-Aspartate
+ABZ1 : Chorismate + L-Glutamine -> 4-amino-4-deoxychorismate + L-Glutamate
+ACALxtI : ACALxtX <-> ACALxt
+ACALxtO : ACALxt -> ACALxtX
+ACB1/ACC1/FAS1/FAS2/_1 : Acyl-[acyl-carrier protein] + 4 Malonyl-[acyl-carrier protein] + 8 NADPH -> 4 Acyl-carrier protein + 4 CO2 + Decanoyl-[acp] + 8 NADP+
+ACB1/ACC1/FAS1/FAS2/_2 : Acyl-[acyl-carrier protein] + 5 Malonyl-[acyl-carrier protein] + 10 NADPH -> 5 Acyl-carrier protein + 5 CO2 + Dodecanoyl-[acyl-carrier protein] + 10 NADP+
+ACB1/ACC1/FAS1/FAS2/_3 : Acyl-[acyl-carrier protein] + 6 Malonyl-[acyl-carrier protein] + 12 NADPH -> 6 Acyl-carrier protein + 6 CO2 + Myristoyl-[acyl-carrier protein] + 12 NADP+
+ACB1/ACC1/FAS1/FAS2/_4 : Acyl-[acyl-carrier protein] + 6 Malonyl-[acyl-carrier protein] + 11 NADPH -> 6 Acyl-carrier protein + 6 CO2 + 11 NADP+ + Tetradecenoyl-[acyl-carrier protein]
+ACB1/ACC1/FAS1/FAS2/_5 : Acyl-[acyl-carrier protein] + 7 Malonyl-[acyl-carrier protein] + 14 NADPH -> 7 Acyl-carrier protein + 7 CO2 + Hexadecanoyl-[acp] + 14 NADP+
+ACB1/ACC1/FAS1/FAS2/_6 : Acyl-[acyl-carrier protein] + 7 Malonyl-[acyl-carrier protein] + 13 NADPH -> 7 Acyl-carrier protein + 7 CO2 + 13 NADP+ + Palmitoyl-[acyl-carrier protein]
+ACB1/ACC1/FAS1/FAS2/_7 : Acyl-[acyl-carrier protein] + 8 Malonyl-[acyl-carrier protein] + 16 NADPH -> 8 Acyl-carrier protein + 8 CO2 + 16 NADP+ + Stearoyl-[acyl-carrier protein]
+ACB1/ACC1/FAS1/FAS2/_8 : Acyl-[acyl-carrier protein] + 8 Malonyl-[acyl-carrier protein] + 15 NADPH -> 8 Acyl-carrier protein + 8 CO2 + 15 NADP+ + Oleoyl-[acyl-carrier protein]
+ACB1/ACC1/FAS1/FAS2/_9 : Acyl-[acyl-carrier protein] + 8 Malonyl-[acyl-carrier protein] + 14 NADPH -> 8 Acyl-carrier protein + 8 CO2 + Linolenoyl-[acyl-carrier protein] + 14 NADP+
+ACC1 : ATP + Acetyl-CoA + CO2 <-> ADP + Malonyl-CoA + Orthophosphate
+ACH1 : Acetyl-CoA -> Acetate + CoA
+ACO1|YJL200C : CitrateM <-> IsocitrateM
+ACP1/CEM1/MCT1/OAR1_1 : Acyl-[acyl-carrier protein]M + 4 Malonyl-[acyl-carrier protein]M + 8 NADPHM -> 4 Acyl-carrier proteinM + C100ACPm + 4 CO2M + 8 NADP+M
+ACP1/CEM1/MCT1/OAR1_2 : Acyl-[acyl-carrier protein]M + 5 Malonyl-[acyl-carrier protein]M + 10 NADPHM -> 5 Acyl-carrier proteinM + 5 CO2M + Dodecanoyl-[acyl-carrier protein]M + 10 NADP+M
+ACP1/CEM1/MCT1/OAR1_3 : Acyl-[acyl-carrier protein]M + 6 Malonyl-[acyl-carrier protein]M + 12 NADPHM -> 6 Acyl-carrier proteinM + 6 CO2M + Myristoyl-[acyl-carrier protein]M + 12 NADP+M
+ACP1/CEM1/MCT1/OAR1_4 : Acyl-[acyl-carrier protein]M + 6 Malonyl-[acyl-carrier protein]M + 11 NADPHM -> 6 Acyl-carrier proteinM + 6 CO2M + 11 NADP+M + Tetradecenoyl-[acyl-carrier protein]M
+ACP1/CEM1/MCT1/OAR1_5 : Acyl-[acyl-carrier protein]M + 7 Malonyl-[acyl-carrier protein]M + 14 NADPHM -> 7 Acyl-carrier proteinM + 7 CO2M + Hexadecanoyl-[acp]M + 14 NADP+M
+ACP1/CEM1/MCT1/OAR1_6 : Acyl-[acyl-carrier protein]M + 7 Malonyl-[acyl-carrier protein]M + 13 NADPHM -> 7 Acyl-carrier proteinM + 7 CO2M + 13 NADP+M + Palmitoyl-[acyl-carrier protein]M
+ACP1/CEM1/MCT1/OAR1_7 : Acyl-[acyl-carrier protein]M + 8 Malonyl-[acyl-carrier protein]M + 16 NADPHM -> 8 Acyl-carrier proteinM + 8 CO2M + 16 NADP+M + Stearoyl-[acyl-carrier protein]M
+ACP1/CEM1/MCT1/OAR1_8 : Acyl-[acyl-carrier protein]M + 8 Malonyl-[acyl-carrier protein]M + 15 NADPHM -> 8 Acyl-carrier proteinM + 8 CO2M + 15 NADP+M + Oleoyl-[acyl-carrier protein]M
+ACP1/CEM1/MCT1/OAR1_9 : Acyl-[acyl-carrier protein]M + 8 Malonyl-[acyl-carrier protein]M + 14 NADPHM -> 8 Acyl-carrier proteinM + 8 CO2M + Linolenoyl-[acyl-carrier protein]M + 14 NADP+M
+ACP1|NDI1 : NADHM + Ubiquinone-9M -> NAD+M + UbiquinolM
+ACS1|ACS2 : ATP + Acetate + CoA -> AMP + Acetyl-CoA + Pyrophosphate
+ACxtI : ACxtX <-> ACxt
+ACxtO : ACxt -> ACxtX
+ADE1 : 1-(5-Phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate + ATP + L-Aspartate <-> 1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole + ADP + Orthophosphate
+ADE12 : GTP + IMP + L-Aspartate -> GDP + N6-(1,2-Dicarboxyethyl)-AMP + Orthophosphate
+ADE13_1 : 1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole <-> 1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide + Fumarate
+ADE13_2 : N6-(1,2-Dicarboxyethyl)-AMP <-> AMP + Fumarate
+ADE16_1|ADE17_1 : 1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide + 10-Formyltetrahydrofolate <-> 1-(5'-Phosphoribosyl)-5-formamido-4-imidazolecarboxamide + Tetrahydrofolate
+ADE16_2|ADE17_2 : 1-(5'-Phosphoribosyl)-5-formamido-4-imidazolecarboxamide <-> IMP
+ADE2 : 1-(5-Phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate <-> Aminoimidazole ribotide + CO2
+ADE3_1 : 5,10-Methylenetetrahydrofolate + NADP+ <-> 5,10-Methenyltetrahydrofolate + NADPH
+ADE3_2 : ATP + Formate + Tetrahydrofolate -> 10-Formyltetrahydrofolate + ADP + Orthophosphate
+ADE3_3 : 5,10-Methenyltetrahydrofolate <-> 10-Formyltetrahydrofolate
+ADE4 : 5-Phospho-alpha-D-ribose 1-diphosphate + L-Glutamine -> 5-Phosphoribosylamine + L-Glutamate + Pyrophosphate
+ADE57_1 : 5-Phosphoribosylamine + ATP + Glycine <-> 5'-Phosphoribosylglycinamide + ADP + Orthophosphate
+ADE57_2 : 2-(Formamido)-N1-(5'-phosphoribosyl)acetamidine + ATP -> ADP + Aminoimidazole ribotide + Orthophosphate
+ADE6 : 5'-Phosphoribosyl-N-formylglycinamide + ATP + L-Glutamine -> 2-(Formamido)-N1-(5'-phosphoribosyl)acetamidine + ADP + L-Glutamate + Orthophosphate
+ADE8 : 10-Formyltetrahydrofolate + 5'-Phosphoribosylglycinamide -> 5'-Phosphoribosyl-N-formylglycinamide + Tetrahydrofolate
+ADH1|ADH2|ADH4|ADH5|SFA1_2 : Ethanol + NAD+ <-> Acetaldehyde + NADH
+ADH3 : EthanolM + NAD+M <-> AcetaldehydeM + NADHM
+ADK1_1 : AMP + ATP <-> 2 ADP
+ADK1_2 : AMP + GTP <-> ADP + GDP
+ADK1_3 : AMP + ITP <-> ADP + IDP
+ADK2_1 : AMPM + ATPM <-> 2 ADPM
+ADK2_2 : AMPM + GTPM <-> ADPM + GDPM
+ADK2_3 : AMPM + ITPM <-> ADPM + IDPM
+ADNxtI : ADNxtX <-> ADNxt
+ADNxtO : ADNxt -> ADNxtX
+ADxtI : ADxtX <-> ADxt
+ADxtO : ADxt -> ADxtX
+AGP1_10|BAP2_7|BAP3_7|GAP1_16|TAT1_4|TAT2_6|VAP1_6 : H+EXT + TYRxt <-> L-Tyrosine
+AGP1_11|BAP2_8|BAP3_8|GAP1_17|VAP1_7 : H+EXT + VALxt <-> L-Valine
+AGP1_12|AGP3_3|DIP5_7|GAP1_18|GNP1_6 : H+EXT + SERxt <-> L-Serine
+AGP1_13|GAP1_19|GNP1_7|TAT1_5 : H+EXT + THRxt <-> L-Threonine
+AGP1_1|AGP3_1|DIP5_1|GAP1_1|STL1_3|STL1_4 : GLUxt <-> L-Glutamate
+AGP1_2|DIP5_2|GAP1_2|PUT4_1|TAT2_1 : ALAxt + H+EXT <-> L-Alanine
+AGP1_3|DIP5_3|GAP1_4|GNP1_1 : ASNxt + H+EXT <-> L-Asparagine
+AGP1_4|DIP5_6|GAP1_8|GNP1_3 : GLNxt + H+EXT <-> L-Glutamine
+AGP1_5|GAP1_9|HIP1|VAP1_2 : H+EXT + HISxt <-> L-Histidine
+AGP1_6|BAP2_2|BAP3_2|GAP1_10|TAT1_1|VAP1_3 : H+EXT + ILExt <-> L-Isoleucine
+AGP1_7|BAP2_3|BAP3_3|GAP1_11|GNP1_4|TAT1_2|VAP1_4 : H+EXT + LEUxt <-> L-Leucine
+AGP1_8|BAP2_4|BAP3_4|GAP1_12|GNP1_5|MUP1|MUP3 : H+EXT + METxt <-> L-Methionine
+AGP1_9|BAP2_5|BAP3_5|GAP1_13|TAT2_4 : H+EXT + PHExt <-> L-Phenylalanine
+AGP2 : CARxt <-> Carnitine
+AGP3_2|DIP5_4|GAP1_5 : ASPxt + H+EXT <-> L-Aspartate
+AKGxtI : AKGxtX <-> AKGxt
+AKGxtO : AKGxt -> AKGxtX
+ALAxtI : ALAxtX <-> ALAxt
+ALAxtO : ALAxt -> ALAxtX
+ALD2|ALD3 : Acetaldehyde + NAD+ -> Acetate + NADH
+ALD4_1 : AcetaldehydeM + NAD+M -> AcetateM + NADHM
+ALD4_2|ALD5_1 : AcetaldehydeM + NADP+M -> AcetateM + NADPHM
+ALD5_2 : (S)-LactaldehydeM + NAD+M <-> (S)-LactateM + NADHM
+ALD6 : Acetaldehyde + NADP+ -> Acetate + NADPH
+ALP1|CAN1_1|GAP1_3 : ARGxt + H+EXT <-> L-Arginine
+AMD1_1 : AMP -> IMP + NH3
+AMD1_2|YBR284W|YJL070C : AMP -> Adenine + D-Ribose 5-phosphate
+AMD2_1|YMR293C : 4-Guanidino-butanamide -> 4-Guanidino-butanoate + NH3
+AMD2_2 : 2-Phenylacetamide -> NH3 + Phenylacetic acid
+AMD2_3 : Indole-3-acetamide -> Indole-3-acetate + NH3
+AONAxtI : AONAxtX <-> AONAxt
+AONAxtO : AONAxt -> AONAxtX
+APA1_1 : ADP + GTP -> Orthophosphate + P1,P4-Bis(5'-adenosyl) tetraphosphate
+APA1_2 : GDP + GTP -> Orthophosphate + P1,P4-Bis(5'-guanosyl) tetraphosphate
+APA1_3 : ADP + Sulfate <-> Adenylylsulfate + Orthophosphate
+APA2 : ADP + ATP -> Orthophosphate + P1,P4-Bis(5'-adenosyl) tetraphosphate
+APT1|APT2 : 5-Phospho-alpha-D-ribose 1-diphosphate + Adenine -> AMP + Pyrophosphate
+ARA1_1 : D-Arabinose + NAD+ -> D-Arabinono-1,4-lactone + NADH
+ARA1_2 : D-Arabinose + NADP+ -> D-Arabinono-1,4-lactone + NADPH
+ARABxtI : ARABxtX <-> ARABxt
+ARABxtO : ARABxt -> ARABxtX
+ARG1 : ATP + L-Aspartate + L-Citrulline <-> AMP + N-(L-Arginino)succinate + Pyrophosphate
+ARG3 : Carbamoyl phosphate + L-Ornithine -> L-Citrulline + Orthophosphate
+ARG4 : N-(L-Arginino)succinate <-> Fumarate + L-Arginine
+ARG5_1 : ATPM + N-Acetyl-L-glutamateM -> ADPM + N-Acetyl-L-glutamate 5-phosphateM
+ARG5_2 : N-Acetyl-L-glutamate 5-phosphateM + NADPHM -> N-Acetyl-L-glutamate 5-semialdehydeM + NADP+M + OrthophosphateM
+ARG8 : GlutamateM + N-Acetyl-L-glutamate 5-semialdehydeM -> 2-OxoglutarateM + N2-Acetyl-L-ornithineM
+ARGxtI : ARGxtX <-> ARGxt
+ARGxtO : ARGxt -> ARGxtX
+ARO1_1 : 2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate -> 3-Dehydroquinate + Orthophosphate
+ARO1_2 : 3-Dehydroquinate -> 3-Dehydroshikimate
+ARO1_3 : 3-Dehydroshikimate + NADPH -> NADP+ + Shikimate
+ARO1_4 : ATP + Shikimate -> ADP + Shikimate 3-phosphate
+ARO1_5 : Phosphoenolpyruvate + Shikimate 3-phosphate -> 5-O-(1-Carboxyvinyl)-3-phosphoshikimate + Orthophosphate
+ARO2 : 5-O-(1-Carboxyvinyl)-3-phosphoshikimate -> Chorismate + Orthophosphate
+ARO3|ARO4 : D-Erythrose 4-phosphate + Phosphoenolpyruvate -> 2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate + Orthophosphate
+ARO7 : Chorismate -> Prephenate
+ARO9_1 : L-Glutamate + Phenylpyruvate <-> 2-Oxoglutarate + L-Phenylalanine
+ASN1|ASN2 : ATP + L-Aspartate + L-Glutamine -> AMP + L-Asparagine + L-Glutamate + Pyrophosphate
+ASNxtI : ASNxtX <-> ASNxt
+ASNxtO : ASNxt -> ASNxtX
+ASP1|ASP3-1|ASP3-2|ASP3-3|ASP3-4 : L-Asparagine -> L-Aspartate + NH3
+ASPxtI : ASPxtX <-> ASPxt
+ASPxtO : ASPxt -> ASPxtX
+ATH1|NTH1|NTH2 : alpha,alpha-Trehalose -> 2 alpha-D-Glucose
+ATNxtI : ATNxtX <-> ATNxt
+ATNxtO : ATNxt -> ATNxtX
+ATP1 : ADPM + OrthophosphateM -> ATPM + 3 H+M
+AUR1 : 1-Phosphatidyl-D-myo-inositol + Ceramide-3 -> Inositol phosphorylceramide
+AUS1_1 : ERGOSTxt <-> Ergosterol
+AUS1_2 : ZYMSTxt <-> Zymosterol
+BAP2_1|BAP3_1|GAP1_6|GNP1_2|TAT2_2|VAP1_1 : CYSxt + H+EXT <-> L-Cysteine
+BAP2_6|BAP3_6|GAP1_15|TAT1_3|TAT2_5|VAP1_5 : H+EXT + TRPxt <-> L-Tryptophan
+BAT1_1 : 3-Carboxy-4-methyl-2-oxopentanoateM + GlutamateM <-> 2-OxoglutarateM + L-LeucineM
+BAT1_2 : 3-Methyl-2-oxobutanoateM + GlutamateM <-> 2-OxoglutarateM + L-IsoleucineM
+BAT2_1 : 3-Methyl-2-oxobutanoate + L-Glutamate <-> 2-Oxoglutarate + L-Isoleucine
+BAT2_2 : (R)-2-Oxoisovalerate + L-Glutamate <-> 2-Oxoglutarate + L-Valine
+BAT2_3 : 3-Carboxy-4-methyl-2-oxopentanoate + L-Glutamate <-> 2-Oxoglutarate + L-Leucine
+BCAAxtI : BCAAxtX <-> BCAAxt
+BCAAxtO : BCAAxt -> BCAAxtX
+BET2|COQ1|COQ2|COX10|RAM1|RER2|SRT1 : 4-Hydroxybenzoate + all-trans-Nonaprenyl diphosphate -> 3-Nonaprenyl-4-hydroxybenzoate + Pyrophosphate
+BGL2|EXG1|EXG2|SPR1 : 1,3-beta-D-Glucan -> alpha-D-Glucose
+BIO2 : Dethiobiotin + L-Cysteine <-> Biotin
+BIO3 : 8-Amino-7-oxononanoate + S-Adenosyl-L-methionine <-> 7,8-Diaminononanoate + S-Adenosyl-4-methylthio-2-oxobutanoate
+BIO4 : 7,8-Diaminononanoate + ATP + CO2 <-> ADP + Dethiobiotin + Orthophosphate
+BIO5 : BIOxt + H+EXT -> Biotin
+BMxtI : BMxtX -> BMxt
+BMxtO : BMxt -> BMxtX
+BNA1 : 3-Hydroxyanthranilate + Oxygen -> 2-Amino-3-carboxymuconate semialdehyde
+BPH1 : ACxt + H+EXT <-> Acetate
+BTxtI : BTxtX <-> BTxt
+BTxtO : BTxt -> BTxtX
+C140xtI : C140xtX <-> C140xt
+C140xtO : C140xt -> C140xtX
+C160xtI : C160xtX <-> C160xt
+C160xtO : C160xt -> C160xtX
+C161xtI : C161xtX <-> C161xt
+C161xtO : C161xt -> C161xtX
+C180xtI : C180xtX <-> C180xt
+C180xtO : C180xt -> C180xtX
+C181xtI : C181xtX <-> C181xt
+C181xtO : C181xt -> C181xtX
+CAN1_2|GAP1_21 : H+EXT + ORNxt <-> L-Ornithine
+CAR1 : L-Arginine -> L-Ornithine + Urea
+CAR2 : 2-Oxoglutarate + L-Ornithine -> L-Glutamate + L-Glutamate 5-semialdehyde
+CAT2 : Acetyl-CoA + Carnitine -> CoA + O-Acetylcarnitine
+CDA1|CDA2 : Chitin -> Acetate + Chitosan
+CDC19|PYK2 : ADP + Phosphoenolpyruvate -> ATP + Pyruvate
+CDC21 : 5,10-Methylenetetrahydrofolate + dUMP -> Dihydrofolate + dTMP
+CDC8 : ATP + dTMP <-> ADP + dTDP
+CDD1_1 : Cytidine -> NH3 + Uridine
+CDD1_2 : Deoxycytidine -> Deoxyuridine + NH3
+CDS1_1 : CTPM + PhosphatidateM <-> CDPdiacylglycerolM + PyrophosphateM
+CDS1_2 : CTP + Phosphatidate <-> CDPdiacylglycerol + Pyrophosphate
+CEM1 : Acyl-[acyl-carrier protein]M + Malonyl-[acyl-carrier protein]M -> 3OACPm + Acyl-carrier proteinM + CO2M
+CHA1_1 : L-Threonine -> 2-Oxobutanoate + NH3
+CHA1_2|YIL167W : L-Serine -> NH3 + Pyruvate
+CHLSTxtI : CHLSTxtX <-> CHLSTxt
+CHLSTxtO : CHLSTxt -> CHLSTxtX
+CHO1_1 : CDPdiacylglycerol + L-Serine <-> CMP + Phosphatidylserine
+CHO1_2 : CDPdiacylglycerolM + L-SerineM <-> CMPM + PhosphatidylserineM
+CHO2 : Phosphatidylethanolamine + S-Adenosyl-L-methionine -> Phosphatidyl-N-methylethanolamine + S-Adenosyl-L-homocysteine
+CHOxtI : CHOxtX <-> CHOxt
+CHOxtO : CHOxt -> CHOxtX
+CHS1|CHS2|CHS3 : UDP-N-acetyl-D-galactosamine -> Chitin + UDP
+CIT1|CIT3 : Acetyl-CoAM + OxaloacetateM -> CitrateM + CoAM
+CIT2 : Acetyl-CoA + Oxaloacetate -> Citrate + CoA
+CITxtI : CITxtX <-> CITxt
+CITxtO : CITxt -> CITxtX
+CKI1 : ATP + Choline -> ADP + Choline phosphate
+CO2xtI : CO2xtX <-> CO2xt
+CO2xtO : CO2xt -> CO2xtX
+COQ3 : 3-Demethylubiquinone-9M + S-Adenosyl-L-methionineM -> S-Adenosyl-L-homocysteineM + UbiquinolM
+COQ5 : 2-Nonaprenyl-6-methoxy-1,4-benzoquinoneM + S-Adenosyl-L-methionineM -> 2-Nonaprenyl-3-methyl-6-methoxy-1,4-benzoquinoneM + S-Adenosyl-L-homocysteineM
+COQ6 : 2-Nonaprenyl-3-methyl-6-methoxy-1,4-benzoquinoneM + OxygenM -> 3-Demethylubiquinone-9M
+COX1 : 4 Ferrocytochrome cM + 6 H+M + OxygenM -> 4 Ferricytochrome cM
+CPA2|URA2_2 : 2 ATP + CO2 + L-Glutamine -> 2 ADP + Carbamoyl phosphate + L-Glutamate + Orthophosphate
+CPT1 : CDPcholine + Diacylglycerol -> CMP + Phosphatidylcholine
+CRC1 : CarnitineM + O-Acetylcarnitine -> Carnitine + O-AcetylcarnitineM
+CRD1 : CDPdiacylglycerolM + PhosphatidylglycerolM -> CMPM + CardiolipinM
+CSG2|SUR1 : GDPmannose + Inositol phosphorylceramide -> Mannose-inositol-P-ceramide
+CTA1|CTT1 : 2 H2O2 -> Oxygen
+CTP1_1 : Citrate + MalateM <-> CitrateM + Malate
+CTP1_2 : Citrate + PhosphoenolpyruvateM <-> CitrateM + Phosphoenolpyruvate
+CTP1_3 : Citrate + IsocitrateM <-> CitrateM + Isocitrate
+CYB2 : (S)-LactateM + 2 Ferricytochrome cM -> 2 Ferrocytochrome cM + PyruvateM
+CYR1 : ATP -> 3',5'-Cyclic AMP + Pyrophosphate
+CYS3 : L-Cystathionine -> 2-Oxobutanoate + L-Cysteine + NH3
+CYS4 : Homocysteine + L-Serine -> L-Cystathionine
+CYSxtI : CYSxtX <-> CYSxt
+CYSxtO : CYSxt -> CYSxtX
+CYTDxtI : CYTDxtX <-> CYTDxt
+CYTDxtO : CYTDxt -> CYTDxtX
+CYTSxtI : CYTSxtX <-> CYTSxt
+CYTSxtO : CYTSxt -> CYTSxtX
+DAK1|DAK2 : ATP + Glycerone -> ADP + Glycerone phosphate
+DAL1 : Allantoin <-> Allantoate
+DAL2 : Allantoate <-> (-)-Ureidoglycolate + Urea
+DAL3 : (-)-Ureidoglycolate <-> CO2 + Glyoxylate + 2 NH3
+DAL4 : ATNxt -> Allantoin
+DAL5 : ATTxt -> Allantoate
+DAL7|MLS1 : Acetyl-CoA + Glyoxylate -> CoA + Malate
+DALAxtI : DALAxtX <-> DALAxt
+DALAxtO : DALAxt -> DALAxtX
+DANNAxtI : DANNAxtX <-> DANNAxt
+DANNAxtO : DANNAxt -> DANNAxtX
+DAxtI : DAxtX <-> DAxt
+DAxtO : DAxt -> DAxtX
+DCD1_1 : dCMP <-> NH3 + dUMP
+DCD1_2 : dCTP -> NH3 + dUTP
+DCxtI : DCxtX <-> DCxt
+DCxtO : DCxt -> DCxtX
+DED81 : ATP + L-Aspartate + tRNA -> AMP + L-Asparaginyl-tRNA(Asn) + Pyrophosphate
+DEG1|PUS1|PUS2|PUS4 : D-Ribose 5-phosphate + Uracil <-> Pseudouridine 5'-phosphate
+DFR1_1 : DihydrofolateM + NADPHM -> NADP+M + TetrahydrofolateM
+DFR1_2 : Dihydrofolate + NADPH -> NADP+ + Tetrahydrofolate
+DGxtI : DGxtX <-> DGxt
+DGxtO : DGxt -> DGxtX
+DHAxtI : DHAxtX <-> DHAxt
+DHAxtO : DHAxt -> DHAxtX
+DIC1_1 : Malate + SuccinateM <-> MalateM + Succinate
+DIC1_2 : Malate + OrthophosphateM <-> MalateM + Orthophosphate
+DIC1_3 : OrthophosphateM + Succinate -> Orthophosphate + SuccinateM
+DIM1 : 2-Nonaprenyl-6-hydroxyphenol + S-Adenosyl-L-methionine -> 2-Nonaprenyl-6-methoxyphenol + S-Adenosyl-L-homocysteine
+DINxtI : DINxtX <-> DINxt
+DINxtO : DINxt -> DINxtX
+DIP5_5|GAP1_7|PUT4_2|TAT2_3 : GLYxt + H+EXT <-> Glycine
+DIPEPxtI : DIPEPxtX <-> DIPEPxt
+DIPEPxtO : DIPEPxt -> DIPEPxtX
+DLD1 : (R)-LactateM + 2 Ferricytochrome cM -> 2 Ferrocytochrome cM + PyruvateM
+DPH5 : 2-(3-Carboxy-3-aminopropyl)-L-histidine + S-Adenosyl-L-methionine -> 2-[3-Carboxy-3-(methylammonio)propyl]-L-histidine + S-Adenosyl-L-homocysteine
+DPL1 : Sphinganine 1-phosphate -> C16_aldehydes + Ethanolamine phosphate
+DPM1 : Dolichyl phosphate + GDPmannose -> Dolichyl beta-D-mannosyl phosphate + GDP
+DPP1 : Phosphatidate -> Diacylglycerol + Orthophosphate
+DSERxtI : DSERxtX <-> DSERxt
+DSERxtO : DSERxt -> DSERxtX
+DTTPxtI : DTTPxtX <-> DTTPxt
+DTTPxtO : DTTPxt -> DTTPxtX
+DTxtI : DTxtX <-> DTxt
+DTxtO : DTxt -> DTxtX
+DUR1_1 : ATP + CO2 + Urea <-> ADP + Orthophosphate + Urea-1-carboxylate
+DUR1_2 : Urea-1-carboxylate -> 2 CO2 + 2 NH3
+DUR3 : 2 H+EXT + UREAxt <-> Urea
+DUT1 : dUTP -> Pyrophosphate + dUMP
+DUxtI : DUxtX <-> DUxt
+DUxtO : DUxt -> DUxtX
+DYS1 : Spermidine + Ubiquinone-9M -> 1,3-Diaminopropane + UbiquinolM
+ECM17|MET10 : 3 NADPH + Sulfite <-> Hydrogen sulfide + 3 NADP+
+ECM31 : (R)-2-Oxoisovalerate + 5,10-Methylenetetrahydrofolate -> 2-Dehydropantoate + Tetrahydrofolate
+ECM38 : Glutathione + L-Alanine -> Cys-Gly + R-S-Alanylglycine
+ECM40_1 : Acetyl-CoAM + GlutamateM -> CoAM + N-Acetyl-L-glutamateM
+ECM40_2 : GlutamateM + N2-Acetyl-L-ornithineM -> L-OrnithineM + N-Acetyl-L-glutamateM
+EKI1 : ATP + Ethanolamine -> ADP + Ethanolamine phosphate
+ENO1|ENO2|ERR1_1|ERR1_2|ERR2 : 2-Phospho-D-glycerate <-> Phosphoenolpyruvate
+EPT1 : CDPethanolamine + Diacylglycerol <-> CMP + Phosphatidylethanolamine
+ERG1 : NADP+ + Oxygen + Squalene -> (S)-2,3-Epoxysqualene + NADPH
+ERG10_1 : 2 Acetyl-CoA <-> Acetoacetyl-CoA + CoA
+ERG10_2 : 2 Acetyl-CoAM <-> AACCOAm + CoAM
+ERG11 : Lanosterol + Oxygen + Reduced flavoprotein -> 4,4-Dimethylcholesta-8,14,24-trienol + Oxidized flavoprotein
+ERG12_1 : (R)-Mevalonate + ATP -> (R)-5-Phosphomevalonate + ADP
+ERG12_2 : (R)-Mevalonate + CTP -> (R)-5-Phosphomevalonate + CDP
+ERG12_3 : (R)-Mevalonate + GTP -> (R)-5-Phosphomevalonate + GDP
+ERG12_4 : (R)-Mevalonate + UTP -> (R)-5-Phosphomevalonate + UDP
+ERG2 : Fecosterol -> Episterol
+ERG20_1 : Dimethylallyl diphosphate + Isopentenyl diphosphate -> Geranyl diphosphate + Pyrophosphate
+ERG20_2 : Geranyl diphosphate + Isopentenyl diphosphate -> Pyrophosphate + trans,trans-Farnesyl diphosphate
+ERG24 : 4,4-Dimethylcholesta-8,14,24-trienol + NADPH -> 4,4-Dimethylzymosterol + NADP+
+ERG25_1 : 4,4-Dimethylzymosterol + 3 Oxygen -> Intermediate_Methylzymosterol_I
+ERG25_2 : 4-Methylzymsterol + 3 Oxygen -> Intermediate_Zymosterol_I
+ERG26_1 : Intermediate_Methylzymosterol_I -> CO2 + Intermediate_Methylzymosterol_II
+ERG26_2 : Intermediate_Zymosterol_I -> CO2 + Intermediate_Zymosterol_II
+ERG3 : Episterol + NADPH + Oxygen -> Ergosta-5,7,24(28)-trienol + NADP+
+ERG4 : Ergosta-5,7,22,24(28)-tetraenol + NADPH -> Ergosterol + NADP+
+ERG5 : Ergosta-5,7,24(28)-trienol + NADPH + Oxygen -> Ergosta-5,7,22,24(28)-tetraenol + NADP+
+ERG6 : S-Adenosyl-L-methionine + Zymosterol -> Fecosterol + S-Adenosyl-L-homocysteine
+ERG7 : (S)-2,3-Epoxysqualene -> Lanosterol
+ERG8 : (R)-5-Phosphomevalonate + ATP -> (R)-5-Diphosphomevalonate + ADP
+ERG9 : NADPH + 2 trans,trans-Farnesyl diphosphate -> NADP+ + Squalene
+ERGOxtI : ERGOSTxtX -> ERGOSTxt
+ERGOxtO : ERGOSTxt <-> ERGOSTxtX
+ETHxtI : ETHxtX <-> ETHxt
+ETHxtO : ETHxt -> ETHxtX
+FAA1|FAA2|FAA3|FAA4 : ATP + CoA + a Long-chain carboxylic acid <-> AMP + Acyl-CoA + Pyrophosphate
+FAB1|MSS4 : 1-Phosphatidyl-1D-myo-inositol 4-phosphate + ATP -> 1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate + ADP
+FAD1 : ATP + FMN -> FAD + Pyrophosphate
+FAS1_1 : Acyl-carrier protein + Malonyl-CoA <-> CoA + Malonyl-[acyl-carrier protein]
+FAS1_2 : Acetyl-CoA + Acyl-carrier protein <-> Acyl-[acyl-carrier protein] + CoA
+FAS1_3 : (3R)-3-Hydroxypalmitoyl-[acyl-carrier protein] <-> Hexadecenoyl-[acp]
+FAS1_4 : Acyl-[acyl-carrier-protein] + NAD+ <-> 2,3-Dehydroacyl-[acyl-carrier-protein] + NADH
+FATP : ADP + Orthophosphate <-> ATP
+FBA1 : beta-D-Fructose 1,6-bisphosphate <-> D-Glyceraldehyde 3-phosphate + Glycerone phosphate
+FBP1 : beta-D-Fructose 1,6-bisphosphate -> Orthophosphate + beta-D-Fructose 6-phosphate
+FBP26 : D-Fructose 2,6-bisphosphate -> Orthophosphate + beta-D-Fructose 6-phosphate
+FCY1 : Cytosine -> NH3 + Uracil
+FCY21_1|FCY22_1|FCY2_1|YGL186C_1 : CYTSxt + H+EXT -> Cytosine
+FCY21_2|FCY22_2|FCY2_2|YGL186C_2 : ADxt + H+EXT -> Adenine
+FCY21_3|FCY22_3|FCY2_3|YGL186C_3 : GNxt + H+EXT <-> Guanine
+FDH1|YPL275W|YPL276W : Formate + NAD+ -> CO2 + NADH
+FEN2 : H+EXT + PNTOxt <-> (R)-Pantothenate
+FKS1|FKS3|GSC2 : UDPglucose -> 1,3-beta-D-Glucan + UDP
+FLX1 : FAD + FMNM -> FADM + FMN
+FMN1_1 : ATP + Riboflavin -> ADP + FMN
+FMN1_2 : ATPM + RiboflavinM -> ADPM + FMNM
+FMT1 : 10-FormyltetrahydrofolateM + L-Methionyl-tRNAM -> N-Formylmethionyl-tRNAM + TetrahydrofolateM
+FNADH : NAD+ <-> NADH
+FNADPH : NADP+ <-> NADPH
+FOL1_1 : 2-Amino-4-hydroxy-6-(D-erythro-1,2,3-trihydroxypropyl)-7,8-dihydropteridine -> 2-Amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine + Glycolaldehyde
+FOL1_2 : 2-Amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine + ATP -> 2-Amino-7,8-dihydro-4-hydroxy-6-(diphosphooxymethyl)pteridine + AMP
+FOL1_3 : 2-Amino-7,8-dihydro-4-hydroxy-6-(diphosphooxymethyl)pteridine + 4-Aminobenzoate -> Dihydropteroate + Pyrophosphate
+FOL1_4 : 2-Amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine + 4-Aminobenzoate -> Dihydropteroate
+FOL2 : GTP -> 2-Amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl)-dihydropteridine triphosphate + Formate
+FOL3|MET7|RMA1 : ATP + L-Glutamate + Tetrahydrofolate <-> ADP + Orthophosphate + Tetrahydrofolyl-[Glu](n)
+FORxtI : FORxtX <-> FORxt
+FORxtO : FORxt -> FORxtX
+FOX2 : (3S)-3-Hydroxyacyl-CoA + NAD+ <-> 3-Oxoacyl-CoA + NADH
+FPS1 : GLxt <-> Glycerol
+FRUxtI : FRUxtX <-> FRUxt
+FRUxtO : FRUxt -> FRUxtX
+FSP2_1|MAL12|MAL32|YGR287C|YIL172C|YJL216C : Maltose -> 2 alpha-D-Glucose
+FSP2_2 : D-Gal alpha 1 -> 6D-Glucose
+FUCxtI : FUCxtX <-> FUCxt
+FUCxtO : FUCxt -> FUCxtX
+FUI1_1|FUI1_2|FUI1_3 : H+EXT + URIxt -> Uridine
+FUM1_1 : FumarateM <-> MalateM
+FUM1_2 : Fumarate <-> Malate
+FUMxtI : FUMxtX <-> FUMxt
+FUMxtO : FUMxt -> FUMxtX
+FUN63|IMD3|IMD4|PUR5|YAR075W : IMP + NAD+ -> NADH + Xanthosine 5'-phosphate
+FUR1 : 5-Phospho-alpha-D-ribose 1-diphosphate + Uracil -> Pyrophosphate + UMP
+FUR4 : H+EXT + URAxt -> Uracil
+GA6PxtI : GA6PxtX <-> GA6Pxt
+GA6PxtO : GA6Pxt -> GA6PxtX
+GABAxtI : GABAxtX <-> GABAxt
+GABAxtO : GABAxt -> GABAxtX
+GAD1 : L-Glutamate -> 4-Aminobutanoate + CO2
+GAL1 : ATP + D-Galactose -> ADP + D-Galactose 1-phosphate
+GAL10 : UDP-D-galactose <-> UDPglucose
+GAL2_1|HXT10_1|HXT11_1|HXT11_2|HXT13_1|HXT15_1|HXT16_1|HXT17_1|HXT1_1|HXT2_1|HXT3_1|HXT4_1|HXT4_2|HXT5_1|HXT6_1|HXT7_1|HXT8_1|HXT9_1|STL1_1 : GLCxt -> alpha-D-Glucose
+GAL2_2|HXT10_2|HXT11_3|HXT14|HXT9_2|STL1_2 : GLACxt -> D-Galactose
+GAL7_1 : D-Galactose 1-phosphate + UTP <-> Pyrophosphate + UDP-D-galactose
+GAL7_2 : D-Galactose 1-phosphate + UDPglucose <-> D-Glucose 1-phosphate + UDP-D-galactose
+GALACxtI : GALACxtX <-> GALACxt
+GALACxtO : GALACxt -> GALACxtX
+GAP1_14|PUT4_3 : H+EXT + PROxt <-> L-Proline
+GAP1_20|LYP1 : H+EXT + LYSxt <-> L-Lysine
+GCV1_1 : GlycineM + NAD+M + TetrahydrofolateM -> 5,10-MethylenetetrahydrofolateM + CO2 + NADHM + NH3
+GCV1_2 : Glycine + NAD+ + Tetrahydrofolate -> 5,10-Methylenetetrahydrofolate + CO2 + NADH + NH3
+GCV2 : GlycineM + LipoamideM <-> CO2M + S-AminomethyldihydrolipoylproteinM
+GDH1|GDH3 : 2-Oxoglutarate + NADPH + NH3 -> L-Glutamate + NADP+
+GDH2 : L-Glutamate + NAD+ -> 2-Oxoglutarate + NADH + NH3
+GFA1 : L-Glutamine + beta-D-Fructose 6-phosphate -> D-Glucosamine 6-phosphate + L-Glutamate
+GL3PxtI : GL3PxtX <-> GL3Pxt
+GL3PxtO : GL3Pxt -> GL3PxtX
+GLACxtI : GLACxtX <-> GLACxt
+GLACxtO : GLACxt -> GLACxtX
+GLALxtI : GLALxtX <-> GLALxt
+GLALxtO : GLALxt -> GLALxtX
+GLAMxtI : GLAMxtX <-> GLAMxt
+GLAMxtO : GLAMxt -> GLAMxtX
+GLC3|GPH1 : Glycogen + Orthophosphate -> D-Glucose 1-phosphate
+GLCNxtI : GLCNxtX <-> GLCNxt
+GLCNxtO : GLCNxt -> GLCNxtX
+GLCxtI : GLCxtX -> GLCxt
+GLCxtO : GLCxt -> GLCxtX
+GLK1_1|HXK1_2|HXK2_2 : ATP + alpha-D-Glucose -> ADP + alpha-D-Glucose 6-phosphate
+GLK1_2|HXK1_3|HXK2_3 : ATP + alpha-D-Mannose -> ADP + D-Mannose 6-phosphate
+GLK1_3 : ATP + beta-D-Glucose -> ADP + beta-D-Glucose 6-phosphate
+GLN1 : ATP + L-Glutamate + NH3 -> ADP + L-Glutamine + Orthophosphate
+GLNxtI : GLNxtX <-> GLNxt
+GLNxtO : GLNxt -> GLNxtX
+GLO1 : Glutathione + Methylglyoxal <-> (R)-S-Lactoylglutathione
+GLO2 : (R)-S-Lactoylglutathione -> (R)-Lactate + Glutathione
+GLO4 : (R)-S-LactoylglutathioneM -> (R)-LactateM + GlutathioneM
+GLR1 : NADPH + Oxidized glutathione -> Glutathione + NADP+
+GLT1 : 2-Oxoglutarate + L-Glutamine + NADH -> 2 L-Glutamate + NAD+
+GLTLxtI : GLTLxtX <-> GLTLxt
+GLTLxtO : GLTLxt -> GLTLxtX
+GLTxtI : GLTxtX <-> GLTxt
+GLTxtO : GLTxt -> GLTxtX
+GLUxtI : GLUxtX <-> GLUxt
+GLUxtO : GLUxt -> GLUxtX
+GLY1_test : L-Threonine -> Acetaldehyde + Glycine
+GLYxtI : GLYxtX <-> GLYxt
+GLYxtO : GLYxt -> GLYxtX
+GLxtI : GLxtX <-> GLxt
+GLxtO : GLxt -> GLxtX
+GNA1 : Acetyl-CoA + D-Glucosamine 6-phosphate <-> CoA + N-Acetyl-D-glucosamine 6-phosphate
+GND1|GND2 : 6-Phospho-D-gluconate + NADP+ -> CO2 + D-Ribulose 5-phosphate + NADPH
+GNxtI : GNxtX <-> GNxt
+GNxtO : GNxt -> GNxtX
+GPD1|GPD2 : Glycerone phosphate + NADH -> NAD+ + sn-Glycerol 3-phosphate
+GPM1_1 : 3-Phospho-D-glyceroyl phosphate <-> 2,3-Bisphospho-D-glycerate
+GPM1_2|GPM2|GPM3 : 3-Phospho-D-glycerate <-> 2-Phospho-D-glycerate
+GPX1|GPX2|HYR1 : 2 Glutathione + H2O2 <-> Oxidized glutathione
+GSH1 : ATP + L-Cysteine + L-Glutamate -> ADP + Orthophosphate + gamma-L-Glutamyl-L-cysteine
+GSH2 : ATP + Glycine + gamma-L-Glutamyl-L-cysteine -> ADP + Glutathione + Orthophosphate
+GSNxtI : GSNxtX <-> GSNxt
+GSNxtO : GSNxt -> GSNxtX
+GSY1|GSY2 : UDPglucose -> Glycogen + UDP
+GUA1 : ATP + L-Glutamine + Xanthosine 5'-phosphate -> AMP + GMP + L-Glutamate + Pyrophosphate
+GUK1_1 : ATP + GMP <-> ADP + GDP
+GUK1_2 : ATP + dGMP <-> ADP + dGDP
+GUK1_3 : GMP + dATP <-> GDP + dADP
+GULTxtI : GULTxtX <-> GULTxt
+GULTxtO : GULTxt -> GULTxtX
+GUT1 : ATP + Glycerol -> ADP + sn-Glycerol 3-phosphate
+GUT2 : FADM + sn-Glycerol 3-phosphate -> FADH2M + Glycerone phosphate
+Growth : Biomass -> BMxt
+HEM1 : GlycineM + Succinyl-CoAM -> 5-AminolevulinateM + CO2M + CoAM
+HEM12 : Uroporphyrinogen III -> 4 CO2 + Coproporphyrinogen
+HEM13 : Coproporphyrinogen + Oxygen -> 2 CO2 + Protoporphyrinogen IX
+HEM14 : Oxygen + Protoporphyrinogen IXM -> ProtoporphyrinM
+HEM15 : ProtoporphyrinM -> HemeM
+HEM2 : 2 5-Aminolevulinate -> Porphobilinogen
+HEM3 : 4 Porphobilinogen -> Hydroxymethylbilane + 4 NH3
+HEM4 : Hydroxymethylbilane -> Uroporphyrinogen III
+HIS1 : 5-Phospho-alpha-D-ribose 1-diphosphate + ATP -> N1-(5-Phospho-D-ribosyl)-ATP + Pyrophosphate
+HIS2 : L-Histidinol phosphate -> L-Histidinol + Orthophosphate
+HIS3 : D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate -> 3-(Imidazol-4-yl)-2-oxopropyl phosphate
+HIS4_1 : N1-(5-Phospho-D-ribosyl)-ATP -> N1-(5-Phospho-D-ribosyl)-AMP + Pyrophosphate
+HIS4_2 : N1-(5-Phospho-D-ribosyl)-AMP -> 5-(5-Phospho-D-ribosylaminoformimino)-1-(5-phosphoribosyl)-imidazole-4-carboxamide
+HIS4_3 : L-Histidinol + 2 NAD+ -> L-Histidine + 2 NADH
+HIS5 : 3-(Imidazol-4-yl)-2-oxopropyl phosphate + L-Glutamate -> 2-Oxoglutarate + L-Histidinol phosphate
+HIS6 : 5-(5-Phospho-D-ribosylaminoformimino)-1-(5-phosphoribosyl)-imidazole-4-carboxamide -> "N-(5'-Phospho-D-1'-ribulosylformimino)-5-amino-1-(5""-phospho-D-ribosyl)-4-imidazolecarboxamide"
+HIS7 : "N-(5'-Phospho-D-1'-ribulosylformimino)-5-amino-1-(5""-phospho-D-ribosyl)-4-imidazolecarboxamide" + L-Glutamine -> 1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide + D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate + L-Glutamate
+HISxtI : HISxtX <-> HISxt
+HISxtO : HISxt -> HISxtX
+HMG1|HMG2 : (R)-Mevalonate + CoA + 2 NADP+ <-> (S)-3-Hydroxy-3-methylglutaryl-CoA + 2 NADPH
+HMGS : (S)-3-Hydroxy-3-methylglutaryl-CoA + CoA <-> Acetoacetyl-CoA + Acetyl-CoA
+HMT1 : L-Histidine + S-Adenosyl-L-methionine -> N(pai)-Methyl-L-histidine + S-Adenosyl-L-homocysteine
+HNM1 : CHOxt + H+EXT -> Choline
+HOM2 : 4-Phospho-L-aspartate + NADPH -> L-Aspartate 4-semialdehyde + NADP+ + Orthophosphate
+HOM3 : ATP + L-Aspartate -> 4-Phospho-L-aspartate + ADP
+HOM6_1 : L-Aspartate 4-semialdehyde + NADH -> L-Homoserine + NAD+
+HOM6_2 : L-Aspartate 4-semialdehyde + NADPH -> L-Homoserine + NADP+
+HOR2|RHR2 : sn-Glycerol 3-phosphate -> Glycerol + Orthophosphate
+HPT1_1 : 5-Phospho-alpha-D-ribose 1-diphosphate + HYXN -> IMP + Pyrophosphate
+HPT1_2 : 5-Phospho-alpha-D-ribose 1-diphosphate + Guanine -> GMP + Pyrophosphate
+HTS1 : ATP + L-Histidine + tRNA(His) -> AMP + L-Histidyl-tRNA(His) + Pyrophosphate
+HXK1_1|HXK2_1 : ATP + beta-D-Glucose -> ADP + alpha-D-Glucose 6-phosphate
+HXK1_4|HXK2_4 : ATP + D-Fructose -> ADP + beta-D-Fructose 6-phosphate
+HXT10_3|HXT11_4|HXT13_2|HXT15_2|HXT16_2|HXT17_2|HXT1_2|HXT2_2|HXT3_2|HXT4_3|HXT5_2|HXT6_2|HXT7_2|HXT8_2|HXT9_3 : FRUxt -> D-Fructose
+HXT10_4|HXT11_5|HXT13_3|HXT15_3|HXT16_3|HXT17_3|HXT1_3|HXT2_3|HXT3_3|HXT4_4|HXT5_3|HXT6_3|HXT7_3|HXT8_3|HXT9_4 : MANxt -> alpha-D-Mannose
+HYXNxtI : HYXNxtX <-> HYXNxt
+HYXNxtO : HYXNxt -> HYXNxtX
+ICL1|ICL2 : Isocitrate -> Glyoxylate + Succinate
+IDH1 : IsocitrateM + NAD+M -> 2-OxoglutarateM + CO2M + NADHM
+IDI1 : Isopentenyl diphosphate <-> Dimethylallyl diphosphate
+IDP1_1 : IsocitrateM + NADP+M -> NADPHM + OxalosuccinateM
+IDP1_2 : OxalosuccinateM -> 2-OxoglutarateM + CO2M
+IDP2_1|IDP3_1 : Isocitrate + NADP+ -> NADPH + Oxalosuccinate
+IDP2_2|IDP3_2 : Oxalosuccinate -> 2-Oxoglutarate + CO2
+ILExtI : ILExtX <-> ILExt
+ILExtO : ILExt -> ILExtX
+ILV1 : L-ThreonineM -> 2-OxobutanoateM + NH3M
+ILV2_1 : 2-OxobutanoateM + PyruvateM -> 2-Aceto-2-hydroxy butyrateM + CO2M
+ILV2_2 : 2 PyruvateM -> 2-AcetolactateM + CO2M
+ILV3_1 : (R)-3-Hydroxy-3-methyl-2-oxobutanoateM -> (R)-2-OxoisovalerateM
+ILV3_2 : (R)-2,3-dihydroxy-3-methylbutanoateM -> 3-Methyl-2-oxobutanoateM
+ILV5_1 : 2-AcetolactateM + NADPHM -> (R)-3-Hydroxy-3-methyl-2-oxobutanoateM + NADP+M
+ILV5_2 : 2-Aceto-2-hydroxy butyrateM + NADPHM -> (R)-2,3-dihydroxy-3-methylbutanoateM + NADP+M
+ILV5_3 : 2-DehydropantoateM + NADPHM -> (R)-PantoateM + NADP+M
+INM1 : 1L-myo-Inositol 1-phosphate -> Orthophosphate + myo-Inositol
+INO1 : alpha-D-Glucose 6-phosphate -> 1L-myo-Inositol 1-phosphate
+INSxtI : INSxtX <-> INSxt
+INSxtO : INSxt -> INSxtX
+IPP1 : Pyrophosphate -> 2 Orthophosphate
+IPT1 : 1-Phosphatidyl-D-myo-inositol + Mannose-inositol-P-ceramide -> Inositol-mannose-P-inositol-P-ceramide
+ITR1|ITR2 : H+EXT + MIxt -> myo-Inositol
+JEN1_1 : H+EXT + LACxt <-> (R)-Lactate
+JEN1_2 : H+EXT + PYRxt <-> Pyruvate
+KGD1 : 2-OxoglutarateM + CoAM + NAD+M -> CO2M + NADHM + Succinyl-CoAM
+KRE2|KTR1|KTR2|KTR3|KTR4|KTR6|YUR1 : 2 GDPmannose + beta-D-Mannosyldiacetylchitobiosyldiphosphodolichol -> "(""alpha""-D-mannosyl)(,2)-""beta""-D-mannosyl-diacetylchitobiosyldiphosphod olichol" + 2 GDP
+KRS1 : ATP + L-Lysine + tRNA(Lys) -> AMP + L-lysyl-tRNA(Lys) + Pyrophosphate
+KxtI : KxtX -> Kxt
+KxtO : Kxt <-> KxtX
+LACxtI : LACxtX <-> LACxt
+LACxtO : LACxt -> LACxtX
+LCB1|LCB2 : L-Serine + Palmitoyl-CoA -> 3-Dehydrosphinganine + CO2 + CoA
+LCB3|YSR3 : Sphinganine 1-phosphate -> Orthophosphate + Sphinganine
+LCB4_1|LCB5_1 : ATP + Sphinganine -> ADP + Sphinganine 1-phosphate
+LCB4_2|LCB5_2 : ATP + Phytosphingosine -> ADP + Phytosphingosine 1-phosphate
+LEU1_1 : 3-Isopropylmalate <-> 2-Isopropylmalate
+LEU1_2 : 2-Isopropylmaleate <-> 2-Isopropylmalate
+LEU2 : 2-Isopropylmalate + NAD+ -> 3-Carboxy-4-methyl-2-oxopentanoate + CO2 + NADH
+LEU4 : (R)-2-OxoisovalerateM + Acetyl-CoAM -> 2-IsopropylmalateM + CoAM
+LEUxtI : LEUxtX <-> LEUxt
+LEUxtO : LEUxt -> LEUxtX
+LPP1 : Diacylglycerol pyrophosphate -> Orthophosphate + Phosphatidate
+LSC1 : ADPM + Itaconyl-CoAM + OrthophosphateM <-> ATPM + CoAM + ItaconateM
+LSC2 : ADPM + OrthophosphateM + Succinyl-CoAM <-> ATPM + CoAM + SuccinateM
+LYS1 : N6-(L-1,3-Dicarboxypropyl)-L-lysine + NAD+ <-> 2-Oxoglutarate + L-Lysine + NADH
+LYS12 : HomoisocitrateM + NAD+M <-> CO2M + NADHM + OxaloglutarateM
+LYS20_1|LYS21 : 2-Oxoglutarate + Acetyl-CoA -> 2-Hydroxybutane-1,2,4-tricarboxylate + CoA
+LYS20_2 : 2-OxoglutarateM + Acetyl-CoAM -> 2-Hydroxybutane-1,2,4-tricarboxylateM + CoAM
+LYS2_1 : ATP + L-2-Aminoadipate + NADPH -> AMP + L-2-Aminoadipate 6-semialdehyde + NADP+ + Pyrophosphate
+LYS2_2 : ATP + L-2-Aminoadipate + NADH -> AMP + L-2-Aminoadipate 6-semialdehyde + NAD+ + Pyrophosphate
+LYS4 : HomoisocitrateM <-> But-1-ene-1,2,4-tricarboxylateM
+LYS9 : L-2-Aminoadipate 6-semialdehyde + L-Glutamate + NADPH <-> N6-(L-1,3-Dicarboxypropyl)-L-lysine + NADP+
+LYSxtI : LYSxtX <-> LYSxt
+LYSxtO : LYSxt -> LYSxtX
+MAE1 : MalateM + NADP+M -> CO2M + NADPHM + PyruvateM
+MAL31 : H+EXT + MALxt <-> Malate
+MALxtI : MALxtX <-> MALxt
+MALxtO : MALxt -> MALxtX
+MANNxtI : MANNxtX <-> MANNxt
+MANNxtO : MANNxt -> MANNxtX
+MANxtI : MANxtX <-> MANxt
+MANxtO : MANxt -> MANxtX
+MDAPxtI : MDAPxtX <-> MDAPxt
+MDAPxtO : MDAPxt -> MDAPxtX
+MDH1 : MalateM + NAD+M -> NADHM + OxaloacetateM
+MDH2|MDH3 : Malate + NAD+ <-> NADH + Oxaloacetate
+MELIxtI : MELIxtX <-> MELIxt
+MELIxtO : MELIxt -> MELIxtX
+MEP1|MEP2|MEP3 : NH3xt <-> NH3
+MET1 : S-Adenosyl-L-methionine + Uroporphyrinogen III -> S-Adenosyl-L-homocysteine + Sirohydrochlorin
+MET12|MET13 : 5,10-MethylenetetrahydrofolateM + NADPHM -> 5-MethyltetrahydrofolateM + NADP+M
+MET14 : ATP + Adenylylsulfate -> 3'-Phosphoadenylylsulfate + ADP
+MET16 : 3'-Phosphoadenylylsulfate + Reduced thioredoxin -> Adenosine 3',5'-bisphosphate + Oxidized thioredoxin + Sulfite
+MET17_1 : Methanethiol + O-Acetyl-L-homoserine -> Acetate + L-Methionine
+MET17_2|MET17_3 : Hydrogen sulfide + O-Acetyl-L-homoserine -> Acetate + Homocysteine
+MET2 : Acetyl-CoA + L-Homoserine <-> CoA + O-Acetyl-L-homoserine
+MET22 : Adenosine 3',5'-bisphosphate -> AMP + Orthophosphate
+MET3 : ATP + Sulfate -> Adenylylsulfate + Pyrophosphate
+MET6 : 5-Methyltetrahydropteroyltri-L-glutamate + Homocysteine -> L-Methionine + Tetrahydropteroyltri-L-glutamate
+METxtI : METxtX <-> METxt
+METxtO : METxt -> METxtX
+MHT1|SAM4 : Homocysteine + S-Adenosyl-L-methionine -> L-Methionine + S-Adenosyl-L-homocysteine
+MIR1 : Orthophosphate <-> H+M + OrthophosphateM
+MIS1_1 : 5,10-MethylenetetrahydrofolateM + NADP+M <-> 5,10-MethenyltetrahydrofolateM + NADPHM
+MIS1_2 : ATPM + FormateM + TetrahydrofolateM -> 10-FormyltetrahydrofolateM + ADPM + OrthophosphateM
+MIS1_3 : 5,10-MethenyltetrahydrofolateM <-> 10-FormyltetrahydrofolateM
+MIxtI : MIxtX <-> MIxt
+MIxtO : MIxt -> MIxtX
+MKxtI : MKxtX <-> MKxt
+MKxtO : MKxt -> MKxtX
+MLTxtI : MLTxtX <-> MLTxt
+MLTxtO : MLTxt -> MLTxtX
+MMETxtI : MMETxtX <-> MMETxt
+MMETxtO : MMETxt -> MMETxtX
+MMP1 : H+EXT + MMETxt -> S-Methylmethionine
+MNTxtI : MNTxtX <-> MNTxt
+MNTxtO : MNTxt -> MNTxtX
+MSE1 : ATPM + GlutamateM -> AMPM + L-Glutamyl-tRNA(Glu)M + PyrophosphateM
+MSK1 : ATPM + L-LysineM + tRNA(Lys)M -> AMPM + L-lysyl-tRNA(Lys)M + PyrophosphateM
+MSR1|YDR341C : ATP + L-Arginine + tRNA(Arg) -> AMP + L-Arginyl-tRNA(Arg) + Pyrophosphate
+MSW1 : ATPM + L-TryptophanM + tRNAM -> AMPM + L-Tryptophanyl-tRNA(Trp)M + PyrophosphateM
+MTD1 : 5,10-Methylenetetrahydrofolate + NAD+ -> 5,10-Methenyltetrahydrofolate + NADH
+MTHNxtI : MTHNxtX <-> MTHNxt
+MTHNxtO : MTHNxt -> MTHNxtX
+MUQ1 : CTP + Ethanolamine phosphate -> CDPethanolamine + Pyrophosphate
+MVD1 : (R)-5-Diphosphomevalonate + ATP -> ADP + CO2 + Isopentenyl diphosphate + Orthophosphate
+MVLxtI : MVLxtX <-> MVLxt
+MVLxtO : MVLxt -> MVLxtX
+NAT1|NAT2 : Acetyl-CoA + Peptide -> CoA + Nalpha-Acetylpeptide
+NAxtI : NAxtX <-> NAxt
+NAxtO : NAxt -> NAxtX
+NCP1 : 2 Ferricytochrome cM + NADPH -> 2 Ferrocytochrome cM + NADP+
+NDH1|NDH2 : NADH + Ubiquinone-9M -> NAD+ + UbiquinolM
+NH3xtI : NH3xtX -> NH3xt
+NH3xtO : NH3xt <-> NH3xtX
+NHA1 : NAxt <-> H+EXT + Sodium
+NIT2_1 : 3-Indoleacetonitrile -> Indoleacetate + NH3
+NIT2_2 : alpha-Aminopropiononitrile -> L-Alanine + NH3
+NIT2_3 : gamma-Amino-gamma-cyanobutanoate -> L-Glutamate + NH3
+NMNxtI : NMNxtX <-> NMNxt
+NMNxtO : NMNxt -> NMNxtX
+NMT1 : Glycylpeptide + Tetradecanoyl-CoA -> CoA + N-Tetradecanoylglycylpeptide
+NPT1_1 : 5-Phospho-alpha-D-ribose 1-diphosphate + Nicotinate -> Nicotinate D-ribonucleotide + Pyrophosphate
+NPT1_2 : 5-Phospho-alpha-D-ribose 1-diphosphateM + NicotinateM -> Nicotinate D-ribonucleotideM + PyrophosphateM
+O2xtI : O2xtX -> O2xt
+O2xtO : O2xt <-> O2xtX
+OAC1 : Oxaloacetate <-> H+M + OxaloacetateM
+ODC1|ODC2 : 2-OxoglutarateM + Oxaloglutarate <-> 2-Oxoglutarate + OxaloglutarateM
+OGTxtI : OGTxtX <-> OGTxt
+OGTxtO : OGTxt -> OGTxtX
+OPEPxtI : OPEPxtX <-> OPEPxt
+OPEPxtO : OPEPxt -> OPEPxtX
+OPI3_1 : Phosphatidyl-N-methylethanolamine + S-Adenosyl-L-methionine -> Phosphatidyl-N-dimethylethanolamine + S-Adenosyl-L-homocysteine
+OPI3_2 : Phosphatidyl-N-dimethylethanolamine + S-Adenosyl-L-methionine -> Phosphatidylcholine + S-Adenosyl-L-homocysteine
+ORNxtI : ORNxtX <-> ORNxt
+ORNxtO : ORNxt -> ORNxtX
+ORT1 : H+M + L-Ornithine <-> L-OrnithineM
+OSM1 : FADH2M + FumarateM -> FADM + SuccinateM
+PAD1 : 3-Nonaprenyl-4-hydroxybenzoate -> 2-Nonaprenylphenol + CO2
+PAN5 : 2-Dehydropantoate + NADPH -> (R)-Pantoate + NADP+
+PAPxtI : PAPxtX <-> PAPxt
+PAPxtO : PAPxt -> PAPxtX
+PCK1 : ATP + Oxaloacetate -> ADP + CO2 + Phosphoenolpyruvate
+PCM1_1 : N-Acetyl-D-glucosamine 1-phosphate <-> N-Acetyl-D-glucosamine 6-phosphate
+PCM1_2 : D-Glucosamine 6-phosphate <-> D-Glucosamine 1-phosphate
+PCT1 : CTP + Choline phosphate -> CDPcholine + Pyrophosphate
+PDA1 : CoAM + NAD+M + PyruvateM -> Acetyl-CoAM + CO2M + NADHM
+PDC1|PDC5|PDC6 : Pyruvate -> Acetaldehyde + CO2
+PDE1|PDE2_1 : 3',5'-Cyclic AMP -> AMP
+PDE2_2 : 3',5'-Cyclic dAMP -> dAMP
+PDE2_3 : 3',5'-Cyclic IMP -> IMP
+PDE2_4 : 3',5'-Cyclic GMP -> GMP
+PDE2_5 : 3',5'-Cyclic CMP -> CMP
+PDX3_1|PDX3_5 : Oxygen + Pyridoxamine phosphate -> H2O2 + NH3 + Pyridoxal phosphate
+PDX3_2 : Oxygen + Pyridoxine phosphate <-> H2O2 + Pyridoxal phosphate
+PDX3_3 : Oxygen + Pyridoxine <-> H2O2 + Pyridoxal
+PDX3_4 : NH3 + Oxygen + Pyridoxal <-> H2O2 + Pyridoxamine
+PEPTxtI : PEPTxtX <-> PEPTxt
+PEPTxtO : PEPTxt -> PEPTxtX
+PFK1_1|PFK2 : ATP + beta-D-Fructose 6-phosphate -> ADP + beta-D-Fructose 1,6-bisphosphate
+PFK1_2 : ATP + D-Tagatose 6-phosphate -> ADP + D-Tagatose 1,6-bisphosphate
+PFK1_3 : ATP + Sedoheptulose 7-phosphate -> ADP + Sedoheptulose 1,7-bisphosphate
+PFK26|PFK27 : ATP + beta-D-Fructose 6-phosphate -> ADP + D-Fructose 2,6-bisphosphate
+PGI1_1 : alpha-D-Glucose 6-phosphate <-> beta-D-Fructose 6-phosphate
+PGI1_2 : alpha-D-Glucose 6-phosphate <-> beta-D-Glucose 6-phosphate
+PGI1_3 : beta-D-Glucose 6-phosphate <-> beta-D-Fructose 6-phosphate
+PGK1 : 3-Phospho-D-glyceroyl phosphate + ADP <-> 3-Phospho-D-glycerate + ATP
+PGM1_1|PGM2_1 : D-Ribose 1-phosphate <-> D-Ribose 5-phosphate
+PGM1_2|PGM2_2 : D-Glucose 1-phosphate <-> alpha-D-Glucose 6-phosphate
+PGS1 : CDPdiacylglycerolM + sn-Glycerol 3-phosphateM <-> CMPM + PhosphatidylglycerophosphateM
+PHA2 : Prephenate -> CO2 + Phenylpyruvate
+PHExtI : PHExtX <-> PHExt
+PHExtO : PHExt -> PHExtX
+PHO11 : FMN -> Orthophosphate + Riboflavin
+PHO8 : 2-Amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl)-dihydropteridine triphosphate -> 2-Amino-4-hydroxy-6-(D-erythro-1,2,3-trihydroxypropyl)-7,8-dihydropteridine + 3 Orthophosphate
+PHO84 : H+EXT + PIxt <-> Orthophosphate
+PIK1|STT4 : 1-Phosphatidyl-D-myo-inositol + ATP -> 1-Phosphatidyl-1D-myo-inositol 4-phosphate + ADP
+PIMExtI : PIMExtX <-> PIMExt
+PIMExtO : PIMExt -> PIMExtX
+PIS1 : CDPdiacylglycerol + myo-Inositol -> 1-Phosphatidyl-D-myo-inositol + CMP
+PIxtI : PIxtX -> PIxt
+PIxtO : PIxt -> PIxtX
+PLC1 : 1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate -> D-myo-inositol 1,4,5-trisphosphate + Diacylglycerol
+PMA1|PMA2|PMP1|PMP2 : ATP -> ADP + H+EXT + Orthophosphate
+PMI40 : D-Mannose 6-phosphate <-> beta-D-Fructose 6-phosphate
+PMT1|PMT2|PMT3|PMT4|PMT5|PMT6 : Dolichyl beta-D-mannosyl phosphate -> Dolichyl phosphate + Mannan
+PNC1_1 : Nicotinamide <-> NH3 + Nicotinate
+PNC1_2 : NicotinamideM <-> NH3M + NicotinateM
+PNP1_1 : Deoxyuridine + Orthophosphate <-> Deoxy-ribose 1-phosphate + Uracil
+PNP1_10 : AdenonsineM + OrthophosphateM <-> AdenineM + alpha-D-Ribose 1-phosphateM
+PNP1_11 : GuanosineM + OrthophosphateM <-> GuanineM + alpha-D-Ribose 1-phosphateM
+PNP1_2 : Orthophosphate + Thymidine <-> Deoxy-ribose 1-phosphate + Thymine
+PNP1_3 : Deoxyinosine + Orthophosphate <-> Deoxy-ribose 1-phosphate + HYXN
+PNP1_4 : Deoxyadenosine + Orthophosphate <-> Adenine + Deoxy-ribose 1-phosphate
+PNP1_5 : Deoxyguanosine + Orthophosphate <-> Deoxy-ribose 1-phosphate + Guanine
+PNP1_6 : D-Ribose 1-phosphate + HYXN <-> Inosine + Orthophosphate
+PNP1_7 : Adenine + D-Ribose 1-phosphate <-> Adenosine + Orthophosphate
+PNP1_8 : D-Ribose 1-phosphate + Guanine <-> Guanosine + Orthophosphate
+PNP1_9 : D-Ribose 1-phosphate + Xanthine <-> Orthophosphate + Xanthosine
+PNTOxtI : PNTOxtX <-> PNTOxt
+PNTOxtO : PNTOxt -> PNTOxtX
+POS5_1|UTR1_1|YEL041W_1 : ATP + NAD+ -> ADP + NADP+
+POS5_2|UTR1_2|YEL041W_2 : ATPM + NAD+M -> ADPM + NADP+M
+POT1 : 3-Oxoacyl-CoA + CoA -> Acetyl-CoA + Acyl-CoA
+POX1/FOX2/POT3_1 : ATP + 7 CoA + 7 FADM + Myristic acid + 7 NAD+ -> AMP + 7 Acetyl-CoA + 7 FADH2M + 7 NADH + Pyrophosphate
+POX1/FOX2/POT3_2 : ATP + 8 CoA + 8 FADM + 8 NAD+ + Palmitate -> AMP + 8 Acetyl-CoA + 8 FADH2M + 8 NADH + Pyrophosphate
+POX1/FOX2/POT3_3 : ATP + 9 CoA + 9 FADM + 9 NAD+ + Stearate -> AMP + 9 Acetyl-CoA + 9 FADH2M + 9 NADH + Pyrophosphate
+PPA2 : PyrophosphateM -> 2 OrthophosphateM
+PPT2 : CoA -> Acyl-carrier protein + Adenosine 3',5'-bisphosphate
+PRO1 : ATP + L-Glutamate -> ADP + alpha-D-Glutamyl phosphate
+PRO2_1 : NADH + alpha-D-Glutamyl phosphate -> L-Glutamate 5-semialdehyde + NAD+ + Orthophosphate
+PRO2_2 : NADPH + alpha-D-Glutamyl phosphate -> L-Glutamate 5-semialdehyde + NADP+ + Orthophosphate
+PRO3_1 : (S)-1-Pyrroline-5-carboxylate + NADPH -> L-Proline + NADP+
+PRO3_2 : L-1-Pyrroline-3-hydroxy-5-carboxylate + NADPH -> NADP+ + trans-4-Hydroxy-L-proline
+PRO3_3 : L-1-Pyrroline-3-hydroxy-5-carboxylate + NADH -> NAD+ + trans-4-Hydroxy-L-proline
+PROxtI : PROxtX <-> PROxt
+PROxtO : PROxt -> PROxtX
+PRS1|PRS2|PRS3|PRS4|PRS5 : ATP + D-Ribose 5-phosphate <-> 5-Phospho-alpha-D-ribose 1-diphosphate + AMP
+PSA1 : GTP + alpha-D-Mannose 1-phosphate -> GDPmannose + Pyrophosphate
+PSD1 : PhosphatidylserineM -> CO2M + PhosphatidylethanolamineM
+PSD2 : Phosphatidylserine -> CO2 + Phosphatidylethanolamine
+PTR2_1 : DIPEPxt + H+EXT -> Dipeptide
+PTR2_2 : H+EXT + OPEPxt -> Oligopeptide
+PTR2_3 : H+EXT + PEPTxt -> Peptide
+PTRCxtI : PTRCxtX <-> PTRCxt
+PTRCxtO : PTRCxt -> PTRCxtX
+PUT1 : L-ProlineM + NAD+M -> (S)-1-Pyrroline-5-carboxylateM + NADHM
+PUT2 : L-Glutamate 5-semialdehydeM + NADP+M -> GlutamateM + NADPHM
+PUT4_4|UGA4_1 : GABAxt + H+EXT -> 4-Aminobutanoate
+PYC1|PYC2 : ATP + CO2 + Pyruvate -> ADP + Orthophosphate + Oxaloacetate
+PYRD : (S)-Dihydroorotate + Ubiquinone-9M <-> Orotate + UbiquinolM
+PYRDXxtI : PYRDXxtX <-> PYRDXxt
+PYRDXxtO : PYRDXxt -> PYRDXxtX
+PYRxtI : PYRxtX <-> PYRxt
+PYRxtO : PYRxt -> PYRxtX
+QNS1_1 : ATP + Deamino-NAD+ + NH3 -> AMP + NAD+ + Pyrophosphate
+QNS1_2 : ATPM + Deamino-NAD+M + NH3M -> AMPM + NAD+M + PyrophosphateM
+QPT1_1 : 5-Phospho-alpha-D-ribose 1-diphosphate + Pyridine-2,3-dicarboxylate -> CO2 + Nicotinate D-ribonucleotide + Pyrophosphate
+QPT1_2 : 5-Phospho-alpha-D-ribose 1-diphosphateM + Pyridine-2,3-dicarboxylateM -> CO2M + Nicotinate D-ribonucleotideM + PyrophosphateM
+QRI1 : N-Acetyl-D-glucosamine 1-phosphate + UTP <-> Pyrophosphate + UDP-N-acetyl-D-galactosamine
+RBK1_1 : ATP + D-Ribose -> ADP + D-Ribose 5-phosphate
+RBK1_2 : ATP + Deoxyribose -> 2-Deoxy-D-ribose 5-phosphate + ADP
+RFLAVxtI : RFLAVxtX <-> RFLAVxt
+RFLAVxtO : RFLAVxt -> RFLAVxtX
+RIB1 : GTP -> 2,5-Diamino-6-hydroxy-4-(5'-phosphoribosylamino)-pyrimidine + Formate + Pyrophosphate
+RIB5 : 4 5-Amino-6-ribitylamino-2,(1H, 3H)-pyrimidinedione + L-3,4-Dihydroxy-2-butanone 4-phosphate -> 6,7-Dimethyl-8-(1-D-ribityl)lumazine + Orthophosphate
+RIB7_1 : 2,5-Diamino-6-hydroxy-4-(5'-phosphoribosylamino)-pyrimidine -> 5-Amino-6-(5'-phosphoribosylamino)uracil + NH3
+RIB7_2 : 5-Amino-6-(5'-phosphoribosylamino)uracil + NADPH -> 5-Amino-6-(5'-phosphoribitylamino)uracil + NADP+
+RIBxtI : RIBxtX <-> RIBxt
+RIBxtO : RIBxt -> RIBxtX
+RIP1 : 2 Ferricytochrome cM + 1.5 H+M + UbiquinolM -> 2 Ferrocytochrome cM + Ubiquinone-9M
+RKI1 : D-Ribulose 5-phosphate -> D-Ribose 5-phosphate
+RMNxtI : RMNxtX <-> RMNxt
+RMNxtO : RMNxt -> RMNxtX
+RNR1_1|RNR3 : ADP + Reduced thioredoxin -> Oxidized thioredoxin + dADP
+RNR1_2 : GDP + Reduced thioredoxin -> Oxidized thioredoxin + dGDP
+RNR1_3 : CDP + Reduced thioredoxin -> Oxidized thioredoxin + dCDP
+RNR1_4 : Reduced thioredoxin + UDP -> Oxidized thioredoxin + dUDP
+RPE1 : D-Ribulose 5-phosphate -> D-Xylose-5-phosphate
+SAH1 : S-Adenosyl-L-homocysteine -> Adenosine + Homocysteine
+SAM1|SAM2 : ATP + L-Methionine -> Orthophosphate + Pyrophosphate + S-Adenosyl-L-methionine
+SAM3 : H+EXT + SAMxt -> S-Adenosyl-L-methionine
+SAMxtI : SAMxtX <-> SAMxt
+SAMxtO : SAMxt -> SAMxtX
+SCS7 : Ceramide-2 + NADPH + Oxygen -> Ceramide-3 + NADP+
+SDH3_1 : FADM + SuccinateM <-> FADH2M + FumarateM
+SDH3_2 : FADH2M + Ubiquinone-9M <-> FADM + UbiquinolM
+SEC53 : D-Mannose 6-phosphate <-> alpha-D-Mannose 1-phosphate
+SEC59 : CTP + Dolichol -> CDP + Dolichyl phosphate
+SER1_1 : 3-Phosphonooxypyruvate + L-Glutamate -> 2-Oxoglutarate + 3-Phosphoserine
+SER1_2 : 2-Oxo-3-hydroxy-4-phosphobutanoate + L-Glutamate <-> 2-Oxoglutarate + O-Phospho-4-hydroxy-L-threonine
+SER2 : 3-Phosphoserine -> L-Serine + Orthophosphate
+SER3|SER33 : 3-Phospho-D-glycerate + NAD+ -> 3-Phosphonooxypyruvate + NADH
+SERxtI : SERxtX <-> SERxt
+SERxtO : SERxt -> SERxtX
+SFA1_1 : Formaldehyde + Glutathione + NAD+ <-> NADH + S-Formylglutathione
+SFC1 : FumarateM + Succinate -> Fumarate + SuccinateM
+SHM1 : L-SerineM + TetrahydrofolateM <-> 5,10-MethylenetetrahydrofolateM + GlycineM
+SHM2 : L-Serine + Tetrahydrofolate <-> 5,10-Methylenetetrahydrofolate + Glycine
+SLAxtI : SLAxtX <-> SLAxt
+SLAxtO : SLAxt -> SLAxtX
+SLC1|U8_ : Acyl-sn-glycerol 3-phosphate + 0.017 Decanoyl-[acp] + 0.062 Dodecanoyl-[acyl-carrier protein] + 0.27 Hexadecanoyl-[acp] + 0.093 Linolenoyl-[acyl-carrier protein] + 0.1 Myristoyl-[acyl-carrier protein] + 0.235 Oleoyl-[acyl-carrier protein] + 0.169 Palmitoyl-[acyl-carrier protein] + 0.055 Stearoyl-[acyl-carrier protein] -> Acyl-carrier protein + Phosphatidate
+SLFxtI : SLFxtX -> SLFxt
+SLFxtO : SLFxt <-> SLFxtX
+SOL1|SOL2|SOL3|SOL4 : D-Glucono-1,5-lactone 6-phosphate -> 6-Phospho-D-gluconate
+SOR1 : D-Sorbitol + NAD+ -> D-Fructose + NADH
+SORBxtI : SORBxtX <-> SORBxt
+SORBxtO : SORBxt -> SORBxtX
+SORxtI : SORxtX <-> SORxt
+SORxtO : SORxt -> SORxtX
+SPE1 : L-Ornithine -> CO2 + Putrescine
+SPE2 : S-Adenosyl-L-methionine <-> CO2 + S-Adenosylmethioninamine
+SPE3 : Putrescine + S-Adenosyl-L-methionine -> 5'-Methylthioadenosine + Spermidine
+SPE4 : S-Adenosylmethioninamine + Spermidine -> 5'-Methylthioadenosine + Spermine
+SPMDxtI : SPMDxtX <-> SPMDxt
+SPMDxtO : SPMDxt -> SPMDxtX
+SPRMxtI : SPRMxtX <-> SPRMxt
+SPRMxtO : SPRMxt -> SPRMxtX
+SUC2 : SUCxt -> FRUxt + GLCxt
+SUCCxtI : SUCCxtX <-> SUCCxt
+SUCCxtO : SUCCxt -> SUCCxtX
+SUCSxtI : SUCSxtX <-> SUCSxt
+SUCSxtO : SUCSxt -> SUCSxtX
+SUCxtI : SUCxtX <-> SUCxt
+SUCxtO : SUCxt -> SUCxtX
+SUL1|SUL2|YGR125W : SLFxt -> Sulfate
+SUR2 : NADPH + Oxygen + Sphinganine -> NADP+ + Phytosphingosine
+TAL1|YGR043C : D-Glyceraldehyde 3-phosphate + Sedoheptulose 7-phosphate -> D-Erythrose 4-phosphate + beta-D-Fructose 6-phosphate
+TDH1|TDH2|TDH3 : D-Glyceraldehyde 3-phosphate + NAD+ + Orthophosphate <-> 3-Phospho-D-glyceroyl phosphate + NADH
+THI20_1|THI21|THI22 : 4-Amino-5-hydroxymethyl-2-methylpyrimidine + ATP -> 4-Amino-2-methyl-5-phosphomethylpyrimidine + ADP
+THI20_2 : 4-Amino-2-methyl-5-phosphomethylpyrimidine + ATP -> 2-Methyl-4-amino-5-hydroxymethylpyrimidine diphosphate + ADP
+THI6_1 : 5-(2-Hydroxyethyl)-4-methylthiazole + ATP -> 4-Methyl-5-(2-phosphoethyl)-thiazole + ADP
+THI6_2 : 2-Methyl-4-amino-5-hydroxymethylpyrimidine diphosphate + 4-Methyl-5-(2-phosphoethyl)-thiazole -> Pyrophosphate + Thiamin monophosphate
+THI7|YOR071C|YOR192C : H+EXT + THMxt -> Thiamin
+THI80_1 : ATP + Thiamin -> AMP + Thiamin diphosphate
+THI80_2 : ATP + Thiamin diphosphate -> AMP + Thiamin triphosphate
+THMxtI : THMxtX <-> THMxt
+THMxtO : THMxt -> THMxtX
+THR1 : ATP + L-Homoserine -> ADP + O-Phospho-L-homoserine
+THR4_1 : O-Phospho-L-homoserine -> L-Threonine + Orthophosphate
+THR4_2 : O-Phospho-4-hydroxy-L-threonine -> 4-Hydroxy-L-threonine + Orthophosphate
+THRxtI : THRxtX <-> THRxt
+THRxtO : THRxt -> THRxtX
+THYxtI : THYxtX <-> THYxt
+THYxtO : THYxt -> THYxtX
+TKL1_1|TKL2_1 : D-Ribose 5-phosphate + D-Xylose-5-phosphate -> D-Glyceraldehyde 3-phosphate + Sedoheptulose 7-phosphate
+TKL1_2|TKL2_2 : D-Erythrose 4-phosphate + D-Xylose-5-phosphate -> D-Glyceraldehyde 3-phosphate + beta-D-Fructose 6-phosphate
+TOR1|TOR2|VPS34 : 1-Phosphatidyl-D-myo-inositol + ATP -> 1-Phosphatidyl-1D-myo-inositol 3-phosphate + ADP
+TPI1 : Glycerone phosphate <-> D-Glyceraldehyde 3-phosphate
+TPS1|TPS3|TSL1 : UDPglucose + alpha-D-Glucose 6-phosphate -> UDP + alpha,alpha'-Trehalose 6-phosphate
+TPS2 : alpha,alpha'-Trehalose 6-phosphate -> Orthophosphate + alpha,alpha-Trehalose
+TRExtI : TRExtX <-> TRExt
+TRExtO : TRExt -> TRExtX
+TRK1 : H+EXT + Kxt <-> Potassium
+TRP1 : N-(5-Phospho-D-ribosyl)anthranilate -> 1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate
+TRP2_1|TRP3_1 : Chorismate + L-Glutamine -> Anthranilate + L-Glutamate + Pyruvate
+TRP2_2|TRP3_3 : Chorismate -> 4-Hydroxybenzoate + Pyruvate
+TRP3_2 : 1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate -> CO2 + Indoleglycerol phosphate
+TRP4 : 5-Phospho-alpha-D-ribose 1-diphosphate + Anthranilate -> N-(5-Phospho-D-ribosyl)anthranilate + Pyrophosphate
+TRP5 : Indoleglycerol phosphate + L-Serine -> D-Glyceraldehyde 3-phosphate + L-Tryptophan
+TRPxtI : TRPxtX <-> TRPxt
+TRPxtO : TRPxt -> TRPxtX
+TRR1 : NADPH + Oxidized thioredoxin -> NADP+ + Reduced thioredoxin
+TRR2 : NADPHM + Oxidized thioredoxinM -> NADP+M + Reduced thioredoxinM
+TSC10 : 3-Dehydrosphinganine + NADPH -> NADP+ + Sphinganine
+TYR1 : NADP+ + Prephenate -> 3-(4-Hydroxyphenyl)pyruvate + CO2 + NADPH
+TYRxtI : TYRxtX <-> TYRxt
+TYRxtO : TYRxt -> TYRxtX
+U100_ : Glycerone phosphate + a-Iminosuccinate -> Orthophosphate + Pyridine-2,3-dicarboxylate
+U101_ : NADP+ -> NAD+ + Orthophosphate
+U102_ : NAD+ -> ADPribose + Nicotinamide
+U103_ : Adenosine + Orthophosphate <-> Adenine + RIP
+U104_ : Guanosine + Orthophosphate <-> Guanine + RIP
+U105_ : NADP+M -> NAD+M + OrthophosphateM
+U106_ : NAD+M -> ADPriboseM + NicotinamideM
+U107_ : 2-Nonaprenylphenol + Oxygen -> 2-Nonaprenyl-6-hydroxyphenol
+U108_ : 2-Nonaprenyl-6-methoxyphenolM + OxygenM -> 2-Nonaprenyl-6-methoxy-1,4-benzoquinoneM
+U109_ : Oxygen <-> OxygenM
+U10_ : C260COA + Phytosphingosine -> Ceramide-2 + CoA
+U110_ : CO2 <-> CO2M
+U111_ : Ethanol <-> EthanolM
+U112_ : NH3 <-> NH3M
+U113_ : Methane <-> MethaneM
+U114_ : TetrahydrofolateM <-> Tetrahydrofolate
+U115_ : 5,10-MethylenetetrahydrofolateM <-> 5,10-Methylenetetrahydrofolate
+U116_ : L-SerineM <-> L-Serine
+U117_ : GlycineM <-> Glycine
+U118_ : 3-IsopropylmalateM <-> 3-Isopropylmalate
+U119_ : 3-Carboxy-4-methyl-2-oxopentanoateM <-> 3-Carboxy-4-methyl-2-oxopentanoate
+U11_ : C240COA + Phytosphingosine -> Ceramide-2 + CoA
+U120_ : L-ProlineM <-> L-Proline
+U121_ : CMPM <-> CMP
+U122_ : AcetateM <-> Acetate
+U123_ : O-Acetylcarnitine -> O-AcetylcarnitineM
+U124_ : CarnitineM -> Carnitine
+U125_ : 2-Acetolactate <-> 2-AcetolactateM
+U126_ : Acetoacetate <-> AcetoacetateM
+U127_ : Sulfate -> H+M + SulfateM
+U128_ : L-ThreonineM <-> L-Threonine
+U129_ : 2-OxoadipateM -> 2-Oxoadipate
+U12_ : Lanosterol + NAD+ + 4 NADPH + 3 Oxygen -> 4-Methylzymsterol + CO2 + NADH + 4 NADP+
+U130_ : Malonate + OrthophosphateM <-> MalonateM + Orthophosphate
+U131_ : 2-Isopropylmalate <-> 2-IsopropylmalateM
+U132_ : (R)-Lactate <-> (R)-LactateM + H+M
+U133_ : Pyruvate <-> H+M + PyruvateM
+U134_ : L-Glutamate <-> GlutamateM + H+M
+U135_ : HO-M + L-Glutamate -> GlutamateM
+U136_ : (R)-2-Oxoisovalerate <-> (R)-2-OxoisovalerateM
+U137_ : 3-Methyl-2-oxobutanoate <-> 3-Methyl-2-oxobutanoateM
+U138_ : Riboflavin <-> RiboflavinM
+U139_ : Dethiobiotin <-> DethiobiotinM
+U13_ : 4-Methylzymsterol + NAD+ + 4 NADPH + 3 Oxygen -> CO2 + NADH + 4 NADP+ + Zymosterol
+U140_ : (S)-3-Hydroxy-3-methylglutaryl-CoA <-> (S)-3-Hydroxy-3-methylglutaryl-CoAM
+U141_ : (R)-Mevalonate <-> (R)-MevalonateM
+U142_ : Phosphatidate <-> PhosphatidateM
+U143_ : Pantetheine 4'-phosphate <-> Pantetheine 4'-phosphateM
+U144_ : Adenine <-> AdenineM
+U145_ : 5-Phospho-alpha-D-ribose 1-diphosphate <-> 5-Phospho-alpha-D-ribose 1-diphosphateM
+U146_ : Dihydrofolate <-> DihydrofolateM
+U147_ : Pyridine-2,3-dicarboxylate <-> Pyridine-2,3-dicarboxylateM
+U148_ : OPP <-> OPPm
+U149_ : S-Adenosyl-L-methionine <-> S-Adenosyl-L-methionineM
+U14_ : S-Adenosyl-L-methionine + Zymosterol -> Ergosterol + S-Adenosyl-L-homocysteine
+U150_ : S-Adenosyl-L-homocysteine <-> S-Adenosyl-L-homocysteineM
+U151_ : Glycerone phosphateM -> Glycerone phosphate
+U152_ : sn-Glycerol 3-phosphate -> sn-Glycerol 3-phosphateM
+U153_ : H+EXT + MLTxt -> Maltose
+U154_ : H+EXT + SUCxt -> Sucrose
+U155_ : 2-Oxoglutarate + MALxt <-> AKGxt + Malate
+U156_ : AMGxt <-> Methyl-D-glucoside
+U157_ : SORxt <-> Sorbose
+U158_ : ARABxt <-> D-Arabinose
+U159_ : FUCxt + H+EXT <-> beta-D-Fucose
+U15_ : ATP + Deoxyuridine -> ADP + dUMP
+U160_ : GLTLxt + H+EXT -> GLTL
+U161_ : GLTxt + H+EXT -> L-Glucitol
+U162_ : GLAMxt + H+EXT <-> Glucosamine
+U163_ : H+EXT + MNTxt -> D-Mannitol
+U164_ : H+EXT + MELIxt -> Melibiose
+U165_ : H+EXT + NAGxt -> N-Acetylglucosamine
+U166_ : H+EXT + RMNxt -> D-Rhamnose
+U167_ : H+EXT + RIBxt -> D-Ribose
+U168_ : H+EXT + TRExt -> alpha,alpha-Trehalose
+U16_ : ATP + Thymidine -> ADP + dTMP
+U170_ : XYLxt <-> D-Xylose
+U171_ : H+EXT + PTRSCxt -> Putrescine
+U172_ : H+EXT + SPRMDxt -> Spermidine
+U173_ : H+EXT + NMNxt -> NMN
+U174_|U185_|U191_ : ADNxt + H+EXT -> Adenosine
+U175_|U192_ : GSNxt + H+EXT -> Guanosine
+U176_|U186_|U193_ : CYTDxt + H+EXT -> Cytidine
+U177_|U194_ : H+EXT + INSxt -> Inosine
+U178_ : H+EXT + XTSINExt -> Xanthosine
+U179_|U187_|U195_ : DTxt + H+EXT -> Thymidine
+U17_ : ATP + dCMP <-> ADP + dCDP
+U180_|U196_ : DINxt + H+EXT -> Deoxyinosine
+U181_|U197_ : DGxt + H+EXT -> Deoxyguanosine
+U182_|U188_|U198_ : DAxt + H+EXT -> Deoxyadenosine
+U183_|U189_|U199_ : DCxt + H+EXT -> Deoxycytidine
+U184_|U190_|U200_ : DUxt + H+EXT -> Deoxyuridine
+U18_ : ATP + CMP <-> ADP + CDP
+U19_ : ATP + dAMP <-> ADP + dADP
+U1_ : ATP + D-Fructose 1-phosphate -> ADP + beta-D-Fructose 1,6-bisphosphate
+U201_ : H+EXT + HYXNxt <-> HYXN
+U202_ : XANxt <-> Xanthine
+U203_ : FORxt <-> Formate
+U204_ : ETHxt <-> Ethanol
+U205_ : H+EXT + SUCCxt <-> Succinate
+U206_ : CITxt + H+EXT <-> Citrate
+U207_ : FUMxt + H+EXT <-> Fumarate
+U208_ : C140xt -> Myristic acid
+U209_ : C160xt -> Palmitate
+U20_ : ATP + Inosine -> ADP + IMP
+U210_ : C161xt -> 1-Hexadecene
+U211_ : C180xt -> Stearate
+U212_ : C181xt -> 1-Octadecene
+U213_ : AKGxt + H+EXT <-> 2-Oxoglutarate
+U214_ : ATP -> ADP + Orthophosphate
+U215_ : GLALxt <-> Glycolaldehyde
+U216_ : ACALxt <-> Acetaldehyde
+U217_ : MTHNxt <-> Methane
+U218_ : PAPxt <-> Adenosine 3',5'-bisphosphate
+U219_ : DTTPxt <-> dTTP
+U21_ : ATP + Guanosine -> ADP + GMP
+U220_ : THYxt <-> H+EXT + Thymine
+U221_ : GA6Pxt <-> D-Glucosamine 6-phosphate
+U222_ : AONAxt + H+EXT <-> 8-Amino-7-oxononanoate
+U223_ : DANNAxt + H+EXT <-> 7,8-Diaminononanoate
+U224_ : OGTxt -> Oxidized glutathione
+U225_ : SPRMxt -> Spermine
+U226_ : PIMExt -> Pimelic Acid
+U227_ : O2xt <-> Oxygen
+U228_ : CO2xt <-> CO2
+U229_ : H+EXT + RFLAVxt -> Riboflavin
+U22_ : Orthophosphate + Uridine <-> D-Ribose 1-phosphate + Uracil
+U23_ : CMP -> Cytosine + D-Ribose 5-phosphate
+U24_ : dUMP -> Deoxyuridine + Orthophosphate
+U25_ : dTMP -> Orthophosphate + Thymidine
+U26_ : dAMP -> Deoxyadenosine + Orthophosphate
+U27_ : dGMP -> Deoxyguanosine + Orthophosphate
+U28_ : dCMP -> Deoxycytidine + Orthophosphate
+U29_ : CMP -> Cytidine + Orthophosphate
+U2_ : Formate + Ubiquinone-9M -> CO2 + 2 H+EXT + UbiquinolM
+U30_ : AMP -> Adenosine + Orthophosphate
+U31_ : GMP -> Guanosine + Orthophosphate
+U32_ : IMP -> Inosine + Orthophosphate
+U33_ : Xanthosine 5'-phosphate -> Orthophosphate + Xanthosine
+U34_ : UMP -> Orthophosphate + Uridine
+U35_ : ATP + Reduced thioredoxin -> Oxidized thioredoxin + dATP
+U36_ : GTP + Reduced thioredoxin -> Oxidized thioredoxin + dGTP
+U37_ : CTP + Reduced thioredoxin -> Oxidized thioredoxin + dCTP
+U38_ : Reduced thioredoxin + UTP -> Oxidized thioredoxin + dUTP
+U39_ : GTP -> Guanosine + 3 Orthophosphate
+U3_|U4_ : 0.017 Decanoyl-[acp] + 0.062 Dodecanoyl-[acyl-carrier protein] + 0.27 Hexadecanoyl-[acp] + 0.093 Linolenoyl-[acyl-carrier protein] + 0.1 Myristoyl-[acyl-carrier protein] + 0.235 Oleoyl-[acyl-carrier protein] + 0.169 Palmitoyl-[acyl-carrier protein] + 0.055 Stearoyl-[acyl-carrier protein] + sn-Glycerol 3-phosphate -> Acyl-carrier protein + Acyl-sn-glycerol 3-phosphate
+U40_ : dGTP -> Deoxyguanosine + 3 Orthophosphate
+U41_ : (S)-1-Pyrroline-5-carboxylateM + NAD+M -> GlutamateM + NADHM
+U42_|U43_ : L-Glutamine -> L-Glutamate + NH3
+U44_ : D-Glucosamine 6-phosphate -> NH3 + beta-D-Fructose 6-phosphate
+U45_ : D-Mannitol 1-phosphate + NAD+ <-> NADH + beta-D-Fructose 6-phosphate
+U46_ : L-Threonine + NAD+ -> Acetate + Glycine + NADH
+U47_ : 5-Methyltetrahydrofolate + Homocysteine -> L-Methionine + Tetrahydrofolate
+U48_ : Acetyl-CoA + L-Serine -> CoA + O-Acetyl-L-serine
+U49_ : 2-Hydroxybutane-1,2,4-tricarboxylateM <-> But-1-ene-1,2,4-tricarboxylateM
+U50_ : OxaloglutarateM <-> 2-OxoadipateM + CO2M
+U51_ : 2-Oxoadipate + L-Glutamate <-> 2-Oxoglutarate + L-2-Aminoadipate
+U52_ : NAD+ + Prephenate -> 3-(4-Hydroxyphenyl)pyruvate + CO2 + NADH
+U53_ : L-Formylkynurenine -> Formate + L-Kynurenine
+U54_ : 2-Amino-3-carboxymuconate semialdehyde -> 2-Aminomuconate 6-semialdehyde + CO2
+U55_ : 2-Aminomuconate 6-semialdehyde + NAD+ -> 2-Aminomuconate + NADH
+U56_ : 2-Aminomuconate + NADPH -> 2-Oxoadipate + NADP+ + NH3
+U57_ : 3-(4-Hydroxyphenyl)pyruvate + Oxygen -> CO2 + Homogentisate
+U58_ : Homogentisate + Oxygen -> 4-Maleylacetoacetate
+U59_ : 4-Maleylacetoacetate -> 4-Fumarylacetoacetate
+U5_|U6_ : 0.017 Decanoyl-[acp] + 0.062 Dodecanoyl-[acyl-carrier protein] + Glycerone phosphate + 0.27 Hexadecanoyl-[acp] + 0.093 Linolenoyl-[acyl-carrier protein] + 0.1 Myristoyl-[acyl-carrier protein] + 0.235 Oleoyl-[acyl-carrier protein] + 0.169 Palmitoyl-[acyl-carrier protein] + 0.055 Stearoyl-[acyl-carrier protein] -> Acyl-carrier protein + Acyldihydroxyacetone phosphate
+U60_ : 4-Fumarylacetoacetate -> Acetoacetate + Fumarate
+U61_ : Acetyl-CoA + Spermidine -> CoA + N1-Acetylspermidine
+U62_ : N1-Acetylspermidine + Oxygen -> 3-Aminopropanal + H2O2 + N-Acetylputrescine
+U63_ : N-Acetylputrescine + Oxygen -> 3-Aminopropanal + 4-Aminobutyraldehyde + H2O2
+U64_ : Acetyl-CoA + Spermine -> CoA + N1-Acetylspermine
+U65_ : N1-Acetylspermine + Oxygen -> 3-Aminopropanal + H2O2 + N1-Acetylspermidine
+U66_ : L-Glutamate 5-semialdehyde <-> (S)-1-Pyrroline-5-carboxylate
+U67_ : L-Glutamate 5-semialdehydeM <-> (S)-1-Pyrroline-5-carboxylateM
+U68_ : 4-AminobutyraldehydeM + NAD+M -> 4-AminobutanoateM + NADHM
+U69_ : 0.017 Decanoyl-[acp] + Diacylglycerol + 0.062 Dodecanoyl-[acyl-carrier protein] + 0.27 Hexadecanoyl-[acp] + 0.093 Linolenoyl-[acyl-carrier protein] + 0.1 Myristoyl-[acyl-carrier protein] + 0.235 Oleoyl-[acyl-carrier protein] + 0.169 Palmitoyl-[acyl-carrier protein] + 0.055 Stearoyl-[acyl-carrier protein] -> Acyl-carrier protein + Triacylglycerol
+U70_ : Aminoimidazole ribotide -> 4-Amino-5-hydroxymethyl-2-methylpyrimidine
+U71_ : D-Glyceraldehyde 3-phosphate + Pyruvate -> 1-Deoxy-d-threo-2-pentulose
+U72_|U73_|U74_|U75_ : 1-Deoxy-d-threo-2-pentulose + L-Cysteine + L-Tyrosine -> 4-Hydroxy-benzyl alcohol + 5-(2-Hydroxyethyl)-4-methylthiazole + CO2
+U76_ : ATP + Thiamin monophosphate <-> ADP + Thiamin diphosphate
+U77_ : Thiamin monophosphate -> Orthophosphate + Thiamin
+U78_ : 5-Amino-6-(5'-phosphoribitylamino)uracil -> 4 5-Amino-6-ribitylamino-2,(1H, 3H)-pyrimidinedione + Orthophosphate
+U79_ : D-Ribulose 5-phosphate -> Formate + L-3,4-Dihydroxy-2-butanone 4-phosphate
+U7_ : Acyldihydroxyacetone phosphate + NADPH -> Acyl-sn-glycerol 3-phosphate + NADP+
+U80_ : ATPM + FMNM -> FADM + PyrophosphateM
+U81_ : ATP + Pyridoxine -> ADP + Pyridoxine phosphate
+U82_ : ATP + Pyridoxamine -> ADP + Pyridoxamine phosphate
+U83_ : ATP + Pyridoxal -> ADP + Pyridoxal phosphate
+U84_ : Pyridoxamine phosphate -> Orthophosphate + Pyridoxamine
+U85_ : 3 Malonyl-CoA -> 6-Carboxyhexanoyl-CoA + 2 CO2 + 2 CoA
+U86_ : 6-Carboxyhexanoyl-CoA + L-Alanine <-> 8-Amino-7-oxononanoate + CO2 + CoA
+U87_ : 2-Amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl)-dihydropteridine triphosphate -> Dihydroneopterin phosphate + Pyrophosphate
+U88_ : 4-amino-4-deoxychorismate -> 4-Aminobenzoate + Pyruvate
+U89_ : ATP + Dihydropteroate + L-Glutamate -> ADP + Dihydrofolate + Orthophosphate
+U90_ : 10-FormyltetrahydrofolateM + ATPM -> 5-MethyltetrahydrofolateM + ADPM + OrthophosphateM
+U91_ : 10-Formyltetrahydrofolate + ATP -> 5-Methyltetrahydrofolate + ADP + Orthophosphate
+U92_ : CTP + D-4'-Phosphopantothenate + L-Cysteine -> (R)-4'-Phosphopantothenoyl-L-cysteine + CMP + Pyrophosphate
+U93_ : (R)-4'-Phosphopantothenoyl-L-cysteine -> CO2 + Pantetheine 4'-phosphate
+U94_ : ATP + Pantetheine 4'-phosphate -> Dephospho-CoA + Pyrophosphate
+U95_ : ATPM + Pantetheine 4'-phosphateM -> Dephospho-CoAM + PyrophosphateM
+U96_ : ATP + Dephospho-CoA -> ADP + CoA
+U97_ : ATPM + Dephospho-CoAM -> ADPM + CoAM
+U98_ : L-Aspartate -> CO2 + beta-Alanine
+U99_ : FADM + L-Aspartate -> FADH2M + a-Iminosuccinate
+U9_ : PhosphatidylglycerophosphateM -> OrthophosphateM + PhosphatidylglycerolM
+UGA1 : 2-Oxoglutarate + 4-Aminobutanoate -> L-Glutamate + Succinate semialdehyde
+UGA4_2 : ALAVxt + H+EXT -> 5-Aminolevulinate
+UGP1|YHL012W : D-Glucose 1-phosphate + UTP <-> Pyrophosphate + UDPglucose
+URA1 : (S)-Dihydroorotate + Oxygen <-> H2O2 + Orotate
+URA10|URA5 : 5-Phospho-alpha-D-ribose 1-diphosphate + Orotate <-> Orotidine 5'-phosphate + Pyrophosphate
+URA2_1 : Carbamoyl phosphate + L-Aspartate -> N-Carbamoyl-L-aspartate + Orthophosphate
+URA3 : Orotidine 5'-phosphate -> CO2 + UMP
+URA4 : N-Carbamoyl-L-aspartate <-> (S)-Dihydroorotate
+URA6_1|URA6_2 : ATP + UMP <-> ADP + UDP
+URA6_3 : ATP + dUMP <-> ADP + dUDP
+URA7_1|URA8_1 : ATP + L-Glutamine + UTP -> ADP + CTP + L-Glutamate + Orthophosphate
+URA7_2|URA8_2 : ATP + NH3 + UTP -> ADP + CTP + Orthophosphate
+URAxtI : URAxtX <-> URAxt
+URAxtO : URAxt -> URAxtX
+UREAxtI : UREAxtX <-> UREAxt
+UREAxtO : UREAxt -> UREAxtX
+URH1_1 : Guanosine -> D-Ribose + Guanine
+URH1_2 : Adenosine -> Adenine + D-Ribose
+URIxtI : URIxtX <-> URIxt
+URIxtO : URIxt -> URIxtX
+URK1_1 : GTP + Uridine -> GDP + UMP
+URK1_2 : Cytidine + GTP -> CMP + GDP
+URK1_3 : ATP + Uridine -> ADP + UMP
+VALxtI : VALxtX <-> VALxt
+VALxtO : VALxt -> VALxtX
+VGRO : 1.1348 1,3-beta-D-Glucan + 0.0053 1-Phosphatidyl-D-myo-inositol + 0.046 AMP + 59.276001 ATP + 0.0447 CMP + 0.0007 Ergosterol + 0.046 GMP + 0.2904 Glycine + 0.5185 Glycogen + 0.4588 L-Alanine + 0.1607 L-Arginine + 0.1017 L-Asparagine + 0.2975 L-Aspartate + 0.0066 L-Cysteine + 0.3018 L-Glutamate + 0.1054 L-Glutamine + 0.0663 L-Histidine + 0.1927 L-Isoleucine + 0.2964 L-Leucine + 0.2862 L-Lysine + 0.0507 L-Methionine + 0.1339 L-Phenylalanine + 0.1647 L-Proline + 0.1854 L-Serine + 0.1914 L-Threonine + 0.0284 L-Tryptophan + 0.102 L-Tyrosine + 0.2646 L-Valine + 0.8079 Mannan + 0.0006 Phosphatidate + 0.006 Phosphatidylcholine + 0.0045 Phosphatidylethanolamine + 0.0017 Phosphatidylserine + 0.02 Sulfate + 0.0066 Triacylglycerol + 0.0599 UMP + 0.0015 Zymosterol + 0.0234 alpha,alpha-Trehalose + 0.0036 dAMP + 0.0024 dCMP + 0.0024 dGMP + 0.0036 dTMP -> 59.276001 ADP + Biomass + 59.305 Orthophosphate
+VHT1 : BTxt + H+EXT <-> Biotin
+XANxtI : XANxtX <-> XANxt
+XANxtO : XANxt -> XANxtX
+XKS1 : ATP + D-Xylulose -> ADP + D-Xylose-5-phosphate
+XPT1 : 5-Phospho-alpha-D-ribose 1-diphosphate + Xanthine -> Pyrophosphate + Xanthosine 5'-phosphate
+XTSNxtI : XTSNxtX <-> XTSNxt
+XTSNxtO : XTSNxt -> XTSNxtX
+YAT1 : CoAM + O-AcetylcarnitineM -> Acetyl-CoAM + CarnitineM
+YBL098W : L-Kynurenine + NADPH + Oxygen -> 3-Hydroxykynurenine + NADP+
+YBR006W : NADP+ + Succinate semialdehyde -> NADPH + Succinate
+YBR184W_1 : Melibiose -> D-Galactose + alpha-D-Glucose
+YBR184W_2 : alpha-D-Fucoside -> D-Galactose + alpha-D-Glucose
+YBR184W_3 : Raffinose -> D-Galactose + Sucrose
+YBR184W_4 : 1-alpha-D-Galactosyl-myo-inositol <-> D-Galactose + myo-Inositol
+YBR184W_5 : Epimelibiose <-> D-Galactose + alpha-D-Mannose
+YBR184W_6 : Galactosylglycerol <-> D-Galactose + Glycerol
+YBR184W_7 : Melibiitol <-> D-Galactose + D-Sorbitol
+YCR024C : ATPM + L-AspartateM + tRNAM -> AMPM + L-Asparaginyl-tRNA(Asn)M + PyrophosphateM
+YDL100C : Dihydroneopterin phosphate -> 2-Amino-4-hydroxy-6-(D-erythro-1,2,3-trihydroxypropyl)-7,8-dihydropteridine + Orthophosphate
+YDR111C : L-Glutamate + Pyruvate <-> 2-Oxoglutarate + L-Alanine
+YDR531W : (R)-Pantothenate + ATP -> ADP + D-4'-Phosphopantothenate
+YEL047C : FADH2M + Fumarate -> FADM + Succinate
+YER053C : HO-M + Orthophosphate <-> OrthophosphateM
+YFL030W : Glyoxylate + L-Alanine <-> Glycine + Pyruvate
+YFR055W : L-Cystathionine -> Homocysteine + NH3 + Pyruvate
+YGL245W : ATP + L-Glutamate -> AMP + L-Glutamyl-tRNA(Glu) + Pyrophosphate
+YGR012W : Hydrogen sulfide + O-Acetyl-L-serine -> Acetate + L-Cysteine
+YIL145C : (R)-Pantoate + ATP + beta-Alanine -> (R)-Pantothenate + AMP + Pyrophosphate
+YJL068C : S-Formylglutathione <-> Formate + Glutathione
+YJR078W : L-Tryptophan + Oxygen -> L-Formylkynurenine
+YJR105W : ATP + Adenosine -> ADP + AMP
+YLR089C : GlutamateM + PyruvateM <-> 2-OxoglutarateM + L-AlanineM
+YLR100C_1 : Intermediate_Methylzymosterol_II + NADPH -> 4-Methylzymsterol + NADP+
+YLR100C_2 : Intermediate_Zymosterol_II + NADPH -> NADP+ + Zymosterol
+YLR231C_1 : L-Kynurenine -> Anthranilate + L-Alanine
+YLR231C_2 : 3-Hydroxykynurenine -> 3-Hydroxyanthranilate + L-Alanine
+YLR328W_1 : ATP + Nicotinate D-ribonucleotide -> Deamino-NAD+ + Pyrophosphate
+YLR328W_2 : ATPM + Nicotinate D-ribonucleotideM -> Deamino-NAD+M + PyrophosphateM
+YLR328W_3 : ATPM + NMNm -> NAD+M + PyrophosphateM
+YML082W : O-Succinyl-L-homoserine <-> 2-Oxobutanoate + NH3 + Succinate
+YNK1_1 : ATP + UDP <-> ADP + UTP
+YNK1_2 : ATP + CDP <-> ADP + CTP
+YNK1_3 : ATP + dGDP <-> ADP + dGTP
+YNK1_4 : ATP + dUDP <-> ADP + dUTP
+YNK1_5 : ATP + dCDP <-> ADP + dCTP
+YNK1_6 : ATP + dTDP <-> ADP + dTTP
+YNK1_7 : ATP + dADP <-> ADP + dATP
+YNK1_8 : ATP + GDP <-> ADP + GTP
+YNK1_9 : ATP + IDP <-> ADP + ITP
+ZWF1 : NADP+ + alpha-D-Glucose 6-phosphate <-> D-Glucono-1,5-lactone 6-phosphate + NADPH
+ZYMSTxtI : ZYMSTxtX -> ZYMSTxt
+ZYMSTxtO : ZYMSTxt <-> ZYMSTxtX
+
+-CONSTRAINTS
+AAC1|AAC3|PET9 [0, 1000]
+AAH1_1 [0, 1000]
+AAH1_2 [0, 1000]
+AAH1_3 [0, 1000]
+AAT1_1 [-1000, 1000]
+AAT1_2|AAT2_2|ARO8|ARO9_2 [-1000, 1000]
+AAT2_1 [-1000, 1000]
+ABZ1 [0, 1000]
+ACALxtI [0, 0]
+ACALxtO [0, 1000]
+ACB1/ACC1/FAS1/FAS2/_1 [0, 1000]
+ACB1/ACC1/FAS1/FAS2/_2 [0, 1000]
+ACB1/ACC1/FAS1/FAS2/_3 [0, 1000]
+ACB1/ACC1/FAS1/FAS2/_4 [0, 1000]
+ACB1/ACC1/FAS1/FAS2/_5 [0, 1000]
+ACB1/ACC1/FAS1/FAS2/_6 [0, 1000]
+ACB1/ACC1/FAS1/FAS2/_7 [0, 1000]
+ACB1/ACC1/FAS1/FAS2/_8 [0, 1000]
+ACB1/ACC1/FAS1/FAS2/_9 [0, 1000]
+ACC1 [-1000, 1000]
+ACH1 [0, 1000]
+ACO1|YJL200C [-1000, 1000]
+ACP1/CEM1/MCT1/OAR1_1 [0, 1000]
+ACP1/CEM1/MCT1/OAR1_2 [0, 1000]
+ACP1/CEM1/MCT1/OAR1_3 [0, 1000]
+ACP1/CEM1/MCT1/OAR1_4 [0, 1000]
+ACP1/CEM1/MCT1/OAR1_5 [0, 1000]
+ACP1/CEM1/MCT1/OAR1_6 [0, 1000]
+ACP1/CEM1/MCT1/OAR1_7 [0, 1000]
+ACP1/CEM1/MCT1/OAR1_8 [0, 1000]
+ACP1/CEM1/MCT1/OAR1_9 [0, 1000]
+ACP1|NDI1 [0, 1000]
+ACS1|ACS2 [0, 1000]
+ACxtI [0, 0]
+ACxtO [0, 1000]
+ADE1 [-1000, 1000]
+ADE12 [0, 1000]
+ADE13_1 [-1000, 1000]
+ADE13_2 [-1000, 1000]
+ADE16_1|ADE17_1 [-1000, 1000]
+ADE16_2|ADE17_2 [-1000, 1000]
+ADE2 [-1000, 1000]
+ADE3_1 [-1000, 1000]
+ADE3_2 [0, 1000]
+ADE3_3 [-1000, 1000]
+ADE4 [0, 1000]
+ADE57_1 [-1000, 1000]
+ADE57_2 [0, 1000]
+ADE6 [0, 1000]
+ADE8 [0, 1000]
+ADH1|ADH2|ADH4|ADH5|SFA1_2 [-1000, 1000]
+ADH3 [-1000, 1000]
+ADK1_1 [-1000, 1000]
+ADK1_2 [-1000, 1000]
+ADK1_3 [-1000, 1000]
+ADK2_1 [-1000, 1000]
+ADK2_2 [-1000, 1000]
+ADK2_3 [-1000, 1000]
+ADNxtI [0, 0]
+ADNxtO [0, 1000]
+ADxtI [0, 0]
+ADxtO [0, 1000]
+AGP1_10|BAP2_7|BAP3_7|GAP1_16|TAT1_4|TAT2_6|VAP1_6 [-1000, 1000]
+AGP1_11|BAP2_8|BAP3_8|GAP1_17|VAP1_7 [-1000, 1000]
+AGP1_12|AGP3_3|DIP5_7|GAP1_18|GNP1_6 [-1000, 1000]
+AGP1_13|GAP1_19|GNP1_7|TAT1_5 [-1000, 1000]
+AGP1_1|AGP3_1|DIP5_1|GAP1_1|STL1_3|STL1_4 [-1000, 1000]
+AGP1_2|DIP5_2|GAP1_2|PUT4_1|TAT2_1 [-1000, 1000]
+AGP1_3|DIP5_3|GAP1_4|GNP1_1 [-1000, 1000]
+AGP1_4|DIP5_6|GAP1_8|GNP1_3 [-1000, 1000]
+AGP1_5|GAP1_9|HIP1|VAP1_2 [-1000, 1000]
+AGP1_6|BAP2_2|BAP3_2|GAP1_10|TAT1_1|VAP1_3 [-1000, 1000]
+AGP1_7|BAP2_3|BAP3_3|GAP1_11|GNP1_4|TAT1_2|VAP1_4 [-1000, 1000]
+AGP1_8|BAP2_4|BAP3_4|GAP1_12|GNP1_5|MUP1|MUP3 [-1000, 1000]
+AGP1_9|BAP2_5|BAP3_5|GAP1_13|TAT2_4 [-1000, 1000]
+AGP2 [-1000, 1000]
+AGP3_2|DIP5_4|GAP1_5 [-1000, 1000]
+AKGxtI [0, 0]
+AKGxtO [0, 1000]
+ALAxtI [0, 0]
+ALAxtO [0, 1000]
+ALD2|ALD3 [0, 1000]
+ALD4_1 [0, 1000]
+ALD4_2|ALD5_1 [0, 1000]
+ALD5_2 [-1000, 1000]
+ALD6 [0, 1000]
+ALP1|CAN1_1|GAP1_3 [-1000, 1000]
+AMD1_1 [0, 1000]
+AMD1_2|YBR284W|YJL070C [0, 1000]
+AMD2_1|YMR293C [0, 1000]
+AMD2_2 [0, 1000]
+AMD2_3 [0, 1000]
+AONAxtI [0, 0]
+AONAxtO [0, 1000]
+APA1_1 [0, 1000]
+APA1_2 [0, 1000]
+APA1_3 [-1000, 1000]
+APA2 [0, 1000]
+APT1|APT2 [0, 1000]
+ARA1_1 [0, 1000]
+ARA1_2 [0, 1000]
+ARABxtI [0, 0]
+ARABxtO [0, 1000]
+ARG1 [-1000, 1000]
+ARG3 [0, 1000]
+ARG4 [-1000, 1000]
+ARG5_1 [0, 1000]
+ARG5_2 [0, 1000]
+ARG8 [0, 1000]
+ARGxtI [0, 0]
+ARGxtO [0, 1000]
+ARO1_1 [0, 1000]
+ARO1_2 [0, 1000]
+ARO1_3 [0, 1000]
+ARO1_4 [0, 1000]
+ARO1_5 [0, 1000]
+ARO2 [0, 1000]
+ARO3|ARO4 [0, 1000]
+ARO7 [0, 1000]
+ARO9_1 [-1000, 1000]
+ASN1|ASN2 [0, 1000]
+ASNxtI [0, 0]
+ASNxtO [0, 1000]
+ASP1|ASP3-1|ASP3-2|ASP3-3|ASP3-4 [0, 1000]
+ASPxtI [0, 0]
+ASPxtO [0, 1000]
+ATH1|NTH1|NTH2 [0, 1000]
+ATNxtI [0, 0]
+ATNxtO [0, 1000]
+ATP1 [0, 1000]
+AUR1 [0, 1000]
+AUS1_1 [-1000, 1000]
+AUS1_2 [-1000, 1000]
+BAP2_1|BAP3_1|GAP1_6|GNP1_2|TAT2_2|VAP1_1 [-1000, 1000]
+BAP2_6|BAP3_6|GAP1_15|TAT1_3|TAT2_5|VAP1_5 [-1000, 1000]
+BAT1_1 [-1000, 1000]
+BAT1_2 [-1000, 1000]
+BAT2_1 [-1000, 1000]
+BAT2_2 [-1000, 1000]
+BAT2_3 [-1000, 1000]
+BCAAxtI [0, 0]
+BCAAxtO [0, 1000]
+BET2|COQ1|COQ2|COX10|RAM1|RER2|SRT1 [0, 1000]
+BGL2|EXG1|EXG2|SPR1 [0, 1000]
+BIO2 [-1000, 1000]
+BIO3 [-1000, 1000]
+BIO4 [-1000, 1000]
+BIO5 [0, 1000]
+BMxtI [0, 1000]
+BMxtO [0, 1000]
+BNA1 [0, 1000]
+BPH1 [-1000, 1000]
+BTxtI [0, 0]
+BTxtO [0, 1000]
+C140xtI [0, 0]
+C140xtO [0, 1000]
+C160xtI [0, 0]
+C160xtO [0, 1000]
+C161xtI [0, 0]
+C161xtO [0, 1000]
+C180xtI [0, 0]
+C180xtO [0, 1000]
+C181xtI [0, 0]
+C181xtO [0, 1000]
+CAN1_2|GAP1_21 [-1000, 1000]
+CAR1 [0, 1000]
+CAR2 [0, 1000]
+CAT2 [0, 1000]
+CDA1|CDA2 [0, 1000]
+CDC19|PYK2 [0, 1000]
+CDC21 [0, 1000]
+CDC8 [-1000, 1000]
+CDD1_1 [0, 1000]
+CDD1_2 [0, 1000]
+CDS1_1 [-1000, 1000]
+CDS1_2 [-1000, 1000]
+CEM1 [0, 1000]
+CHA1_1 [0, 1000]
+CHA1_2|YIL167W [0, 1000]
+CHLSTxtI [0, 0]
+CHLSTxtO [0, 1000]
+CHO1_1 [-1000, 1000]
+CHO1_2 [-1000, 1000]
+CHO2 [0, 1000]
+CHOxtI [0, 0]
+CHOxtO [0, 1000]
+CHS1|CHS2|CHS3 [0, 1000]
+CIT1|CIT3 [0, 1000]
+CIT2 [0, 1000]
+CITxtI [0, 0]
+CITxtO [0, 1000]
+CKI1 [0, 1000]
+CO2xtI [0, 0]
+CO2xtO [0, 1000]
+COQ3 [0, 1000]
+COQ5 [0, 1000]
+COQ6 [0, 1000]
+COX1 [0, 1000]
+CPA2|URA2_2 [0, 1000]
+CPT1 [0, 1000]
+CRC1 [0, 1000]
+CRD1 [0, 1000]
+CSG2|SUR1 [0, 1000]
+CTA1|CTT1 [0, 1000]
+CTP1_1 [-1000, 1000]
+CTP1_2 [-1000, 1000]
+CTP1_3 [-1000, 1000]
+CYB2 [0, 1000]
+CYR1 [0, 1000]
+CYS3 [0, 1000]
+CYS4 [0, 1000]
+CYSxtI [0, 0]
+CYSxtO [0, 1000]
+CYTDxtI [0, 0]
+CYTDxtO [0, 1000]
+CYTSxtI [0, 0]
+CYTSxtO [0, 1000]
+DAK1|DAK2 [0, 1000]
+DAL1 [-1000, 1000]
+DAL2 [-1000, 1000]
+DAL3 [-1000, 1000]
+DAL4 [0, 1000]
+DAL5 [0, 1000]
+DAL7|MLS1 [0, 1000]
+DALAxtI [0, 0]
+DALAxtO [0, 1000]
+DANNAxtI [0, 0]
+DANNAxtO [0, 1000]
+DAxtI [0, 0]
+DAxtO [0, 1000]
+DCD1_1 [-1000, 1000]
+DCD1_2 [0, 1000]
+DCxtI [0, 0]
+DCxtO [0, 1000]
+DED81 [0, 1000]
+DEG1|PUS1|PUS2|PUS4 [-1000, 1000]
+DFR1_1 [0, 1000]
+DFR1_2 [0, 1000]
+DGxtI [0, 0]
+DGxtO [0, 1000]
+DHAxtI [0, 0]
+DHAxtO [0, 1000]
+DIC1_1 [-1000, 1000]
+DIC1_2 [-1000, 1000]
+DIC1_3 [0, 1000]
+DIM1 [0, 1000]
+DINxtI [0, 0]
+DINxtO [0, 1000]
+DIP5_5|GAP1_7|PUT4_2|TAT2_3 [-1000, 1000]
+DIPEPxtI [0, 0]
+DIPEPxtO [0, 1000]
+DLD1 [0, 1000]
+DPH5 [0, 1000]
+DPL1 [0, 1000]
+DPM1 [0, 1000]
+DPP1 [0, 1000]
+DSERxtI [0, 0]
+DSERxtO [0, 1000]
+DTTPxtI [0, 0]
+DTTPxtO [0, 1000]
+DTxtI [0, 0]
+DTxtO [0, 1000]
+DUR1_1 [-1000, 1000]
+DUR1_2 [0, 1000]
+DUR3 [-1000, 1000]
+DUT1 [0, 1000]
+DUxtI [0, 0]
+DUxtO [0, 1000]
+DYS1 [0, 1000]
+ECM17|MET10 [-1000, 1000]
+ECM31 [0, 1000]
+ECM38 [0, 1000]
+ECM40_1 [0, 1000]
+ECM40_2 [0, 1000]
+EKI1 [0, 1000]
+ENO1|ENO2|ERR1_1|ERR1_2|ERR2 [-1000, 1000]
+EPT1 [-1000, 1000]
+ERG1 [0, 1000]
+ERG10_1 [-1000, 1000]
+ERG10_2 [-1000, 1000]
+ERG11 [0, 1000]
+ERG12_1 [0, 1000]
+ERG12_2 [0, 1000]
+ERG12_3 [0, 1000]
+ERG12_4 [0, 1000]
+ERG2 [0, 1000]
+ERG20_1 [0, 1000]
+ERG20_2 [0, 1000]
+ERG24 [0, 1000]
+ERG25_1 [0, 1000]
+ERG25_2 [0, 1000]
+ERG26_1 [0, 1000]
+ERG26_2 [0, 1000]
+ERG3 [0, 1000]
+ERG4 [0, 1000]
+ERG5 [0, 1000]
+ERG6 [0, 1000]
+ERG7 [0, 1000]
+ERG8 [0, 1000]
+ERG9 [0, 1000]
+ERGOxtI [0, 1000]
+ERGOxtO [0, 0]
+ETHxtI [0, 0]
+ETHxtO [0, 1000]
+FAA1|FAA2|FAA3|FAA4 [-1000, 1000]
+FAB1|MSS4 [0, 1000]
+FAD1 [0, 1000]
+FAS1_1 [-1000, 1000]
+FAS1_2 [-1000, 1000]
+FAS1_3 [-1000, 1000]
+FAS1_4 [-1000, 1000]
+FATP [0, 0]
+FBA1 [-1000, 1000]
+FBP1 [0, 1000]
+FBP26 [0, 1000]
+FCY1 [0, 1000]
+FCY21_1|FCY22_1|FCY2_1|YGL186C_1 [0, 1000]
+FCY21_2|FCY22_2|FCY2_2|YGL186C_2 [0, 1000]
+FCY21_3|FCY22_3|FCY2_3|YGL186C_3 [-1000, 1000]
+FDH1|YPL275W|YPL276W [0, 1000]
+FEN2 [-1000, 1000]
+FKS1|FKS3|GSC2 [0, 1000]
+FLX1 [0, 1000]
+FMN1_1 [0, 1000]
+FMN1_2 [0, 1000]
+FMT1 [0, 1000]
+FNADH [0, 0]
+FNADPH [0, 0]
+FOL1_1 [0, 1000]
+FOL1_2 [0, 1000]
+FOL1_3 [0, 1000]
+FOL1_4 [0, 1000]
+FOL2 [0, 1000]
+FOL3|MET7|RMA1 [-1000, 1000]
+FORxtI [0, 0]
+FORxtO [0, 1000]
+FOX2 [-1000, 1000]
+FPS1 [-1000, 1000]
+FRUxtI [0, 0]
+FRUxtO [0, 1000]
+FSP2_1|MAL12|MAL32|YGR287C|YIL172C|YJL216C [0, 1000]
+FSP2_2 [0, 1000]
+FUCxtI [0, 0]
+FUCxtO [0, 1000]
+FUI1_1|FUI1_2|FUI1_3 [0, 1000]
+FUM1_1 [-1000, 1000]
+FUM1_2 [-1000, 1000]
+FUMxtI [0, 0]
+FUMxtO [0, 1000]
+FUN63|IMD3|IMD4|PUR5|YAR075W [0, 1000]
+FUR1 [0, 1000]
+FUR4 [0, 1000]
+GA6PxtI [0, 0]
+GA6PxtO [0, 1000]
+GABAxtI [0, 0]
+GABAxtO [0, 1000]
+GAD1 [0, 1000]
+GAL1 [0, 1000]
+GAL10 [-1000, 1000]
+GAL2_1|HXT10_1|HXT11_1|HXT11_2|HXT13_1|HXT15_1|HXT16_1|HXT17_1|HXT1_1|HXT2_1|HXT3_1|HXT4_1|HXT4_2|HXT5_1|HXT6_1|HXT7_1|HXT8_1|HXT9_1|STL1_1 [0, 1000]
+GAL2_2|HXT10_2|HXT11_3|HXT14|HXT9_2|STL1_2 [0, 1000]
+GAL7_1 [-1000, 1000]
+GAL7_2 [-1000, 1000]
+GALACxtI [0, 0]
+GALACxtO [0, 1000]
+GAP1_14|PUT4_3 [-1000, 1000]
+GAP1_20|LYP1 [-1000, 1000]
+GCV1_1 [0, 1000]
+GCV1_2 [0, 1000]
+GCV2 [-1000, 1000]
+GDH1|GDH3 [0, 1000]
+GDH2 [0, 1000]
+GFA1 [0, 1000]
+GL3PxtI [0, 0]
+GL3PxtO [0, 1000]
+GLACxtI [0, 0]
+GLACxtO [0, 1000]
+GLALxtI [0, 0]
+GLALxtO [0, 1000]
+GLAMxtI [0, 0]
+GLAMxtO [0, 1000]
+GLC3|GPH1 [0, 1000]
+GLCNxtI [0, 0]
+GLCNxtO [0, 1000]
+GLCxtI [0, 0]
+GLCxtO [0, 1000]
+GLK1_1|HXK1_2|HXK2_2 [0, 1000]
+GLK1_2|HXK1_3|HXK2_3 [0, 1000]
+GLK1_3 [0, 1000]
+GLN1 [0, 1000]
+GLNxtI [0, 0]
+GLNxtO [0, 1000]
+GLO1 [-1000, 1000]
+GLO2 [0, 1000]
+GLO4 [0, 1000]
+GLR1 [0, 1000]
+GLT1 [0, 1000]
+GLTLxtI [0, 0]
+GLTLxtO [0, 1000]
+GLTxtI [0, 0]
+GLTxtO [0, 1000]
+GLUxtI [0, 0]
+GLUxtO [0, 1000]
+GLY1_test [0, 1000]
+GLYxtI [0, 0]
+GLYxtO [0, 1000]
+GLxtI [0, 0]
+GLxtO [0, 1000]
+GNA1 [-1000, 1000]
+GND1|GND2 [0, 1000]
+GNxtI [0, 0]
+GNxtO [0, 1000]
+GPD1|GPD2 [0, 1000]
+GPM1_1 [-1000, 1000]
+GPM1_2|GPM2|GPM3 [-1000, 1000]
+GPX1|GPX2|HYR1 [-1000, 1000]
+GSH1 [0, 1000]
+GSH2 [0, 1000]
+GSNxtI [0, 0]
+GSNxtO [0, 1000]
+GSY1|GSY2 [0, 1000]
+GUA1 [0, 1000]
+GUK1_1 [-1000, 1000]
+GUK1_2 [-1000, 1000]
+GUK1_3 [-1000, 1000]
+GULTxtI [0, 0]
+GULTxtO [0, 1000]
+GUT1 [0, 1000]
+GUT2 [0, 1000]
+Growth [0, 1000]
+HEM1 [0, 1000]
+HEM12 [0, 1000]
+HEM13 [0, 1000]
+HEM14 [0, 1000]
+HEM15 [0, 1000]
+HEM2 [0, 1000]
+HEM3 [0, 1000]
+HEM4 [0, 1000]
+HIS1 [0, 1000]
+HIS2 [0, 1000]
+HIS3 [0, 1000]
+HIS4_1 [0, 1000]
+HIS4_2 [0, 1000]
+HIS4_3 [0, 1000]
+HIS5 [0, 1000]
+HIS6 [0, 1000]
+HIS7 [0, 1000]
+HISxtI [0, 0]
+HISxtO [0, 1000]
+HMG1|HMG2 [-1000, 1000]
+HMGS [-1000, 1000]
+HMT1 [0, 1000]
+HNM1 [0, 1000]
+HOM2 [0, 1000]
+HOM3 [0, 1000]
+HOM6_1 [0, 1000]
+HOM6_2 [0, 1000]
+HOR2|RHR2 [0, 1000]
+HPT1_1 [0, 1000]
+HPT1_2 [0, 1000]
+HTS1 [0, 1000]
+HXK1_1|HXK2_1 [0, 1000]
+HXK1_4|HXK2_4 [0, 1000]
+HXT10_3|HXT11_4|HXT13_2|HXT15_2|HXT16_2|HXT17_2|HXT1_2|HXT2_2|HXT3_2|HXT4_3|HXT5_2|HXT6_2|HXT7_2|HXT8_2|HXT9_3 [0, 1000]
+HXT10_4|HXT11_5|HXT13_3|HXT15_3|HXT16_3|HXT17_3|HXT1_3|HXT2_3|HXT3_3|HXT4_4|HXT5_3|HXT6_3|HXT7_3|HXT8_3|HXT9_4 [0, 1000]
+HYXNxtI [0, 0]
+HYXNxtO [0, 1000]
+ICL1|ICL2 [0, 1000]
+IDH1 [0, 1000]
+IDI1 [-1000, 1000]
+IDP1_1 [0, 1000]
+IDP1_2 [0, 1000]
+IDP2_1|IDP3_1 [0, 1000]
+IDP2_2|IDP3_2 [0, 1000]
+ILExtI [0, 0]
+ILExtO [0, 1000]
+ILV1 [0, 1000]
+ILV2_1 [0, 1000]
+ILV2_2 [0, 1000]
+ILV3_1 [0, 1000]
+ILV3_2 [0, 1000]
+ILV5_1 [0, 1000]
+ILV5_2 [0, 1000]
+ILV5_3 [0, 1000]
+INM1 [0, 1000]
+INO1 [0, 1000]
+INSxtI [0, 0]
+INSxtO [0, 1000]
+IPP1 [0, 1000]
+IPT1 [0, 1000]
+ITR1|ITR2 [0, 1000]
+JEN1_1 [-1000, 1000]
+JEN1_2 [-1000, 1000]
+KGD1 [0, 1000]
+KRE2|KTR1|KTR2|KTR3|KTR4|KTR6|YUR1 [0, 1000]
+KRS1 [0, 1000]
+KxtI [0, 1000]
+KxtO [0, 0]
+LACxtI [0, 0]
+LACxtO [0, 1000]
+LCB1|LCB2 [0, 1000]
+LCB3|YSR3 [0, 1000]
+LCB4_1|LCB5_1 [0, 1000]
+LCB4_2|LCB5_2 [0, 1000]
+LEU1_1 [-1000, 1000]
+LEU1_2 [-1000, 1000]
+LEU2 [0, 1000]
+LEU4 [0, 1000]
+LEUxtI [0, 0]
+LEUxtO [0, 1000]
+LPP1 [0, 1000]
+LSC1 [-1000, 1000]
+LSC2 [-1000, 1000]
+LYS1 [-1000, 1000]
+LYS12 [-1000, 1000]
+LYS20_1|LYS21 [0, 1000]
+LYS20_2 [0, 1000]
+LYS2_1 [0, 1000]
+LYS2_2 [0, 1000]
+LYS4 [-1000, 1000]
+LYS9 [-1000, 1000]
+LYSxtI [0, 0]
+LYSxtO [0, 1000]
+MAE1 [0, 1000]
+MAL31 [-1000, 1000]
+MALxtI [0, 0]
+MALxtO [0, 1000]
+MANNxtI [0, 0]
+MANNxtO [0, 1000]
+MANxtI [0, 0]
+MANxtO [0, 1000]
+MDAPxtI [0, 0]
+MDAPxtO [0, 1000]
+MDH1 [0, 1000]
+MDH2|MDH3 [-1000, 1000]
+MELIxtI [0, 0]
+MELIxtO [0, 1000]
+MEP1|MEP2|MEP3 [-1000, 1000]
+MET1 [0, 1000]
+MET12|MET13 [0, 1000]
+MET14 [0, 1000]
+MET16 [0, 1000]
+MET17_1 [0, 1000]
+MET17_2|MET17_3 [0, 1000]
+MET2 [-1000, 1000]
+MET22 [0, 1000]
+MET3 [0, 1000]
+MET6 [0, 1000]
+METxtI [0, 0]
+METxtO [0, 1000]
+MHT1|SAM4 [0, 1000]
+MIR1 [-1000, 1000]
+MIS1_1 [-1000, 1000]
+MIS1_2 [0, 1000]
+MIS1_3 [-1000, 1000]
+MIxtI [0, 0]
+MIxtO [0, 1000]
+MKxtI [0, 0]
+MKxtO [0, 1000]
+MLTxtI [0, 0]
+MLTxtO [0, 1000]
+MMETxtI [0, 0]
+MMETxtO [0, 1000]
+MMP1 [0, 1000]
+MNTxtI [0, 0]
+MNTxtO [0, 1000]
+MSE1 [0, 1000]
+MSK1 [0, 1000]
+MSR1|YDR341C [0, 1000]
+MSW1 [0, 1000]
+MTD1 [0, 1000]
+MTHNxtI [0, 0]
+MTHNxtO [0, 1000]
+MUQ1 [0, 1000]
+MVD1 [0, 1000]
+MVLxtI [0, 0]
+MVLxtO [0, 1000]
+NAT1|NAT2 [0, 1000]
+NAxtI [0, 0]
+NAxtO [0, 1000]
+NCP1 [0, 1000]
+NDH1|NDH2 [0, 1000]
+NH3xtI [0, 1000]
+NH3xtO [0, 0]
+NHA1 [-1000, 1000]
+NIT2_1 [0, 1000]
+NIT2_2 [0, 1000]
+NIT2_3 [0, 1000]
+NMNxtI [0, 0]
+NMNxtO [0, 1000]
+NMT1 [0, 1000]
+NPT1_1 [0, 1000]
+NPT1_2 [0, 1000]
+O2xtI [0, 1000]
+O2xtO [0, 0]
+OAC1 [-1000, 1000]
+ODC1|ODC2 [-1000, 1000]
+OGTxtI [0, 0]
+OGTxtO [0, 1000]
+OPEPxtI [0, 0]
+OPEPxtO [0, 1000]
+OPI3_1 [0, 1000]
+OPI3_2 [0, 1000]
+ORNxtI [0, 0]
+ORNxtO [0, 1000]
+ORT1 [-1000, 1000]
+OSM1 [0, 1000]
+PAD1 [0, 1000]
+PAN5 [0, 1000]
+PAPxtI [0, 0]
+PAPxtO [0, 1000]
+PCK1 [0, 1000]
+PCM1_1 [-1000, 1000]
+PCM1_2 [-1000, 1000]
+PCT1 [0, 1000]
+PDA1 [0, 1000]
+PDC1|PDC5|PDC6 [0, 1000]
+PDE1|PDE2_1 [0, 1000]
+PDE2_2 [0, 1000]
+PDE2_3 [0, 1000]
+PDE2_4 [0, 1000]
+PDE2_5 [0, 1000]
+PDX3_1|PDX3_5 [0, 1000]
+PDX3_2 [-1000, 1000]
+PDX3_3 [-1000, 1000]
+PDX3_4 [-1000, 1000]
+PEPTxtI [0, 0]
+PEPTxtO [0, 1000]
+PFK1_1|PFK2 [0, 1000]
+PFK1_2 [0, 1000]
+PFK1_3 [0, 1000]
+PFK26|PFK27 [0, 1000]
+PGI1_1 [-1000, 1000]
+PGI1_2 [-1000, 1000]
+PGI1_3 [-1000, 1000]
+PGK1 [-1000, 1000]
+PGM1_1|PGM2_1 [-1000, 1000]
+PGM1_2|PGM2_2 [-1000, 1000]
+PGS1 [-1000, 1000]
+PHA2 [0, 1000]
+PHExtI [0, 0]
+PHExtO [0, 1000]
+PHO11 [0, 1000]
+PHO8 [0, 1000]
+PHO84 [-1000, 1000]
+PIK1|STT4 [0, 1000]
+PIMExtI [0, 0]
+PIMExtO [0, 1000]
+PIS1 [0, 1000]
+PIxtI [0, 1000]
+PIxtO [0, 1000]
+PLC1 [0, 1000]
+PMA1|PMA2|PMP1|PMP2 [0, 1000]
+PMI40 [-1000, 1000]
+PMT1|PMT2|PMT3|PMT4|PMT5|PMT6 [0, 1000]
+PNC1_1 [-1000, 1000]
+PNC1_2 [-1000, 1000]
+PNP1_1 [-1000, 1000]
+PNP1_10 [-1000, 1000]
+PNP1_11 [-1000, 1000]
+PNP1_2 [-1000, 1000]
+PNP1_3 [-1000, 1000]
+PNP1_4 [-1000, 1000]
+PNP1_5 [-1000, 1000]
+PNP1_6 [-1000, 1000]
+PNP1_7 [-1000, 1000]
+PNP1_8 [-1000, 1000]
+PNP1_9 [-1000, 1000]
+PNTOxtI [0, 0]
+PNTOxtO [0, 1000]
+POS5_1|UTR1_1|YEL041W_1 [0, 1000]
+POS5_2|UTR1_2|YEL041W_2 [0, 1000]
+POT1 [0, 1000]
+POX1/FOX2/POT3_1 [0, 1000]
+POX1/FOX2/POT3_2 [0, 1000]
+POX1/FOX2/POT3_3 [0, 1000]
+PPA2 [0, 1000]
+PPT2 [0, 1000]
+PRO1 [0, 1000]
+PRO2_1 [0, 1000]
+PRO2_2 [0, 1000]
+PRO3_1 [0, 1000]
+PRO3_2 [0, 1000]
+PRO3_3 [0, 1000]
+PROxtI [0, 0]
+PROxtO [0, 1000]
+PRS1|PRS2|PRS3|PRS4|PRS5 [-1000, 1000]
+PSA1 [0, 1000]
+PSD1 [0, 1000]
+PSD2 [0, 1000]
+PTR2_1 [0, 1000]
+PTR2_2 [0, 1000]
+PTR2_3 [0, 1000]
+PTRCxtI [0, 0]
+PTRCxtO [0, 1000]
+PUT1 [0, 1000]
+PUT2 [0, 1000]
+PUT4_4|UGA4_1 [0, 1000]
+PYC1|PYC2 [0, 1000]
+PYRD [-1000, 1000]
+PYRDXxtI [0, 0]
+PYRDXxtO [0, 1000]
+PYRxtI [0, 0]
+PYRxtO [0, 1000]
+QNS1_1 [0, 1000]
+QNS1_2 [0, 1000]
+QPT1_1 [0, 1000]
+QPT1_2 [0, 1000]
+QRI1 [-1000, 1000]
+RBK1_1 [0, 1000]
+RBK1_2 [0, 1000]
+RFLAVxtI [0, 0]
+RFLAVxtO [0, 1000]
+RIB1 [0, 1000]
+RIB5 [0, 1000]
+RIB7_1 [0, 1000]
+RIB7_2 [0, 1000]
+RIBxtI [0, 0]
+RIBxtO [0, 1000]
+RIP1 [0, 1000]
+RKI1 [0, 1000]
+RMNxtI [0, 0]
+RMNxtO [0, 1000]
+RNR1_1|RNR3 [0, 1000]
+RNR1_2 [0, 1000]
+RNR1_3 [0, 1000]
+RNR1_4 [0, 1000]
+RPE1 [0, 1000]
+SAH1 [0, 1000]
+SAM1|SAM2 [0, 1000]
+SAM3 [0, 1000]
+SAMxtI [0, 0]
+SAMxtO [0, 1000]
+SCS7 [0, 1000]
+SDH3_1 [-1000, 1000]
+SDH3_2 [-1000, 1000]
+SEC53 [-1000, 1000]
+SEC59 [0, 1000]
+SER1_1 [0, 1000]
+SER1_2 [-1000, 1000]
+SER2 [0, 1000]
+SER3|SER33 [0, 1000]
+SERxtI [0, 0]
+SERxtO [0, 1000]
+SFA1_1 [-1000, 1000]
+SFC1 [0, 1000]
+SHM1 [-1000, 1000]
+SHM2 [-1000, 1000]
+SLAxtI [0, 0]
+SLAxtO [0, 1000]
+SLC1|U8_ [0, 1000]
+SLFxtI [0, 1000]
+SLFxtO [0, 0]
+SOL1|SOL2|SOL3|SOL4 [0, 1000]
+SOR1 [0, 1000]
+SORBxtI [0, 0]
+SORBxtO [0, 1000]
+SORxtI [0, 0]
+SORxtO [0, 1000]
+SPE1 [0, 1000]
+SPE2 [-1000, 1000]
+SPE3 [0, 1000]
+SPE4 [0, 1000]
+SPMDxtI [0, 0]
+SPMDxtO [0, 1000]
+SPRMxtI [0, 0]
+SPRMxtO [0, 1000]
+SUC2 [0, 1000]
+SUCCxtI [0, 0]
+SUCCxtO [0, 1000]
+SUCSxtI [0, 0]
+SUCSxtO [0, 1000]
+SUCxtI [0, 0]
+SUCxtO [0, 1000]
+SUL1|SUL2|YGR125W [0, 1000]
+SUR2 [0, 1000]
+TAL1|YGR043C [0, 1000]
+TDH1|TDH2|TDH3 [-1000, 1000]
+THI20_1|THI21|THI22 [0, 1000]
+THI20_2 [0, 1000]
+THI6_1 [0, 1000]
+THI6_2 [0, 1000]
+THI7|YOR071C|YOR192C [0, 1000]
+THI80_1 [0, 1000]
+THI80_2 [0, 1000]
+THMxtI [0, 0]
+THMxtO [0, 1000]
+THR1 [0, 1000]
+THR4_1 [0, 1000]
+THR4_2 [0, 1000]
+THRxtI [0, 0]
+THRxtO [0, 1000]
+THYxtI [0, 0]
+THYxtO [0, 1000]
+TKL1_1|TKL2_1 [0, 1000]
+TKL1_2|TKL2_2 [0, 1000]
+TOR1|TOR2|VPS34 [0, 1000]
+TPI1 [-1000, 1000]
+TPS1|TPS3|TSL1 [0, 1000]
+TPS2 [0, 1000]
+TRExtI [0, 0]
+TRExtO [0, 1000]
+TRK1 [-1000, 1000]
+TRP1 [0, 1000]
+TRP2_1|TRP3_1 [0, 1000]
+TRP2_2|TRP3_3 [0, 1000]
+TRP3_2 [0, 1000]
+TRP4 [0, 1000]
+TRP5 [0, 1000]
+TRPxtI [0, 0]
+TRPxtO [0, 1000]
+TRR1 [0, 1000]
+TRR2 [0, 1000]
+TSC10 [0, 1000]
+TYR1 [0, 1000]
+TYRxtI [0, 0]
+TYRxtO [0, 1000]
+U100_ [0, 1000]
+U101_ [0, 1000]
+U102_ [0, 1000]
+U103_ [-1000, 1000]
+U104_ [-1000, 1000]
+U105_ [0, 1000]
+U106_ [0, 1000]
+U107_ [0, 1000]
+U108_ [0, 1000]
+U109_ [-1000, 1000]
+U10_ [0, 1000]
+U110_ [-1000, 1000]
+U111_ [-1000, 1000]
+U112_ [-1000, 1000]
+U113_ [-1000, 1000]
+U114_ [-1000, 1000]
+U115_ [-1000, 1000]
+U116_ [-1000, 1000]
+U117_ [-1000, 1000]
+U118_ [-1000, 1000]
+U119_ [-1000, 1000]
+U11_ [0, 1000]
+U120_ [-1000, 1000]
+U121_ [-1000, 1000]
+U122_ [-1000, 1000]
+U123_ [0, 1000]
+U124_ [0, 1000]
+U125_ [-1000, 1000]
+U126_ [-1000, 1000]
+U127_ [0, 1000]
+U128_ [-1000, 1000]
+U129_ [0, 1000]
+U12_ [0, 1000]
+U130_ [-1000, 1000]
+U131_ [-1000, 1000]
+U132_ [-1000, 1000]
+U133_ [-1000, 1000]
+U134_ [-1000, 1000]
+U135_ [0, 1000]
+U136_ [-1000, 1000]
+U137_ [-1000, 1000]
+U138_ [-1000, 1000]
+U139_ [-1000, 1000]
+U13_ [0, 1000]
+U140_ [-1000, 1000]
+U141_ [-1000, 1000]
+U142_ [-1000, 1000]
+U143_ [-1000, 1000]
+U144_ [-1000, 1000]
+U145_ [-1000, 1000]
+U146_ [-1000, 1000]
+U147_ [-1000, 1000]
+U148_ [-1000, 1000]
+U149_ [-1000, 1000]
+U14_ [0, 1000]
+U150_ [-1000, 1000]
+U151_ [0, 1000]
+U152_ [0, 1000]
+U153_ [0, 1000]
+U154_ [0, 1000]
+U155_ [-1000, 1000]
+U156_ [-1000, 1000]
+U157_ [-1000, 1000]
+U158_ [-1000, 1000]
+U159_ [-1000, 1000]
+U15_ [0, 1000]
+U160_ [0, 1000]
+U161_ [0, 1000]
+U162_ [-1000, 1000]
+U163_ [0, 1000]
+U164_ [0, 1000]
+U165_ [0, 1000]
+U166_ [0, 1000]
+U167_ [0, 1000]
+U168_ [0, 1000]
+U16_ [0, 1000]
+U170_ [0, 0]
+U171_ [0, 1000]
+U172_ [0, 1000]
+U173_ [0, 1000]
+U174_|U185_|U191_ [0, 1000]
+U175_|U192_ [0, 1000]
+U176_|U186_|U193_ [0, 1000]
+U177_|U194_ [0, 1000]
+U178_ [0, 1000]
+U179_|U187_|U195_ [0, 1000]
+U17_ [-1000, 1000]
+U180_|U196_ [0, 1000]
+U181_|U197_ [0, 1000]
+U182_|U188_|U198_ [0, 1000]
+U183_|U189_|U199_ [0, 1000]
+U184_|U190_|U200_ [0, 1000]
+U18_ [-1000, 1000]
+U19_ [-1000, 1000]
+U1_ [0, 1000]
+U201_ [-1000, 1000]
+U202_ [-1000, 1000]
+U203_ [-1000, 1000]
+U204_ [-1000, 1000]
+U205_ [-1000, 1000]
+U206_ [-1000, 1000]
+U207_ [-1000, 1000]
+U208_ [0, 1000]
+U209_ [0, 1000]
+U20_ [0, 1000]
+U210_ [0, 1000]
+U211_ [0, 1000]
+U212_ [0, 1000]
+U213_ [-1000, 1000]
+U214_ [1, 1]
+U215_ [-1000, 1000]
+U216_ [-1000, 1000]
+U217_ [-1000, 1000]
+U218_ [-1000, 1000]
+U219_ [-1000, 1000]
+U21_ [0, 1000]
+U220_ [-1000, 1000]
+U221_ [-1000, 1000]
+U222_ [-1000, 1000]
+U223_ [-1000, 1000]
+U224_ [0, 1000]
+U225_ [0, 1000]
+U226_ [0, 1000]
+U227_ [-1000, 1000]
+U228_ [-1000, 1000]
+U229_ [0, 1000]
+U22_ [-1000, 1000]
+U23_ [0, 1000]
+U24_ [0, 1000]
+U25_ [0, 1000]
+U26_ [0, 1000]
+U27_ [0, 1000]
+U28_ [0, 1000]
+U29_ [0, 1000]
+U2_ [0, 1000]
+U30_ [0, 1000]
+U31_ [0, 1000]
+U32_ [0, 1000]
+U33_ [0, 1000]
+U34_ [0, 1000]
+U35_ [0, 1000]
+U36_ [0, 1000]
+U37_ [0, 1000]
+U38_ [0, 1000]
+U39_ [0, 1000]
+U3_|U4_ [0, 1000]
+U40_ [0, 1000]
+U41_ [0, 1000]
+U42_|U43_ [0, 1000]
+U44_ [0, 1000]
+U45_ [-1000, 1000]
+U46_ [0, 1000]
+U47_ [0, 1000]
+U48_ [0, 1000]
+U49_ [-1000, 1000]
+U50_ [-1000, 1000]
+U51_ [-1000, 1000]
+U52_ [0, 1000]
+U53_ [0, 1000]
+U54_ [0, 1000]
+U55_ [0, 1000]
+U56_ [0, 1000]
+U57_ [0, 1000]
+U58_ [0, 1000]
+U59_ [0, 1000]
+U5_|U6_ [0, 1000]
+U60_ [0, 1000]
+U61_ [0, 1000]
+U62_ [0, 1000]
+U63_ [0, 1000]
+U64_ [0, 1000]
+U65_ [0, 1000]
+U66_ [-1000, 1000]
+U67_ [-1000, 1000]
+U68_ [0, 1000]
+U69_ [0, 1000]
+U70_ [0, 1000]
+U71_ [0, 1000]
+U72_|U73_|U74_|U75_ [0, 1000]
+U76_ [-1000, 1000]
+U77_ [0, 1000]
+U78_ [0, 1000]
+U79_ [0, 1000]
+U7_ [0, 1000]
+U80_ [0, 1000]
+U81_ [0, 1000]
+U82_ [0, 1000]
+U83_ [0, 1000]
+U84_ [0, 1000]
+U85_ [0, 1000]
+U86_ [-1000, 1000]
+U87_ [0, 1000]
+U88_ [0, 1000]
+U89_ [0, 1000]
+U90_ [0, 1000]
+U91_ [0, 1000]
+U92_ [0, 1000]
+U93_ [0, 1000]
+U94_ [0, 1000]
+U95_ [0, 1000]
+U96_ [0, 1000]
+U97_ [0, 1000]
+U98_ [0, 1000]
+U99_ [0, 1000]
+U9_ [0, 1000]
+UGA1 [0, 1000]
+UGA4_2 [0, 1000]
+UGP1|YHL012W [-1000, 1000]
+URA1 [-1000, 1000]
+URA10|URA5 [-1000, 1000]
+URA2_1 [0, 1000]
+URA3 [0, 1000]
+URA4 [-1000, 1000]
+URA6_1|URA6_2 [-1000, 1000]
+URA6_3 [-1000, 1000]
+URA7_1|URA8_1 [0, 1000]
+URA7_2|URA8_2 [0, 1000]
+URAxtI [0, 0]
+URAxtO [0, 1000]
+UREAxtI [0, 0]
+UREAxtO [0, 1000]
+URH1_1 [0, 1000]
+URH1_2 [0, 1000]
+URIxtI [0, 0]
+URIxtO [0, 1000]
+URK1_1 [0, 1000]
+URK1_2 [0, 1000]
+URK1_3 [0, 1000]
+VALxtI [0, 0]
+VALxtO [0, 1000]
+VGRO [0, 1000]
+VHT1 [-1000, 1000]
+XANxtI [0, 0]
+XANxtO [0, 1000]
+XKS1 [0, 1000]
+XPT1 [0, 1000]
+XTSNxtI [0, 0]
+XTSNxtO [0, 1000]
+YAT1 [0, 1000]
+YBL098W [0, 1000]
+YBR006W [0, 1000]
+YBR184W_1 [0, 1000]
+YBR184W_2 [0, 1000]
+YBR184W_3 [0, 1000]
+YBR184W_4 [-1000, 1000]
+YBR184W_5 [-1000, 1000]
+YBR184W_6 [-1000, 1000]
+YBR184W_7 [-1000, 1000]
+YCR024C [0, 1000]
+YDL100C [0, 1000]
+YDR111C [-1000, 1000]
+YDR531W [0, 1000]
+YEL047C [0, 1000]
+YER053C [-1000, 1000]
+YFL030W [-1000, 1000]
+YFR055W [0, 1000]
+YGL245W [0, 1000]
+YGR012W [0, 1000]
+YIL145C [0, 1000]
+YJL068C [-1000, 1000]
+YJR078W [0, 1000]
+YJR105W [0, 1000]
+YLR089C [-1000, 1000]
+YLR100C_1 [0, 1000]
+YLR100C_2 [0, 1000]
+YLR231C_1 [0, 1000]
+YLR231C_2 [0, 1000]
+YLR328W_1 [0, 1000]
+YLR328W_2 [0, 1000]
+YLR328W_3 [0, 1000]
+YML082W [-1000, 1000]
+YNK1_1 [-1000, 1000]
+YNK1_2 [-1000, 1000]
+YNK1_3 [-1000, 1000]
+YNK1_4 [-1000, 1000]
+YNK1_5 [-1000, 1000]
+YNK1_6 [-1000, 1000]
+YNK1_7 [-1000, 1000]
+YNK1_8 [-1000, 1000]
+YNK1_9 [-1000, 1000]
+ZWF1 [-1000, 1000]
+ZYMSTxtI [0, 1000]
+ZYMSTxtO [0, 0]
+
+#changed directions  Fendt et al. 2010 
+PGI1_1 [0,1000]
+PGI1_2 [0,1000]
+PGI1_3 [0,1000]
+FBA1 [0,1000]
+TDH1|TDH2|TDH3 [0,1000]
+PGK1 [0,1000]
+GPM1_1 [0,1000]
+GPM1_2|GPM2|GPM3 [-1000, 1000]
+ENO1|ENO2|ERR1_1|ERR1_2|ERR2 [0,1000]
+ACO1|YJL200C [0,1000]
+LSC1 [-1000,0]
+LSC2 [-1000,0]
+FUM1_1 [0,1000]
+FUM1_2 [0,1000]
+
+#fixing amino acids
+SHM1 [0, 1000]
+SHM2 [0, 1000]
+GDH2 [0, 0]
+OAC1 [0, 1000] 
+DIC1_1 [0, 1000]
+
+#verify
+YDR111C [0, 1000]
+YFL030W [-1000, 0]
+CTP1_1 [0, 1000] 
+
+
+#condition 2 Fendt et al. 2010
+GLCxtI [10, 11]
+ETHxtO [14, 15]
+GLxtO [1.66, 2.07]
+PYRxtO [0.04, 0.06]
+Growth [0.2, 0.26]
+O2xtI [0.4, 0.5]
+
+
+
+
+
+
+-EXTERNAL METABOLITES
+ACALxtX
+ACxtX
+ADNxtX
+ADxtX
+AKGxtX
+ALAxtX
+AONAxtX
+ARABxtX
+ARGxtX
+ASNxtX
+ASPxtX
+ATNxtX
+BCAAxtX
+BMxtX
+BTxtX
+C140xtX
+C160xtX
+C161xtX
+C180xtX
+C181xtX
+CHLSTxtX
+CHOxtX
+CITxtX
+CO2xtX
+CYSxtX
+CYTDxtX
+CYTSxtX
+DALAxtX
+DANNAxtX
+DAxtX
+DCxtX
+DGxtX
+DHAxtX
+DINxtX
+DIPEPxtX
+DSERxtX
+DTTPxtX
+DTxtX
+DUxtX
+ERGOSTxtX
+ETHxtX
+FORxtX
+FRUxtX
+FUCxtX
+FUMxtX
+GA6PxtX
+GABAxtX
+GALACxtX
+GL3PxtX
+GLACxtX
+GLALxtX
+GLAMxtX
+GLCNxtX
+GLCxtX
+GLNxtX
+GLTLxtX
+GLTxtX
+GLUxtX
+GLYxtX
+GLxtX
+GNxtX
+GSNxtX
+GULTxtX
+H+EXT
+HISxtX
+HYXNxtX
+ILExtX
+INSxtX
+KxtX
+LACxtX
+LEUxtX
+LYSxtX
+MALxtX
+MANNxtX
+MANxtX
+MDAPxtX
+MELIxtX
+METxtX
+MIxtX
+MKxtX
+MLTxtX
+MMETxtX
+MNTxtX
+MTHNxtX
+MVLxtX
+NAxtX
+NH3xtX
+NMNxtX
+O2xtX
+OGTxtX
+OPEPxtX
+ORNxtX
+Oxidized flavoprotein
+PAPxtX
+PEPTxtX
+PHExtX
+PIMExtX
+PIxtX
+PNTOxtX
+PROxtX
+PTRCxtX
+PYRDXxtX
+PYRxtX
+RFLAVxtX
+RIBxtX
+RMNxtX
+Reduced flavoprotein
+SAMxtX
+SERxtX
+SLAxtX
+SLFxtX
+SORBxtX
+SORxtX
+SPMDxtX
+SPRMxtX
+SUCCxtX
+SUCSxtX
+SUCxtX
+THMxtX
+THRxtX
+THYxtX
+TRExtX
+TRPxtX
+TYRxtX
+URAxtX
+UREAxtX
+URIxtX
+VALxtX
+XANxtX
+XTSNxtX
+XYLxt
+ZYMSTxtX
+
+-OBJ
+Growth 1 1
+
+-DESIGNOBJ
+SUCCxtO 1 1

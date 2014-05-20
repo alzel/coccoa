@@ -1,0 +1,4317 @@
+degree	metabolite	score
+0	UREAxtX	0.0
+0	5-O-(1-Carboxyvinyl)-3-phosphoshikimate	-0.371390653
+0	Sulfate	0.0
+0	Phosphatidylserine	0.492183498
+0	ORNxt	0.0
+0	GLUxt	0.0
+0	(R)-5-Diphosphomevalonate	0.0
+0	Deoxycytidine	0.0
+0	TRPxtX	0.0
+0	(R)-2,3-dihydroxy-3-methylbutanoateM	-0.495706624
+0	Geranyl diphosphate	0.0
+0	PYRxtX	0.0
+0	GLNxtX	0.0
+0	ATPM	0.161957318
+0	ACALxtX	0.0
+0	Glutathione	0.729817476
+0	L-Arginine	0.5948804815
+0	beta-D-Fructose 1,6-bisphosphate	0.582701936
+0	GLCxt	0.67425582
+0	N-Acetyl-L-glutamate 5-semialdehydeM	-0.554056865
+0	Dolichyl phosphate	0.0
+0	SUCCxt	0.0
+0	CO2M	0.0
+0	Thymine	0.0
+0	Acetate	0.464197445
+0	BMxt	0.0
+0	5-Phosphoribosylamine	-0.60521855
+0	(S)-3-Hydroxy-3-methylglutaryl-CoA	0.0
+0	D-4'-Phosphopantothenate	0.0
+0	Diacylglycerol	0.0
+0	CMP	0.0
+0	Acetoacetyl-CoA	0.0
+0	Pyrophosphate	0.0
+0	H2O2	0.800619727
+0	HO-M	0.0
+0	L-ThreonineM	-0.741708977
+0	Prephenate	-0.434540827
+0	Carnitine	0.756684962
+0	Dihydrofolate	0.0
+0	PHExtX	0.0
+0	OxaloglutarateM	0.0
+0	Succinate semialdehyde	0.0
+0	Guanosine	0.0
+0	Succinate	0.839862957
+0	2-(Formamido)-N1-(5'-phosphoribosyl)acetamidine	-0.60521855
+0	dTTP	0.0
+0	5-Methyltetrahydrofolate	0.0
+0	2-Amino-3-carboxymuconate semialdehyde	0.0
+0	GLUxtX	0.0
+0	But-1-ene-1,2,4-tricarboxylateM	-0.464428738
+0	CTP	0.598190359
+0	Orotate	0.0
+0	OxygenM	0.0
+0	2-OxoadipateM	0.0
+0	L-Asparagine	-0.997013962
+0	2-AcetolactateM	-0.341147109
+0	ERGOSTxt	0.0
+0	Xanthosine	0.0
+0	L-Kynurenine	0.0
+0	ASPxt	0.0
+0	1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	0.0
+0	Phosphatidyl-N-methylethanolamine	0.0
+0	LEUxt	0.0
+0	L-Tyrosine	-0.6933991215
+0	ADPM	0.0
+0	alpha,alpha-Trehalose	1.0409700355
+0	CitrateM	-0.114725895
+0	O2xtX	0.0
+0	FMN	0.0
+0	VALxt	0.0
+0	Carbamoyl phosphate	-0.512245341
+0	4-Methylzymsterol	0.0
+0	NAD+M	0.0088126045
+0	NADP+M	-1.9608117625
+0	UbiquinolM	0.402081684
+0	FUMxtX	0.0
+0	Adenosine 3',5'-bisphosphate	0.0
+0	Ergosta-5,7,24(28)-trienol	0.0
+0	L-Aspartate	-0.633052818833
+0	2-Aceto-2-hydroxy butyrateM	-0.341147109
+0	Sulfite	0.0
+0	5,10-Methylenetetrahydrofolate	-0.584578945
+0	Fecosterol	0.0
+0	10-Formyltetrahydrofolate	-0.836489523
+0	AcetaldehydeM	-1.244038108
+0	Phenylpyruvate	0.95794466
+0	Urea	0.0
+0	Acyl-[acyl-carrier protein]	0.0
+0	3-Carboxy-4-methyl-2-oxopentanoate	0.0
+0	Indoleglycerol phosphate	-0.485602653
+0	dATP	0.0
+0	3-(4-Hydroxyphenyl)pyruvate	0.2152286275
+0	Phosphatidylcholine	0.0
+0	D-Ribose 5-phosphate	-0.6396404545
+0	L-Glutamine	-0.92927230325
+0	Hydrogen sulfide	0.0
+0	N-Acetyl-L-glutamate 5-phosphateM	-0.390246075
+0	FORxt	0.0
+0	NH3	-1.034445093
+0	alpha-D-Glutamyl phosphate	0.0
+0	3-Dehydroshikimate	0.0
+0	5-Phospho-alpha-D-ribose 1-diphosphate	-0.9664594625
+0	UDP	0.598190359
+0	OrthophosphateM	0.978876907
+0	2-Aminomuconate 6-semialdehyde	0.0
+0	GNxtX	0.0
+0	Myristoyl-[acyl-carrier protein]	0.0
+0	SuccinateM	0.0
+0	N-(L-Arginino)succinate	-0.439188421
+0	Ergosterol	0.0
+0	Shikimate 3-phosphate	0.0
+0	1-Phosphatidyl-D-myo-inositol	0.0
+0	AONAxtX	0.0
+0	PNTOxt	0.0
+0	GLYxtX	0.0
+0	Reduced flavoprotein	0.0
+0	L-2-Aminoadipate	0.762130036
+0	O-AcetylcarnitineM	0.0
+0	L-Serine	-0.6771450045
+0	Urea-1-carboxylate	0.0
+0	FADM	0.446002106
+0	N2-Acetyl-L-ornithineM	0.0
+0	1,3-beta-D-Glucan	-0.620450059
+0	dCDP	0.0
+0	Guanine	-1.498223413
+0	OxaloacetateM	0.452085877
+0	Acyl-carrier protein	0.0
+0	4,4-Dimethylcholesta-8,14,24-trienol	0.522753388
+0	Ferricytochrome cM	0.402081684
+0	HISxtX	0.0
+0	dGTP	0.0
+0	VALxtX	0.0
+0	AONAxt	0.0
+0	Reduced thioredoxin	-0.58264558
+0	MALxt	0.0
+0	L-OrnithineM	0.0
+0	N6-(1,2-Dicarboxyethyl)-AMP	-0.776879336
+0	Acyldihydroxyacetone phosphate	0.0
+0	ACALxt	0.0
+0	THRxtX	0.0
+0	3-Methyl-2-oxobutanoateM	0.0
+0	GLYxt	0.0
+0	Palmitoyl-[acyl-carrier protein]	0.0
+0	L-Lysine	-0.763391384
+0	Linolenoyl-[acyl-carrier protein]	0.0
+0	Dephospho-CoA	0.0
+0	N-Acetyl-L-glutamateM	-0.390246075
+0	Stearoyl-[acyl-carrier protein]	0.0
+0	Intermediate_Zymosterol_II	0.0
+0	PIxtX	0.0
+0	gamma-L-Glutamyl-L-cysteine	0.0
+0	4-Aminobutanoate	0.406271435
+0	D-Glucose 1-phosphate	0.0
+0	ACxtX	0.0
+0	Sedoheptulose 7-phosphate	0.573888326
+0	Malate	0.0
+0	1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole	-0.776879336
+0	D-Ribose 1-phosphate	0.0
+0	N1-(5-Phospho-D-ribosyl)-ATP	0.0
+0	N6-(L-1,3-Dicarboxypropyl)-L-lysine	-0.98029283
+0	Tetrahydrofolate	-0.988606076
+0	ETHxt	0.0
+0	ASPxtX	0.0
+0	Episterol	0.0
+0	OxalosuccinateM	0.0
+0	CITxtX	0.0
+0	N1-(5-Phospho-D-ribosyl)-AMP	0.0
+0	(S)-Dihydroorotate	-0.437254712
+0	GA6Pxt	0.0
+0	ILExtX	0.0
+0	ATP	-0.346405597189
+0	GlutamateM	-0.554056865
+0	HYXN	0.0
+0	Phosphoenolpyruvate	-0.35855237
+0	2-OxobutanoateM	-0.539389777
+0	alpha,alpha'-Trehalose 6-phosphate	0.735175251
+0	L-Cysteine	-0.389784281
+0	Lanosterol	0.0
+0	Oxaloacetate	-1.085590758
+0	UREAxt	0.0
+0	Deoxy-ribose 1-phosphate	0.0
+0	Oxidized flavoprotein	0.0
+0	3-Phosphoserine	-1.590057057
+0	5'-Phosphoribosyl-N-formylglycinamide	-0.577093673
+0	CYSxtX	0.0
+0	GTP	-0.604981086667
+0	IMP	-1.1341246845
+0	3-Methyl-2-oxobutanoate	0.0
+0	L-Ornithine	-0.512245341
+0	3-Phospho-D-glycerate	-1.1396480215
+0	Glycerone phosphate	-0.4688690425
+0	3-(Imidazol-4-yl)-2-oxopropyl phosphate	0.0
+0	L-Citrulline	-0.469569828
+0	3-Phospho-D-glyceroyl phosphate	0.0
+0	CO2xt	0.0
+0	L-Proline	1.511598565
+0	ZYMSTxt	0.0
+0	Thiamin monophosphate	0.0
+0	L-SerineM	0.0
+0	ARGxtX	0.0
+0	L-Threonine	-0.997013962
+0	L-Histidinol	0.0
+0	2-Aminomuconate	0.0
+0	Malonyl-[acyl-carrier protein]	0.0
+0	alpha-D-Glucose	0.897842022333
+0	HISxt	0.0
+0	D-Ribose	0.0
+0	L-Homoserine	-0.579582085
+0	D-Glucosamine 6-phosphate	0.0
+0	(R)-Pantothenate	0.0
+0	SUCCxtX	0.0
+0	3-Phosphonooxypyruvate	-0.689111303
+0	ACxt	0.0
+0	dUDP	0.0
+0	N-Carbamoyl-L-aspartate	0.0
+0	Glycine	-0.04353245
+0	Xanthosine 5'-phosphate	-1.00482408
+0	L-2-Aminoadipate 6-semialdehyde	-0.482698077
+0	FORxtX	0.0
+0	METxt	0.0
+0	L-Formylkynurenine	0.0
+0	5'-Phosphoribosylglycinamide	-0.845683487
+0	Glycogen	1.58331709
+0	3-Hydroxykynurenine	0.0
+0	Adenylylsulfate	0.0
+0	Uridine	-0.571624605
+0	ILExt	0.0
+0	(S)-1-Pyrroline-5-carboxylate	0.0
+0	O2xt	0.0
+0	Phosphatidylethanolamine	0.0
+0	(S)-2,3-Epoxysqualene	0.0
+0	4,4-Dimethylzymosterol	0.0
+0	Deoxyadenosine	-2.231651257
+0	PNTOxtX	0.0
+0	ASNxt	0.0
+0	CITxt	0.0
+0	BMxtX	0.0
+0	L-Glutamate	0.155533149937
+0	D-Erythrose 4-phosphate	-0.35855237
+0	trans,trans-Farnesyl diphosphate	0.0
+0	(S)-1-Pyrroline-5-carboxylateM	0.0
+0	Dolichyl beta-D-mannosyl phosphate	0.0
+0	ORNxtX	0.0
+0	TYRxt	0.0
+0	Malonyl-CoA	0.0
+0	L-Leucine	-0.6933991215
+0	Deoxyinosine	0.0
+0	2-IsopropylmalateM	0.0
+0	D-Fructose 2,6-bisphosphate	0.469436249
+0	Homocysteine	-0.669863417
+0	Xanthine	0.0
+0	LYSxtX	0.0
+0	PIxt	0.0
+0	6-Phospho-D-gluconate	0.0
+0	beta-D-Fructose 6-phosphate	-0.0325744425
+0	Acetyl-CoAM	-0.03352139
+0	ZYMSTxtX	0.0
+0	Acetyl-CoA	0.0136166315
+0	Dodecanoyl-[acyl-carrier protein]	0.0
+0	ARGxt	0.0
+0	CarnitineM	0.919661704
+0	FumarateM	0.839862957
+0	THRxt	0.0
+0	Isopentenyl diphosphate	0.0
+0	3',5'-Cyclic AMP	-1.4665423695
+0	beta-Alanine	-0.592060936
+0	Thymidine	0.0
+0	ALAxt	0.0
+0	Adenine	-2.231651257
+0	D-Glucono-1,5-lactone 6-phosphate	0.723764327
+0	CoAM	0.0
+0	Ubiquinone-9M	0.49901029875
+0	8-Amino-7-oxononanoate	0.0
+0	L-Histidinol phosphate	0.0
+0	Citrate	-0.848926371
+0	L-Alanine	0.2572923015
+0	CYSxt	0.0
+0	dTDP	0.598190359
+0	Decanoyl-[acp]	0.0
+0	Zymosterol	0.0
+0	NH3M	0.0
+0	TetrahydrofolateM	-1.036977365
+0	dTMP	0.0
+0	2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate	0.0
+0	NADH	0.28050037575
+0	UMP	-0.895177356
+0	3'-Phosphoadenylylsulfate	-0.58264558
+0	myo-Inositol	0.0
+0	TYRxtX	0.0
+0	DihydrofolateM	0.0
+0	CO2xtX	0.0
+0	HYXNxt	0.0
+0	D-Xylose-5-phosphate	0.0
+0	D-Glyceraldehyde 3-phosphate	0.573888326
+0	L-Phenylalanine	-0.6933991215
+0	NADP+	0.669579066
+0	Glycerol	0.747353626
+0	N-(5-Phospho-D-ribosyl)anthranilate	0.0
+0	AcetateM	0.0
+0	Deoxyuridine	0.0
+0	Uracil	0.0
+0	Triacylglycerol	0.0
+0	ASNxtX	0.0
+0	GNxt	0.0
+0	Shikimate	0.0
+0	NADPH	0.0944326335
+0	Phosphatidyl-N-dimethylethanolamine	0.0
+0	THYxt	0.0
+0	L-Cystathionine	-0.576306318
+0	2-Phospho-D-glycerate	0.482660627
+0	(R)-4'-Phosphopantothenoyl-L-cysteine	0.0
+0	alpha-D-Glucose 6-phosphate	1.03691760917
+0	NAD+	-0.733167334938
+0	FUMxt	0.0
+0	CO2	-0.845204455
+0	5,10-Methenyltetrahydrofolate	-0.666155954
+0	L-Methionine	-0.73701189
+0	Inosine	0.0
+0	IsocitrateM	-0.848926371
+0	CDP	0.0
+0	Sphinganine 1-phosphate	0.0
+0	Thiamin diphosphate	0.0
+0	Acyl-sn-glycerol 3-phosphate	0.0
+0	dCMP	0.0
+0	Ergosta-5,7,22,24(28)-tetraenol	0.0
+0	O-Acetylcarnitine	0.919661704
+0	Hexadecanoyl-[acp]	0.0
+0	GLCxtX	0.0
+0	Chorismate	-0.742111471
+0	GlycineM	-1.036977365
+0	2-Hydroxybutane-1,2,4-tricarboxylateM	0.0
+0	SLFxt	-0.478409972
+0	DTTPxt	0.0
+0	dGMP	0.0
+0	alpha-D-Mannose 1-phosphate	0.0
+0	Ethanol	0.0
+0	Aminoimidazole ribotide	-1.346026326
+0	Intermediate_Methylzymosterol_II	0.0
+0	Pyridoxamine phosphate	0.0
+0	Oxygen	-0.437254712
+0	L-Aspartate 4-semialdehyde	0.0
+0	Phosphatidate	0.0
+0	UTP	-1.108159973
+0	2-Isopropylmalate	-0.635723019
+0	GA6PxtX	0.0
+0	AKGxtX	0.0
+0	SERxtX	0.0
+0	1L-myo-Inositol 1-phosphate	-0.830886585
+0	5-(5-Phospho-D-ribosylaminoformimino)-1-(5-phosphoribosyl)-imidazole-4-carboxamide	0.0
+0	CoA	0.571032233
+0	L-Valine	-0.6933991215
+0	4-Phospho-L-aspartate	-0.424454813
+0	5,10-MethylenetetrahydrofolateM	0.0
+0	Pyridoxamine	0.0
+0	Oleoyl-[acyl-carrier protein]	0.0
+0	1-(5-Phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate	-1.230895187
+0	GLNxt	0.0
+0	L-ProlineM	-0.584065129
+0	SLFxtX	0.0
+0	HomoisocitrateM	0.0
+0	Oxalosuccinate	0.576197108
+0	ALAxtX	0.0
+0	dCTP	0.0
+0	PAPxt	0.0
+0	GLxt	0.0
+0	Acetaldehyde	0.552212725
+0	1-(5'-Phosphoribosyl)-5-formamido-4-imidazolecarboxamide	-0.827295559
+0	3-Dehydroquinate	0.0
+0	2-Dehydropantoate	0.0
+0	LYSxt	0.0
+0	6-Carboxyhexanoyl-CoA	0.0
+0	Riboflavin	0.0
+0	Adenosine	-2.231651257
+0	ETHxtX	0.0
+0	dGDP	-0.337347367
+0	NH3xt	-0.679102565667
+0	Biomass	0.0
+0	LEUxtX	0.0
+0	O-Acetyl-L-serine	0.0
+0	L-Glutamate 5-semialdehydeM	0.0
+0	PAPxtX	0.0
+0	dAMP	0.0
+0	Thiamin	0.0
+0	THYxtX	0.0
+0	MalateM	-0.861459862333
+0	(R)-5-Phosphomevalonate	0.0
+0	SERxt	0.0
+0	NADHM	0.510744514
+0	Orotidine 5'-phosphate	0.0
+0	UDPglucose	0.390409089444
+0	Cytidine	-0.571624605
+0	Oxidized glutathione	0.0
+0	AMP	0.0
+0	XANxtX	0.0
+0	Intermediate_Methylzymosterol_I	0.0
+0	(R)-3-Hydroxy-3-methyl-2-oxobutanoateM	-0.495706624
+0	CDPdiacylglycerol	0.0
+0	PHExt	0.0
+0	XANxt	0.0
+0	FADH2M	0.0
+0	beta-D-Glucose 6-phosphate	0.0
+0	Deoxyguanosine	0.0
+0	1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide	-0.827295559
+0	(R)-2-OxoisovalerateM	0.0
+0	HYXNxtX	0.0
+0	2-OxoglutarateM	-0.519128657
+0	EthanolM	0.0
+0	S-Adenosyl-L-homocysteine	-0.617774963
+0	AKGxt	0.0
+0	3-Hydroxyanthranilate	0.0
+0	METxtX	0.0
+0	L-Histidine	-1.066740196
+0	Isocitrate	0.586939826
+0	H+EXT	0.0
+0	Formate	-0.126389578
+0	ADP	0.130421496
+0	S-Adenosyl-L-methionine	0.0
+0	Intermediate_Zymosterol_I	0.0
+0	"N-(5'-Phospho-D-1'-ribulosylformimino)-5-amino-1-(5""-phospho-D-ribosyl)-4-imidazolecarboxamide"	-0.991306769
+0	GMP	0.0
+0	Cytosine	-0.654334381
+0	dADP	0.0
+0	Mannan	0.0
+0	GDP	0.0
+0	GDPmannose	0.0
+0	dUMP	0.0
+0	ERGOSTxtX	0.0
+0	NH3xtX	0.0
+0	NADPHM	-0.357513431
+0	PROxtX	0.0
+0	PROxt	0.0
+0	Squalene	0.0
+0	(R)-Mevalonate	0.0
+0	Ferrocytochrome cM	0.0
+0	D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate	-1.17664382
+0	Orthophosphate	1.58331709
+0	2-Oxoadipate	0.0
+0	MALxtX	0.0
+0	(R)-2-Oxoisovalerate	0.434521744
+0	TRPxt	0.0
+0	GLxtX	0.0
+0	D-Mannose 6-phosphate	0.0
+0	Glyoxylate	0.630506683
+0	(R)-Pantoate	-0.592060936
+0	PyruvateM	-0.539389777
+0	Anthranilate	0.0
+0	Pyruvate	0.16388013175
+0	O-Acetyl-L-homoserine	0.0
+0	Sphinganine	0.0
+0	PYRxt	0.0
+0	O-Phospho-L-homoserine	0.0
+0	Dimethylallyl diphosphate	0.0
+0	H+M	0.402081684
+0	L-Isoleucine	-0.6933991215
+0	sn-Glycerol 3-phosphate	-0.67986476475
+0	2-Oxoglutarate	0.406271435
+0	Fumarate	0.0
+0	dUTP	-0.475488894
+0	DTTPxtX	0.0
+0	D-Ribulose 5-phosphate	0.0
+0	L-Glutamate 5-semialdehyde	0.0
+0	L-Tryptophan	-0.389784281
+0	Pantetheine 4'-phosphate	0.0
+0	Oxidized thioredoxin	0.0
+1	UREAxtX	0.0
+1	5-O-(1-Carboxyvinyl)-3-phosphoshikimate	-0.371390653
+1	Sulfate	0.478409972
+1	Phosphatidylserine	0.492183498
+1	ORNxt	0.0
+1	GLUxt	-0.591899571
+1	(R)-5-Diphosphomevalonate	0.0
+1	Deoxycytidine	0.0
+1	TRPxtX	0.0
+1	(R)-2,3-dihydroxy-3-methylbutanoateM	-0.154559515
+1	Geranyl diphosphate	0.0
+1	PYRxtX	0.0
+1	GLNxtX	0.0
+1	ATPM	0.161957318
+1	ACALxtX	0.0
+1	Glutathione	0.729817476
+1	L-Arginine	1.0340689025
+1	beta-D-Fructose 1,6-bisphosphate	0.582701936
+1	GLCxt	0.67425582
+1	N-Acetyl-L-glutamate 5-semialdehydeM	-0.16381079
+1	Dolichyl phosphate	0.0
+1	SUCCxt	0.0
+1	CO2M	1.252121657
+1	Thymine	0.0
+1	Acetate	-0.298763579
+1	BMxt	0.0
+1	5-Phosphoribosylamine	0.55485829
+1	(S)-3-Hydroxy-3-methylglutaryl-CoA	0.0
+1	D-4'-Phosphopantothenate	0.0
+1	Diacylglycerol	0.0
+1	CMP	0.571624605
+1	Acetoacetyl-CoA	0.0
+1	Pyrophosphate	0.360822479273
+1	H2O2	1.237874439
+1	HO-M	-0.978876907
+1	L-ThreonineM	-0.741708977
+1	Prephenate	0.307570644
+1	Carnitine	-0.162976742
+1	Dihydrofolate	0.0
+1	PHExtX	0.0
+1	OxaloglutarateM	0.0
+1	Succinate semialdehyde	-0.406271435
+1	Guanosine	0.0
+1	Succinate	0.242180413
+1	2-(Formamido)-N1-(5'-phosphoribosyl)acetamidine	-0.028124877
+1	dTTP	-0.598190359
+1	5-Methyltetrahydrofolate	0.0
+1	2-Amino-3-carboxymuconate semialdehyde	0.0
+1	GLUxtX	0.0
+1	But-1-ene-1,2,4-tricarboxylateM	-0.464428738
+1	CTP	1.706350332
+1	Orotate	0.437254712
+1	OxygenM	0.0
+1	2-OxoadipateM	0.0
+1	L-Asparagine	-0.050104507
+1	2-AcetolactateM	0.198242668
+1	ERGOSTxt	0.0
+1	Xanthosine	0.0
+1	L-Kynurenine	0.0
+1	ASPxt	-0.416155884
+1	1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	0.0
+1	Phosphatidyl-N-methylethanolamine	0.0
+1	LEUxt	0.6933991215
+1	L-Tyrosine	-0.908627749
+1	ADPM	-0.161957318
+1	alpha,alpha-Trehalose	0.3057947845
+1	CitrateM	0.300529726667
+1	O2xtX	0.0
+1	FMN	0.0
+1	VALxt	0.6933991215
+1	Carbamoyl phosphate	0.136548333
+1	4-Methylzymsterol	0.0
+1	NAD+M	-0.5019319095
+1	NADP+M	-1.871216867
+1	UbiquinolM	-0.09692861475
+1	FUMxtX	0.0
+1	Adenosine 3',5'-bisphosphate	-0.0476107205
+1	Ergosta-5,7,24(28)-trienol	0.0
+1	L-Aspartate	-0.633052818833
+1	2-Aceto-2-hydroxy butyrateM	0.198242668
+1	Sulfite	0.58264558
+1	5,10-Methylenetetrahydrofolate	0.565252192
+1	Fecosterol	0.0
+1	10-Formyltetrahydrofolate	-0.170333569
+1	AcetaldehydeM	-1.244038108
+1	Phenylpyruvate	1.392485487
+1	Urea	-0.80987653
+1	Acyl-[acyl-carrier protein]	0.0
+1	3-Carboxy-4-methyl-2-oxopentanoate	0.635723019
+1	Indoleglycerol phosphate	-0.485602653
+1	dATP	0.0
+1	3-(4-Hydroxyphenyl)pyruvate	0.2152286275
+1	Phosphatidylcholine	0.0
+1	D-Ribose 5-phosphate	-0.6396404545
+1	L-Glutamine	0.03145790975
+1	Hydrogen sulfide	0.0
+1	N-Acetyl-L-glutamate 5-phosphateM	0.0
+1	FORxt	0.0
+1	NH3	0.300386377708
+1	alpha-D-Glutamyl phosphate	0.0
+1	3-Dehydroshikimate	0.0
+1	5-Phospho-alpha-D-ribose 1-diphosphate	-0.326819008
+1	UDP	0.529177880917
+1	OrthophosphateM	1.369122982
+1	2-Aminomuconate 6-semialdehyde	0.0
+1	GNxtX	0.0
+1	Myristoyl-[acyl-carrier protein]	0.0
+1	SuccinateM	-0.839862957
+1	N-(L-Arginino)succinate	0.030381407
+1	Ergosterol	0.0
+1	Shikimate 3-phosphate	0.0
+1	1-Phosphatidyl-D-myo-inositol	0.0
+1	AONAxtX	0.0
+1	PNTOxt	0.0
+1	GLYxtX	0.0
+1	Reduced flavoprotein	0.0
+1	L-2-Aminoadipate	0.762130036
+1	O-AcetylcarnitineM	-0.919661704
+1	L-Serine	0.9129120525
+1	Urea-1-carboxylate	0.0
+1	FADM	0.446002106
+1	N2-Acetyl-L-ornithineM	0.554056865
+1	1,3-beta-D-Glucan	-0.147078932
+1	dCDP	0.0
+1	Guanine	-1.498223413
+1	OxaloacetateM	0.6900390175
+1	Acyl-carrier protein	-0.677867021
+1	4,4-Dimethylcholesta-8,14,24-trienol	0.522753388
+1	Ferricytochrome cM	0.402081684
+1	HISxtX	0.0
+1	dGTP	0.0
+1	VALxtX	0.0
+1	AONAxt	0.0
+1	Reduced thioredoxin	-0.58264558
+1	MALxt	0.0
+1	L-OrnithineM	0.0
+1	N6-(1,2-Dicarboxyethyl)-AMP	-0.105185286
+1	Acyldihydroxyacetone phosphate	0.0
+1	ACALxt	0.0
+1	THRxtX	0.0
+1	3-Methyl-2-oxobutanoateM	0.495706624
+1	GLYxt	-1.511598565
+1	Palmitoyl-[acyl-carrier protein]	0.0
+1	L-Lysine	0.216901446
+1	Linolenoyl-[acyl-carrier protein]	0.0
+1	Dephospho-CoA	0.0
+1	N-Acetyl-L-glutamateM	-0.390246075
+1	Stearoyl-[acyl-carrier protein]	0.0
+1	Intermediate_Zymosterol_II	0.0
+1	PIxtX	0.0
+1	gamma-L-Glutamyl-L-cysteine	0.0
+1	4-Aminobutanoate	-0.05036156
+1	D-Glucose 1-phosphate	-1.392058359
+1	ACxtX	0.0
+1	Sedoheptulose 7-phosphate	0.573888326
+1	Malate	0.109209844
+1	1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole	0.454015851
+1	D-Ribose 1-phosphate	0.0
+1	N1-(5-Phospho-D-ribosyl)-ATP	0.772842085
+1	N6-(L-1,3-Dicarboxypropyl)-L-lysine	-0.497594753
+1	Tetrahydrofolate	-0.575786975333
+1	ETHxt	0.0
+1	ASPxtX	0.0
+1	Episterol	0.0
+1	OxalosuccinateM	0.0
+1	CITxtX	0.0
+1	N1-(5-Phospho-D-ribosyl)-AMP	0.0
+1	(S)-Dihydroorotate	-0.437254712
+1	GA6Pxt	0.0
+1	ILExtX	0.0
+1	ATP	-0.476827093189
+1	GlutamateM	-0.554056865
+1	HYXN	2.231651257
+1	Phosphoenolpyruvate	-0.841212997
+1	2-OxobutanoateM	0.2023192
+1	alpha,alpha'-Trehalose 6-phosphate	-0.137860339333
+1	L-Cysteine	-0.389784281
+1	Lanosterol	0.0
+1	Oxaloacetate	-0.544797393
+1	UREAxt	0.0
+1	Deoxy-ribose 1-phosphate	0.0
+1	Oxidized flavoprotein	0.0
+1	3-Phosphoserine	-0.900945754
+1	5'-Phosphoribosyl-N-formylglycinamide	0.268589814
+1	CYSxtX	0.0
+1	GTP	-0.604981086667
+1	IMP	-0.3068291255
+1	3-Methyl-2-oxobutanoate	0.0
+1	L-Ornithine	-1.322121871
+1	3-Phospho-D-glycerate	-1.1396480215
+1	Glycerone phosphate	-0.9148711485
+1	3-(Imidazol-4-yl)-2-oxopropyl phosphate	1.17664382
+1	L-Citrulline	0.042675513
+1	3-Phospho-D-glyceroyl phosphate	0.0
+1	CO2xt	0.0
+1	L-Proline	1.511598565
+1	ZYMSTxt	0.0
+1	Thiamin monophosphate	0.0
+1	L-SerineM	0.0
+1	ARGxtX	0.0
+1	L-Threonine	-0.997013962
+1	L-Histidinol	0.0
+1	2-Aminomuconate	0.0
+1	Malonyl-[acyl-carrier protein]	0.0
+1	alpha-D-Glucose	0.532916756833
+1	HISxt	1.066740196
+1	D-Ribose	0.0
+1	L-Homoserine	-0.579582085
+1	D-Glucosamine 6-phosphate	0.0
+1	(R)-Pantothenate	0.592060936
+1	SUCCxtX	0.0
+1	3-Phosphonooxypyruvate	0.4505367185
+1	ACxt	0.0
+1	dUDP	0.0
+1	N-Carbamoyl-L-aspartate	0.0
+1	Glycine	1.219152459
+1	Xanthosine 5'-phosphate	0.591731239
+1	L-2-Aminoadipate 6-semialdehyde	-1.244828113
+1	FORxtX	0.0
+1	METxt	0.938291109
+1	L-Formylkynurenine	0.0
+1	5'-Phosphoribosylglycinamide	-0.240464937
+1	Glycogen	0.811754285
+1	3-Hydroxykynurenine	0.0
+1	Adenylylsulfate	0.0
+1	Uridine	-0.571624605
+1	ILExt	0.6933991215
+1	(S)-1-Pyrroline-5-carboxylate	0.0
+1	O2xt	0.0
+1	Phosphatidylethanolamine	-0.492183498
+1	(S)-2,3-Epoxysqualene	0.0
+1	4,4-Dimethylzymosterol	-0.522753388
+1	Deoxyadenosine	-2.231651257
+1	PNTOxtX	0.0
+1	ASNxt	0.997013962
+1	CITxt	0.0
+1	BMxtX	0.0
+1	L-Glutamate	0.909394778563
+1	D-Erythrose 4-phosphate	-0.932440696
+1	trans,trans-Farnesyl diphosphate	0.0
+1	(S)-1-Pyrroline-5-carboxylateM	0.584065129
+1	Dolichyl beta-D-mannosyl phosphate	0.0
+1	ORNxtX	0.0
+1	TYRxt	0.6933991215
+1	Malonyl-CoA	0.0
+1	L-Leucine	-0.6933991215
+1	Deoxyinosine	2.231651257
+1	2-IsopropylmalateM	0.0
+1	D-Fructose 2,6-bisphosphate	0.5020106915
+1	Homocysteine	-0.0728227765
+1	Xanthine	0.0
+1	LYSxtX	0.0
+1	PIxt	0.0
+1	6-Phospho-D-gluconate	-0.723764327
+1	beta-D-Fructose 6-phosphate	-0.5745832795
+1	Acetyl-CoAM	-0.03352139
+1	ZYMSTxtX	0.0
+1	Acetyl-CoA	-0.4505808135
+1	Dodecanoyl-[acyl-carrier protein]	0.0
+1	ARGxt	-0.379884433
+1	CarnitineM	0.919661704
+1	FumarateM	0.839862957
+1	THRxt	0.997013962
+1	Isopentenyl diphosphate	0.0
+1	3',5'-Cyclic AMP	-1.4665423695
+1	beta-Alanine	-0.592060936
+1	Thymidine	0.0
+1	ALAxt	-0.2572923015
+1	Adenine	-2.231651257
+1	D-Glucono-1,5-lactone 6-phosphate	0.723764327
+1	CoAM	0.03352139
+1	Ubiquinone-9M	0.09692861475
+1	8-Amino-7-oxononanoate	0.0
+1	L-Histidinol phosphate	0.0
+1	Citrate	-0.095783337
+1	L-Alanine	-0.8978066375
+1	CYSxt	0.389784281
+1	dTDP	0.598190359
+1	Decanoyl-[acp]	0.0
+1	Zymosterol	0.0
+1	NH3M	0.741708977
+1	TetrahydrofolateM	-1.036977365
+1	dTMP	0.0
+1	2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate	0.35855237
+1	NADH	1.22042886011
+1	UMP	-0.323552751
+1	3'-Phosphoadenylylsulfate	-0.58264558
+1	myo-Inositol	0.830886585
+1	TYRxtX	0.0
+1	DihydrofolateM	0.0
+1	CO2xtX	0.0
+1	HYXNxt	0.0
+1	D-Xylose-5-phosphate	0.0
+1	D-Glyceraldehyde 3-phosphate	1.059490979
+1	L-Phenylalanine	-1.6513437815
+1	NADP+	0.451200817
+1	Glycerol	2.5530852615
+1	N-(5-Phospho-D-ribosyl)anthranilate	0.0
+1	AcetateM	1.244038108
+1	Deoxyuridine	0.0
+1	Uracil	0.654334381
+1	Triacylglycerol	0.0
+1	ASNxtX	0.0
+1	GNxt	1.498223413
+1	Shikimate	0.0
+1	NADPH	-0.5751464325
+1	Phosphatidyl-N-dimethylethanolamine	0.0
+1	THYxt	0.0
+1	L-Cystathionine	0.093557099
+1	2-Phospho-D-glycerate	0.482660627
+1	(R)-4'-Phosphopantothenoyl-L-cysteine	0.0
+1	alpha-D-Glucose 6-phosphate	0.139075586833
+1	NAD+	-1.01366771069
+1	FUMxt	0.0
+1	CO2	-0.629480416667
+1	5,10-Methenyltetrahydrofolate	0.93752368
+1	L-Methionine	-0.73701189
+1	Inosine	2.231651257
+1	IsocitrateM	-0.734200476
+1	CDP	-0.598190359
+1	Sphinganine 1-phosphate	0.0
+1	Thiamin diphosphate	0.0
+1	Acyl-sn-glycerol 3-phosphate	0.0
+1	dCMP	0.0
+1	Ergosta-5,7,22,24(28)-tetraenol	0.0
+1	O-Acetylcarnitine	0.162976742
+1	Hexadecanoyl-[acp]	0.0
+1	GLCxtX	0.0
+1	Chorismate	-0.370720818
+1	GlycineM	-1.036977365
+1	2-Hydroxybutane-1,2,4-tricarboxylateM	0.519128657
+1	SLFxt	-0.478409972
+1	DTTPxt	0.0
+1	dGMP	0.337347367
+1	alpha-D-Mannose 1-phosphate	0.0
+1	Ethanol	-0.341464426
+1	Aminoimidazole ribotide	-0.740807776
+1	Intermediate_Methylzymosterol_II	0.0
+1	Pyridoxamine phosphate	0.0
+1	Oxygen	-1.30867669
+1	L-Aspartate 4-semialdehyde	0.424454813
+1	Phosphatidate	0.0
+1	UTP	-1.706350332
+1	2-Isopropylmalate	-0.635723019
+1	GA6PxtX	0.0
+1	AKGxtX	0.0
+1	SERxtX	0.0
+1	1L-myo-Inositol 1-phosphate	-0.830886585
+1	5-(5-Phospho-D-ribosylaminoformimino)-1-(5-phosphoribosyl)-imidazole-4-carboxamide	0.0
+1	CoA	0.5574156015
+1	L-Valine	-0.6933991215
+1	4-Phospho-L-aspartate	0.470949464
+1	5,10-MethylenetetrahydrofolateM	1.036977365
+1	Pyridoxamine	0.0
+1	Oleoyl-[acyl-carrier protein]	0.0
+1	1-(5-Phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate	0.115131139
+1	GLNxt	0.997013962
+1	L-ProlineM	-0.584065129
+1	SLFxtX	0.0
+1	HomoisocitrateM	0.464428738
+1	Oxalosuccinate	0.0
+1	ALAxtX	0.0
+1	dCTP	0.0
+1	PAPxt	0.0
+1	GLxt	0.0
+1	Acetaldehyde	1.287900893
+1	1-(5'-Phosphoribosyl)-5-formamido-4-imidazolecarboxamide	0.0
+1	3-Dehydroquinate	0.0
+1	2-Dehydropantoate	-0.434521744
+1	LYSxt	0.763391384
+1	6-Carboxyhexanoyl-CoA	0.0
+1	Riboflavin	0.0
+1	Adenosine	-1.613876294
+1	ETHxtX	0.0
+1	dGDP	-0.337347367
+1	NH3xt	-0.679102565667
+1	Biomass	0.0
+1	LEUxtX	0.0
+1	O-Acetyl-L-serine	0.0
+1	L-Glutamate 5-semialdehydeM	0.0
+1	PAPxtX	0.0
+1	dAMP	0.0
+1	Thiamin	0.0
+1	THYxtX	0.0
+1	MalateM	-0.861459862333
+1	(R)-5-Phosphomevalonate	0.0
+1	SERxt	0.290429039
+1	NADHM	0.737047945
+1	Orotidine 5'-phosphate	0.0
+1	UDPglucose	0.390409089444
+1	Cytidine	-0.571624605
+1	Oxidized glutathione	-0.729817476
+1	AMP	0.3907968942
+1	XANxtX	0.0
+1	Intermediate_Methylzymosterol_I	0.0
+1	(R)-3-Hydroxy-3-methyl-2-oxobutanoateM	-0.154559515
+1	CDPdiacylglycerol	0.0
+1	PHExt	0.6933991215
+1	XANxt	0.0
+1	FADH2M	-0.446002106
+1	beta-D-Glucose 6-phosphate	0.0
+1	Deoxyguanosine	0.0
+1	1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide	0.0567974935
+1	(R)-2-OxoisovalerateM	0.495706624
+1	HYXNxtX	0.0
+1	2-OxoglutarateM	0.034928208
+1	EthanolM	0.0
+1	S-Adenosyl-L-homocysteine	-0.617774963
+1	AKGxt	0.0
+1	3-Hydroxyanthranilate	0.0
+1	METxtX	0.0
+1	L-Histidine	-1.066740196
+1	Isocitrate	1.435866197
+1	H+EXT	0.339546887955
+1	Formate	-0.126389578
+1	ADP	0.501373792158
+1	S-Adenosyl-L-methionine	0.535732671
+1	Intermediate_Zymosterol_I	0.0
+1	"N-(5'-Phospho-D-1'-ribulosylformimino)-5-amino-1-(5""-phospho-D-ribosyl)-4-imidazolecarboxamide"	-0.991306769
+1	GMP	1.00482408
+1	Cytosine	-0.654334381
+1	dADP	0.0
+1	Mannan	0.0
+1	GDP	0.604981086667
+1	GDPmannose	0.0
+1	dUMP	0.475488894
+1	ERGOSTxtX	0.0
+1	NH3xtX	0.0
+1	NADPHM	1.6032983315
+1	PROxtX	0.0
+1	PROxt	-1.511598565
+1	Squalene	0.0
+1	(R)-Mevalonate	0.0
+1	Ferrocytochrome cM	-0.402081684
+1	D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate	-0.185337051
+1	Orthophosphate	2.12142363802
+1	2-Oxoadipate	0.0
+1	MALxtX	0.0
+1	(R)-2-Oxoisovalerate	0.434521744
+1	TRPxt	0.389784281
+1	GLxtX	0.0
+1	D-Mannose 6-phosphate	0.0
+1	Glyoxylate	0.032824139
+1	(R)-Pantoate	-0.592060936
+1	PyruvateM	2.13819564
+1	Anthranilate	0.0
+1	Pyruvate	0.74018644975
+1	O-Acetyl-L-homoserine	0.579582085
+1	Sphinganine	0.0
+1	PYRxt	-0.776903121
+1	O-Phospho-L-homoserine	0.0
+1	Dimethylallyl diphosphate	0.0
+1	H+M	1.820120166
+1	L-Isoleucine	-0.6933991215
+1	sn-Glycerol 3-phosphate	-0.8191070565
+1	2-Oxoglutarate	0.20042723475
+1	Fumarate	0.288271034
+1	dUTP	-0.475488894
+1	DTTPxtX	0.0
+1	D-Ribulose 5-phosphate	0.0
+1	L-Glutamate 5-semialdehyde	0.0
+1	L-Tryptophan	0.095818372
+1	Pantetheine 4'-phosphate	0.0
+1	Oxidized thioredoxin	0.58264558
+2	UREAxtX	0.0
+2	5-O-(1-Carboxyvinyl)-3-phosphoshikimate	-0.7919971515
+2	Sulfate	0.0
+2	Phosphatidylserine	0.94863952425
+2	ORNxt	-1.322121871
+2	GLUxt	0.317495207563
+2	(R)-5-Diphosphomevalonate	-0.238413546594
+2	Deoxycytidine	0.0
+2	TRPxtX	0.389784281
+2	(R)-2,3-dihydroxy-3-methylbutanoateM	0.74621098475
+2	Geranyl diphosphate	0.0
+2	PYRxtX	-0.776903121
+2	GLNxtX	0.997013962
+2	ATPM	0.76554015
+2	ACALxtX	0.0
+2	Glutathione	0.617289767462
+2	L-Arginine	1.0644503095
+2	beta-D-Fructose 1,6-bisphosphate	0.0569967496556
+2	GLCxt	0.67425582
+2	N-Acetyl-L-glutamate 5-semialdehydeM	0.63783837575
+2	Dolichyl phosphate	0.0
+2	SUCCxt	0.242180413
+2	CO2M	1.13908724232
+2	Thymine	1.06071181901
+2	Acetate	-0.176379199354
+2	BMxt	0.0
+2	5-Phosphoribosylamine	0.407177740875
+2	(S)-3-Hydroxy-3-methylglutaryl-CoA	-0.22529040675
+2	D-4'-Phosphopantothenate	0.0576169214056
+2	Diacylglycerol	0.0
+2	CMP	0.750318847999
+2	Acetoacetyl-CoA	-0.4505808135
+2	Pyrophosphate	0.362434546131
+2	H2O2	0.364908738
+2	HO-M	0.390246075
+2	L-ThreonineM	-1.738722939
+2	Prephenate	-0.063150174
+2	Carnitine	0.378342481
+2	Dihydrofolate	0.520370543
+2	FumarateM	0.6429325315
+2	OxaloglutarateM	-0.01875158575
+2	Succinate semialdehyde	-0.331238597625
+2	Guanosine	0.199921496667
+2	Succinate	0.326810612143
+2	2-(Formamido)-N1-(5'-phosphoribosyl)acetamidine	-0.0870513334796
+2	dTTP	-0.537508726094
+2	5-Methyltetrahydrofolate	-0.323580331094
+2	2-Amino-3-carboxymuconate semialdehyde	-0.654338345
+2	GLUxtX	-0.591899571
+2	But-1-ene-1,2,4-tricarboxylateM	0.054699919
+2	CTP	1.24351704757
+2	Orotate	-0.435710989
+2	OxygenM	-1.30867669
+2	2-OxoadipateM	0.0
+2	L-Asparagine	-0.409578507757
+2	2-AcetolactateM	2.336438308
+2	ERGOSTxt	0.0
+2	Xanthosine	0.591731239
+2	L-Kynurenine	0.0
+2	ASPxt	-1.04920870283
+2	1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	0.0
+2	Phosphatidyl-N-methylethanolamine	0.0217745865
+2	LEUxt	0.0
+2	L-Tyrosine	-0.346316045969
+2	ADPM	0.216558034736
+2	alpha,alpha-Trehalose	0.167934445167
+2	CitrateM	0.0935445171
+2	FMN	-0.238413546594
+2	VALxt	0.0
+2	Carbamoyl phosphate	-0.221734867035
+2	4-Methylzymsterol	-0.579498166638
+2	NAD+M	-0.847678678583
+2	NADP+M	-1.63410128471
+2	UbiquinolM	0.385075345714
+2	FUMxtX	0.0
+2	Adenosine 3',5'-bisphosphate	-0.250235906667
+2	Ergosta-5,7,24(28)-trienol	-0.627941040833
+2	L-Aspartate	-0.528221859312
+2	2-Aceto-2-hydroxy butyrateM	1.368500088
+2	Sulfite	0.0
+2	5,10-Methylenetetrahydrofolate	0.881169630096
+2	Fecosterol	0.2678663355
+2	10-Formyltetrahydrofolate	-0.230703560631
+2	AcetaldehydeM	-1.49500406275
+2	Phenylpyruvate	1.700056131
+2	Urea	0.2241923725
+2	Acyl-[acyl-carrier protein]	-0.56422391725
+2	3-Carboxy-4-methyl-2-oxopentanoate	-0.188972345844
+2	Indoleglycerol phosphate	-0.485602653
+2	dATP	-0.529736336594
+2	3-(4-Hydroxyphenyl)pyruvate	0.130263210937
+2	Phosphatidylcholine	0.2678663355
+2	D-Ribose 5-phosphate	-0.542521573298
+2	L-Glutamine	0.275775930777
+2	Hydrogen sulfide	0.00374957375
+2	N-Acetyl-L-glutamate 5-phosphateM	-0.1141443785
+2	FORxt	-0.126389578
+2	NH3	-0.0905822570099
+2	alpha-D-Glutamyl phosphate	0.216283842687
+2	3-Dehydroshikimate	0.0
+2	5-Phospho-alpha-D-ribose 1-diphosphate	-0.885052781844
+2	UDP	0.199636964265
+2	OrthophosphateM	1.78859568411
+2	2-Aminomuconate 6-semialdehyde	0.0
+2	GNxtX	1.498223413
+2	Myristoyl-[acyl-carrier protein]	-0.1917154775
+2	SuccinateM	-0.3385718955
+2	N-(L-Arginino)succinate	-0.325353392674
+2	Ergosterol	-0.0078827523
+2	Shikimate 3-phosphate	-0.238413546594
+2	1-Phosphatidyl-D-myo-inositol	0.4154432925
+2	AONAxtX	0.0
+2	PNTOxt	0.592060936
+2	GLYxtX	-1.511598565
+2	L-2-Aminoadipate	1.21682742528
+2	O-AcetylcarnitineM	-0.378342481
+2	L-Serine	0.0119662985
+2	Urea-1-carboxylate	-0.638728013285
+2	FADM	0.673379401
+2	N2-Acetyl-L-ornithineM	0.1951230375
+2	1,3-beta-D-Glucan	0.243330157444
+2	dCDP	-0.5904179695
+2	Guanine	-0.791082200326
+2	OxaloacetateM	0.0539759625556
+2	Acyl-carrier protein	-0.78734883575
+2	4,4-Dimethylcholesta-8,14,24-trienol	0.0865278246667
+2	Ferricytochrome cM	0.874761178
+2	HISxtX	1.066740196
+2	dGTP	-0.593813333333
+2	VALxtX	0.6933991215
+2	AONAxt	0.0
+2	Reduced thioredoxin	-0.57889600625
+2	L-OrnithineM	0.0
+2	Acyldihydroxyacetone phosphate	-0.101652349833
+2	ACALxt	1.287900893
+2	THRxtX	0.997013962
+2	3-Methyl-2-oxobutanoateM	0.341147109
+2	GLYxt	-0.292446106
+2	Palmitoyl-[acyl-carrier protein]	-0.1917154775
+2	L-Lysine	-0.538729785844
+2	Linolenoyl-[acyl-carrier protein]	-0.1917154775
+2	Dephospho-CoA	-0.238413546594
+2	Pantetheine 4'-phosphate	0.0
+2	Stearoyl-[acyl-carrier protein]	-0.1917154775
+2	Intermediate_Zymosterol_II	0.0
+2	PIxtX	0.0
+2	gamma-L-Glutamyl-L-cysteine	0.0142611347912
+2	4-Aminobutanoate	0.859033218563
+2	D-Glucose 1-phosphate	-0.367973855715
+2	ACxtX	0.0
+2	Sedoheptulose 7-phosphate	0.25406809875
+2	Malate	-0.108135923967
+2	1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole	0.122432926659
+2	D-Ribose 1-phosphate	1.06071181901
+2	N1-(5-Phospho-D-ribosyl)-ATP	0.371019034406
+2	N6-(L-1,3-Dicarboxypropyl)-L-lysine	-0.801121341979
+2	Tetrahydrofolate	-0.576031007056
+2	ETHxt	-0.341464426
+2	ASPxtX	-0.416155884
+2	Episterol	0.0
+2	OxalosuccinateM	-1.3027086715
+2	CITxtX	0.0
+2	N1-(5-Phospho-D-ribosyl)-AMP	0.772842085
+2	(S)-Dihydroorotate	-0.437254712
+2	GA6Pxt	0.0
+2	ILExtX	0.6933991215
+2	ATP	-0.205391657471
+2	GlutamateM	-0.863817827656
+2	HYXN	2.93879246967
+2	Phosphoenolpyruvate	-1.02086761673
+2	2-OxobutanoateM	-0.539389777
+2	alpha,alpha'-Trehalose 6-phosphate	0.126881998806
+2	L-Cysteine	-0.389784281
+2	Lanosterol	0.0
+2	Oxaloacetate	-0.666837746369
+2	UREAxt	-0.80987653
+2	Deoxy-ribose 1-phosphate	1.08826872376
+2	Oxidized flavoprotein	-0.436225563333
+2	3-Phosphoserine	-0.220980005469
+2	5'-Phosphoribosyl-N-formylglycinamide	0.063190561
+2	CYSxtX	0.389784281
+2	IMP	0.368246425669
+2	3-Methyl-2-oxobutanoate	0.495706624
+2	L-Ornithine	-0.80508741975
+2	3-Phospho-D-glycerate	-0.888961125421
+2	Glycerone phosphate	-0.845005486667
+2	3-(Imidazol-4-yl)-2-oxopropyl phosphate	0.991306769
+2	L-Citrulline	-0.550111256
+2	3-Phospho-D-glyceroyl phosphate	0.722415635444
+2	CO2xt	-0.629480416667
+2	L-Proline	1.22402534875
+2	ZYMSTxt	0.0
+2	Thiamin monophosphate	0.250686896079
+2	L-SerineM	0.9129120525
+2	ARGxtX	-0.379884433
+2	L-Threonine	-0.997013962
+2	L-Histidinol	0.0
+2	ADP	0.490187305399
+2	Malonyl-[acyl-carrier protein]	-0.3389335105
+2	alpha-D-Glucose	0.810573981
+2	HISxt	0.0
+2	D-Ribose	-0.806938147
+2	L-Homoserine	-0.223003004798
+2	D-Glucosamine 6-phosphate	-0.271562684875
+2	Intermediate_Zymosterol_I	-0.654338345
+2	SUCCxtX	0.0
+2	3-Phosphonooxypyruvate	-0.626121147594
+2	ACxt	-0.298763579
+2	dUDP	-0.0267338495417
+2	N-Carbamoyl-L-aspartate	-0.248252242917
+2	Glycine	0.80076331012
+2	Xanthosine 5'-phosphate	0.179902277953
+2	L-2-Aminoadipate 6-semialdehyde	-1.0121817704
+2	FORxtX	0.0
+2	METxt	0.201279219
+2	L-Formylkynurenine	-0.606429159
+2	5'-Phosphoribosylglycinamide	0.191929614937
+2	Glycogen	1.20216337444
+2	3-Hydroxykynurenine	-0.627941040833
+2	Adenylylsulfate	0.000791439405556
+2	Uridine	-1.019213283
+2	ILExt	0.0
+2	(S)-1-Pyrroline-5-carboxylate	0.0
+2	O2xt	0.0
+2	Phosphatidylethanolamine	0.0
+2	(S)-2,3-Epoxysqualene	-0.285825291
+2	4,4-Dimethylzymosterol	-0.54894991025
+2	Deoxyadenosine	-2.231651257
+2	PNTOxtX	0.0
+2	ASNxt	0.946909455
+2	CITxt	-0.095783337
+2	BMxtX	0.0
+2	L-Glutamate	0.61270366307
+2	D-Erythrose 4-phosphate	-0.1157510435
+2	trans,trans-Farnesyl diphosphate	0.0
+2	(S)-1-Pyrroline-5-carboxylateM	0.04106660975
+2	Dolichyl beta-D-mannosyl phosphate	0.0
+2	ORNxtX	0.0
+2	TYRxt	-0.2152286275
+2	Malonyl-CoA	-0.518962774452
+2	L-Leucine	0.0791597772812
+2	Deoxyinosine	0.0
+2	2-IsopropylmalateM	0.231092617
+2	D-Fructose 2,6-bisphosphate	-0.0236944948444
+2	Homocysteine	-0.05898172125
+2	Xanthine	1.06071181901
+2	LYSxtX	0.763391384
+2	PIxt	0.0
+2	6-Phospho-D-gluconate	0.0
+2	beta-D-Fructose 6-phosphate	-0.360724743574
+2	Acetyl-CoAM	0.154009464125
+2	Acetyl-CoA	-0.523305837063
+2	Dodecanoyl-[acyl-carrier protein]	-0.1917154775
+2	ARGxt	0.6541844695
+2	CarnitineM	0.476591547
+2	PHExtX	0.6933991215
+2	THRxt	0.0
+2	Isopentenyl diphosphate	-0.238413546594
+2	3',5'-Cyclic AMP	-1.94336946269
+2	beta-Alanine	-1.22511375483
+2	Thymidine	0.0
+2	ALAxt	-1.155098939
+2	Adenine	-2.8431909569
+2	D-Glucono-1,5-lactone 6-phosphate	1.01890252892
+2	CoAM	0.330309504875
+2	Ubiquinone-9M	0.8053530265
+2	8-Amino-7-oxononanoate	-0.44890331875
+2	L-Histidinol phosphate	1.04301929928
+2	Citrate	-0.59347244025
+2	L-Alanine	-0.324059900037
+2	CYSxt	0.0
+2	dTDP	0.359776812406
+2	Decanoyl-[acp]	-0.1917154775
+2	Zymosterol	-0.482915138865
+2	NH3M	0.0
+2	TetrahydrofolateM	-0.23532819925
+2	dTMP	0.140978498203
+2	2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate	-0.5282744765
+2	NADH	1.18964458698
+2	UMP	-0.544538986309
+2	3'-Phosphoadenylylsulfate	-0.821059126594
+2	myo-Inositol	0.0
+2	TYRxtX	0.6933991215
+2	DihydrofolateM	0.0
+2	CO2xtX	0.0
+2	HYXNxt	2.231651257
+2	D-Xylose-5-phosphate	0.0
+2	D-Glyceraldehyde 3-phosphate	0.848499412786
+2	L-Phenylalanine	-0.500403648719
+2	NADP+	0.433326064904
+2	Glycerol	1.733978205
+2	N-(5-Phospho-D-ribosyl)anthranilate	-0.163409504
+2	AcetateM	0.0383091465
+2	Deoxyuridine	0.28245581875
+2	Uracil	0.0
+2	Triacylglycerol	0.0
+2	ASNxtX	0.997013962
+2	GNxt	0.0
+2	Shikimate	-0.28757321625
+2	2-Oxoglutarate	0.478903005295
+2	Phosphatidyl-N-dimethylethanolamine	0.2678663355
+2	THYxt	0.169773443977
+2	L-Cystathionine	0.513601737
+2	2-Phospho-D-glycerate	-0.6569873945
+2	(R)-4'-Phosphopantothenoyl-L-cysteine	0.438855350333
+2	alpha-D-Glucose 6-phosphate	0.167120418656
+2	NAD+	-0.733373989172
+2	FUMxt	0.288271034
+2	CO2	-0.754312481436
+2	5,10-Methenyltetrahydrofolate	0.713315920656
+2	L-Methionine	-0.582708591833
+2	Inosine	1.27129854725
+2	IsocitrateM	-0.433670749333
+2	CDP	0.137717682386
+2	Sphinganine 1-phosphate	-0.238413546594
+2	Thiamin diphosphate	-0.238413546594
+2	Acyl-sn-glycerol 3-phosphate	-0.126750317182
+2	Ergosta-5,7,22,24(28)-tetraenol	-0.627941040833
+2	O-Acetylcarnitine	-0.14380203575
+2	Hexadecanoyl-[acp]	-0.1917154775
+2	GLCxtX	0.67425582
+2	Chorismate	-0.742111471
+2	GlycineM	-1.5554660475
+2	2-Hydroxybutane-1,2,4-tricarboxylateM	0.519832066
+2	SLFxt	-0.478409972
+2	DTTPxt	-0.598190359
+2	dGMP	0.419360579579
+2	alpha-D-Mannose 1-phosphate	0.0
+2	Ethanol	0.912700450554
+2	Aminoimidazole ribotide	-0.993283761094
+2	Intermediate_Methylzymosterol_II	0.0
+2	Pyridoxamine phosphate	-0.238413546594
+2	Oxygen	-0.6897394705
+2	L-Aspartate 4-semialdehyde	0.37235632875
+2	Phosphatidate	0.0
+2	UTP	-1.68017493814
+2	2-Isopropylmalate	-0.635723019
+2	GA6PxtX	0.0
+2	AKGxtX	0.0
+2	SERxtX	0.290429039
+2	1L-myo-Inositol 1-phosphate	-0.691810998167
+2	5-(5-Phospho-D-ribosylaminoformimino)-1-(5-phosphoribosyl)-imidazole-4-carboxamide	0.0
+2	CoA	0.329425733087
+2	L-Valine	-0.0214408602188
+2	4-Phospho-L-aspartate	-0.0839904920111
+2	5,10-MethylenetetrahydrofolateM	0.393005705125
+2	Pyridoxamine	0.0
+2	Oleoyl-[acyl-carrier protein]	-0.1917154775
+2	1-(5-Phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate	-0.570012957333
+2	GLNxt	1.02847187175
+2	L-ProlineM	0.927533436
+2	HomoisocitrateM	0.0
+2	Oxalosuccinate	0.943533507
+2	ALAxtX	-0.2572923015
+2	dCTP	0.561852376
+2	PAPxt	-0.0476107205
+2	GLxt	2.5530852615
+2	Acetaldehyde	1.15948713687
+2	1-(5'-Phosphoribosyl)-5-formamido-4-imidazolecarboxamide	-0.05676803775
+2	3-Dehydroquinate	0.35855237
+2	2-Dehydropantoate	0.065365224
+2	LYSxt	0.98029283
+2	6-Carboxyhexanoyl-CoA	0.0
+2	Riboflavin	0.0
+2	Adenosine	-1.7273653284
+2	ETHxtX	0.0
+2	dGDP	-0.326179613667
+2	NH3xt	-0.679102565667
+2	Biomass	-0.0125544164407
+2	LEUxtX	0.6933991215
+2	O-Acetyl-L-serine	0.2311656195
+2	L-Glutamate 5-semialdehydeM	0.584065129
+2	PAPxtX	0.0
+2	dAMP	0.250686896079
+2	Thiamin	0.0
+2	THYxtX	0.0
+2	MalateM	-0.825056581
+2	(R)-5-Phosphomevalonate	-0.216361635971
+2	SERxt	1.2033410915
+2	NADHM	0.505428001847
+2	Orotidine 5'-phosphate	0.055217852
+2	N6-(1,2-Dicarboxyethyl)-AMP	-0.620139629667
+2	Cytidine	0.0
+2	Oxidized glutathione	0.2540284815
+2	AMP	0.0711269929167
+2	XANxtX	0.0
+2	Intermediate_Methylzymosterol_I	-0.915715039
+2	(R)-3-Hydroxy-3-methyl-2-oxobutanoateM	0.74621098475
+2	CDPdiacylglycerol	0.853175166
+2	PHExt	-0.95794466
+2	XANxt	0.0
+2	FADH2M	-0.850324741833
+2	beta-D-Glucose 6-phosphate	0.139075586833
+2	Deoxyguanosine	0.1686736835
+2	1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide	-0.11181350925
+2	(R)-2-OxoisovalerateM	0.341147109
+2	HYXNxtX	0.0
+2	2-OxoglutarateM	-0.3558718001
+2	EthanolM	-0.341464426
+2	S-Adenosyl-L-homocysteine	-0.622653896917
+2	3-Hydroxyanthranilate	0.0
+2	METxtX	0.938291109
+2	L-Histidine	-1.57357405134
+2	Isocitrate	1.0208742905
+2	H+EXT	0.193289912886
+2	Formate	-0.126389578
+2	2-Aminomuconate	-0.506833855344
+2	S-Adenosyl-L-methionine	-0.0711868205944
+2	(R)-Pantothenate	0.038411280937
+2	"N-(5'-Phospho-D-1'-ribulosylformimino)-5-amino-1-(5""-phospho-D-ribosyl)-4-imidazolecarboxamide"	-0.991306769
+2	GMP	0.725044019094
+2	Cytosine	-0.082709776
+2	dADP	-0.0406358939208
+2	Mannan	0.0
+2	GDP	0.268967056542
+2	GDPmannose	-0.302490543333
+2	dUMP	0.158050231604
+2	NADPHM	0.661115268833
+2	PROxtX	-1.511598565
+2	PROxt	0.0
+2	Squalene	-0.28757321625
+2	(R)-Mevalonate	-0.28757321625
+2	Ferrocytochrome cM	-0.0145499833125
+2	D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate	-0.665261480625
+2	Orthophosphate	2.08972182865
+2	2-Oxoadipate	-0.1917154775
+2	MALxtX	0.0
+2	(R)-2-Oxoisovalerate	0.930228368
+2	TRPxt	0.485602653
+2	GLxtX	0.0
+2	D-Mannose 6-phosphate	-0.5745832795
+2	Glyoxylate	1.16455917425
+2	(R)-Pantoate	-1.09689502425
+2	PyruvateM	1.47403221347
+2	Anthranilate	-0.113087636083
+2	Pyruvate	0.794747622818
+2	O-Acetyl-L-homoserine	0.06450063575
+2	Sphinganine	0.0
+2	PYRxt	-0.03671667125
+2	O-Phospho-L-homoserine	-0.528204589094
+2	Dimethylallyl diphosphate	0.0
+2	H+M	2.34353384962
+2	L-Isoleucine	-0.238701732219
+2	sn-Glycerol 3-phosphate	-0.22365308652
+2	NADPH	-0.443712911852
+2	Fumarate	0.5805221024
+2	dUTP	-1.23848753133
+2	DTTPxtX	0.0
+2	D-Ribulose 5-phosphate	-0.136281755
+2	L-Glutamate 5-semialdehyde	-0.0952824417286
+2	L-Tryptophan	0.30947307175
+2	N-Acetyl-L-glutamateM	-0.390246075
+2	Oxidized thioredoxin	0.461669886089
+3	UREAxtX	-0.80987653
+3	5-O-(1-Carboxyvinyl)-3-phosphoshikimate	-0.926738116297
+3	Sulfate	0.0
+3	Phosphatidylserine	1.21710771692
+3	ORNxt	-0.80508741975
+3	GLUxt	0.0208040920699
+3	(R)-5-Diphosphomevalonate	-0.207411782093
+3	TRPxtX	0.485602653
+3	(R)-2,3-dihydroxy-3-methylbutanoateM	0.407582345702
+3	Geranyl diphosphate	-0.238413546594
+3	PYRxtX	-0.03671667125
+3	GLNxtX	1.02847187175
+3	ATPM	0.974497422883
+3	ACALxtX	1.287900893
+3	Glutathione	0.770412243772
+3	L-Arginine	0.708715509826
+3	beta-D-Fructose 1,6-bisphosphate	0.282351152128
+3	N-Acetyl-L-glutamate 5-semialdehydeM	-0.0677622057262
+3	Dolichyl phosphate	0.0
+3	SUCCxt	0.326810612143
+3	CO2M	1.35627978496
+3	Thymine	1.02901000964
+3	Acetate	-0.201689182883
+3	BMxt	-0.0125544164407
+3	5-Phosphoribosylamine	0.43050614302
+3	(S)-3-Hydroxy-3-methylglutaryl-CoA	-0.298015430313
+3	D-4'-Phosphopantothenate	0.18513629517
+3	Diacylglycerol	0.0
+3	CMP	0.704798236499
+3	Acetoacetyl-CoA	-0.523305837063
+3	Pyrophosphate	0.316203429017
+3	H2O2	0.364908738
+3	HO-M	0.809718777113
+3	L-ThreonineM	-1.738722939
+3	Prephenate	-0.434540827
+3	Carnitine	-0.0672312281667
+3	Dihydrofolate	0.598779443411
+3	FumarateM	1.00632561225
+3	OxaloglutarateM	-0.394168847062
+3	Succinate semialdehyde	-0.0527628270804
+3	Guanosine	-0.135814576421
+3	Succinate	0.314933835629
+3	2-(Formamido)-N1-(5'-phosphoribosyl)acetamidine	0.16390130991
+3	dTTP	-0.290749239078
+3	5-Methyltetrahydrofolate	-0.0966802169525
+3	2-Amino-3-carboxymuconate semialdehyde	-0.241713532
+3	GLUxtX	0.317495207563
+3	But-1-ene-1,2,4-tricarboxylateM	0.055403328
+3	CTP	1.03857209291
+3	Orotate	-0.023086176
+3	OxygenM	-0.6897394705
+3	2-OxoadipateM	-0.01875158575
+3	L-Asparagine	-0.149629421569
+3	2-AcetolactateM	1.67227488147
+3	Xanthosine	0.179902277953
+3	L-Kynurenine	-0.606429159
+3	ASPxt	-0.944377743312
+3	1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	-0.163409504
+3	Phosphatidyl-N-methylethanolamine	-0.218777241896
+3	LEUxt	0.772558898781
+3	L-Tyrosine	-0.611248306622
+3	ADPM	0.201287633891
+3	alpha,alpha-Trehalose	0.432676783306
+3	CitrateM	0.0784284119889
+3	FMN	0.0330218891235
+3	VALxt	0.671958261281
+3	Carbamoyl phosphate	-0.245718240831
+3	4-Methylzymsterol	-0.337899021804
+3	NAD+M	-0.747203337962
+3	NADP+M	-1.53812523951
+3	UbiquinolM	0.354294952999
+3	FUMxtX	0.288271034
+3	Adenosine 3',5'-bisphosphate	-0.417130168207
+3	Ergosta-5,7,24(28)-trienol	-0.288899875848
+3	L-Aspartate	-0.7441341943
+3	2-Aceto-2-hydroxy butyrateM	0.684950273854
+3	Sulfite	-0.117331986422
+3	5,10-Methylenetetrahydrofolate	0.802847074243
+3	Fecosterol	-0.246049891547
+3	10-Formyltetrahydrofolate	-0.137262364131
+3	AcetaldehydeM	-1.83968024606
+3	Phenylpyruvate	1.329335313
+3	Urea	0.2545737795
+3	Acyl-[acyl-carrier protein]	-0.712888605967
+3	3-Carboxy-4-methyl-2-oxopentanoate	0.0679635655453
+3	Indoleglycerol phosphate	-0.485602653
+3	dATP	-0.302915211205
+3	3-(4-Hydroxyphenyl)pyruvate	0.173742603398
+3	Phosphatidylcholine	-0.136746658896
+3	D-Ribose 5-phosphate	-0.612461861876
+3	L-Glutamine	0.0361243979305
+3	Hydrogen sulfide	0.00535053064394
+3	N-Acetyl-L-glutamate 5-phosphateM	0.1876470375
+3	FORxt	-0.126389578
+3	NH3	-0.136080893944
+3	alpha-D-Glutamyl phosphate	0.145031246033
+3	3-Dehydroshikimate	0.35855237
+3	5-Phospho-alpha-D-ribose 1-diphosphate	-0.62242593496
+3	UDP	0.30091665109
+3	OrthophosphateM	1.74365481489
+3	2-Aminomuconate 6-semialdehyde	-0.654338345
+3	GNxtX	0.0
+3	Myristoyl-[acyl-carrier protein]	-0.187177656556
+3	SuccinateM	-0.0291866863324
+3	N-(L-Arginino)succinate	-0.202468479491
+3	Ergosterol	-0.0693301057143
+3	Shikimate 3-phosphate	-0.0601462195378
+3	1-Phosphatidyl-D-myo-inositol	0.7072645415
+3	AONAxtX	0.0
+3	PNTOxt	0.038411280937
+3	GLYxtX	-0.292446106
+3	Zymosterol	-0.262324615321
+3	O-AcetylcarnitineM	-0.5716878695
+3	L-Serine	0.691932047031
+3	Urea-1-carboxylate	-0.647283144668
+3	FADM	0.50044979625
+3	N2-Acetyl-L-ornithineM	0.163214606945
+3	dCDP	-0.147373315168
+3	Guanine	-0.822784009696
+3	OxaloacetateM	-0.0898186511506
+3	Acyl-carrier protein	-0.650981504437
+3	4,4-Dimethylcholesta-8,14,24-trienol	0.499152637667
+3	Ferricytochrome cM	1.07535733543
+3	HISxtX	0.0
+3	dGTP	-0.590063759583
+3	VALxtX	0.0
+3	AONAxt	-0.44890331875
+3	Reduced thioredoxin	-0.548018765877
+3	L-OrnithineM	-0.288910937991
+3	Acyldihydroxyacetone phosphate	-0.162577257667
+3	ACALxt	1.15948713687
+3	THRxtX	0.0
+3	3-Methyl-2-oxobutanoateM	1.24191760875
+3	GLYxt	-0.71083525488
+3	Palmitoyl-[acyl-carrier protein]	-0.187177656556
+3	L-Lysine	-0.383540416577
+3	Linolenoyl-[acyl-carrier protein]	-0.187177656556
+3	Dephospho-CoA	0.00834594042184
+3	Pantetheine 4'-phosphate	0.438855350333
+3	Stearoyl-[acyl-carrier protein]	-0.187177656556
+3	Intermediate_Zymosterol_II	-0.654338345
+3	gamma-L-Glutamyl-L-cysteine	-0.0519019906733
+3	4-Aminobutanoate	0.546946505852
+3	D-Glucose 1-phosphate	-0.398167524341
+3	ACxtX	-0.298763579
+3	Sedoheptulose 7-phosphate	0.351186979952
+3	Malate	0.142142924269
+3	1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole	0.233003529531
+3	D-Ribose 1-phosphate	1.02901000964
+3	N1-(5-Phospho-D-ribosyl)-ATP	0.559629389195
+3	N6-(L-1,3-Dicarboxypropyl)-L-lysine	-0.898181757711
+3	Tetrahydrofolate	-0.393409165471
+3	ETHxt	0.912700450554
+3	ASPxtX	-1.04920870283
+3	Episterol	0.2678663355
+3	OxalosuccinateM	-1.05766632117
+3	CITxtX	-0.095783337
+3	N1-(5-Phospho-D-ribosyl)-AMP	0.371019034406
+3	(S)-Dihydroorotate	-0.685506954917
+3	GA6Pxt	-0.271562684875
+3	ILExtX	0.0
+3	ATP	-0.18998550265
+3	GlutamateM	-0.910594626365
+3	D-Ribose	-0.763721915867
+3	Phosphoenolpyruvate	-0.810315502916
+3	2-OxobutanoateM	-1.536403739
+3	alpha,alpha'-Trehalose 6-phosphate	0.154926830628
+3	L-Cysteine	-0.272326684375
+3	Lanosterol	-0.285825291
+3	Oxaloacetate	-0.68674999136
+3	UREAxt	0.2241923725
+3	Deoxy-ribose 1-phosphate	1.03282594357
+3	Oxidized flavoprotein	-0.0236007503333
+3	3-Phosphoserine	-0.599772884182
+3	5'-Phosphoribosyl-N-formylglycinamide	0.31861235808
+3	CYSxtX	0.0
+3	IMP	0.343817961611
+3	3-Methyl-2-oxobutanoate	0.341147109
+3	L-Ornithine	-0.794960284083
+3	3-Phospho-D-glycerate	-0.861553785788
+3	Glycerone phosphate	-0.358686110393
+3	Acetyl-CoAM	0.268489321692
+3	L-Citrulline	-0.558267395521
+3	3-Phospho-D-glyceroyl phosphate	0.700588035976
+3	CO2xt	-0.754312481436
+3	L-Proline	1.34231551733
+3	Thiamin monophosphate	0.23963682989
+3	L-SerineM	0.0119662985
+3	ARGxtX	0.6541844695
+3	L-Threonine	-1.52521855109
+3	L-Histidinol	1.04301929928
+3	ADP	0.437596868297
+3	Malonyl-[acyl-carrier protein]	-0.522744474909
+3	alpha-D-Glucose	0.894756897704
+3	HISxt	-0.506833855344
+3	L-Homoserine	-0.171983109689
+3	D-Glucosamine 6-phosphate	-0.0299553315645
+3	Intermediate_Zymosterol_I	-0.712828295698
+3	SUCCxtX	0.242180413
+3	3-Phosphonooxypyruvate	-0.350382322299
+3	ACxt	-0.176379199354
+3	dUDP	-0.272952143593
+3	N-Carbamoyl-L-aspartate	-0.374978363174
+3	Glycine	0.899858259991
+3	Xanthosine 5'-phosphate	0.703186362864
+3	L-2-Aminoadipate 6-semialdehyde	-0.946684734102
+3	FORxtX	-0.126389578
+3	METxt	0.355582517167
+3	L-Formylkynurenine	-0.190133199375
+3	5'-Phosphoribosylglycinamide	0.2385194064
+3	3-Hydroxykynurenine	-0.288899875848
+3	Adenylylsulfate	0.204059110785
+3	Uridine	-1.04965798331
+3	ILExt	0.454697389281
+3	(S)-1-Pyrroline-5-carboxylate	-0.0952824417286
+3	Phosphatidylethanolamine	0.45645602625
+3	(S)-2,3-Epoxysqualene	-0.232465990843
+3	4,4-Dimethylzymosterol	-0.441413393356
+3	Deoxyadenosine	-1.98096436092
+3	PNTOxtX	0.592060936
+3	ASNxt	0.587435454243
+3	CITxt	-0.59347244025
+3	BMxtX	0.0
+3	L-Glutamate	0.60515871708
+3	D-Erythrose 4-phosphate	-0.206501088083
+3	trans,trans-Farnesyl diphosphate	-0.158942364396
+3	(S)-1-Pyrroline-5-carboxylateM	0.159656174187
+3	Dolichyl beta-D-mannosyl phosphate	-0.302490543333
+3	ORNxtX	-1.322121871
+3	TYRxt	0.347083075531
+3	Malonyl-CoA	-0.543834113252
+3	L-Leucine	-0.27311073288
+3	Deoxyinosine	0.0
+3	2-IsopropylmalateM	0.3502053973
+3	D-Fructose 2,6-bisphosphate	0.206142754545
+3	Homocysteine	-0.0656019738
+3	Xanthine	1.02901000964
+3	LYSxtX	0.98029283
+3	6-Phospho-D-gluconate	0.295138201917
+3	beta-D-Fructose 6-phosphate	-0.490681572337
+3	3-(Imidazol-4-yl)-2-oxopropyl phosphate	0.511382339375
+3	Acetyl-CoA	-0.466081499386
+3	Dodecanoyl-[acyl-carrier protein]	-0.187177656556
+3	ARGxt	0.6845658765
+3	CarnitineM	0.7466173873
+3	PHExtX	-0.95794466
+3	THRxt	0.0
+3	Isopentenyl diphosphate	0.00834594042184
+3	3',5'-Cyclic AMP	-1.67193402697
+3	beta-Alanine	-1.12028279531
+3	Thymidine	0.187971330937
+3	ALAxt	-0.581352201537
+3	Adenine	-3.00980387467
+3	D-Glucono-1,5-lactone 6-phosphate	1.01632754096
+3	CoAM	0.100681217392
+3	Ubiquinone-9M	1.2373772582
+3	8-Amino-7-oxononanoate	0.0292189624687
+3	L-Histidinol phosphate	0.752514520705
+3	Citrate	-0.614966247771
+3	L-Alanine	-0.642223913681
+3	CYSxt	0.0
+3	dTDP	0.648630308035
+3	Decanoyl-[acp]	-0.187177656556
+3	L-2-Aminoadipate	0.951366953525
+3	NH3M	-0.997013962
+3	TetrahydrofolateM	-1.02048075147
+3	dTMP	0.365593360183
+3	2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate	-0.309391387338
+3	NADH	1.21034572496
+3	UMP	-0.452681155689
+3	3'-Phosphoadenylylsulfate	-0.530807823942
+3	myo-Inositol	0.139075586833
+3	TYRxtX	-0.2152286275
+3	DihydrofolateM	0.520370543
+3	CO2xtX	-0.629480416667
+3	HYXNxt	2.93879246967
+3	D-Xylose-5-phosphate	-0.136281755
+3	D-Glyceraldehyde 3-phosphate	0.776758389878
+3	L-Phenylalanine	-0.763524666462
+3	NADP+	0.416157599119
+3	Glycerol	1.67688841114
+3	N-(5-Phospho-D-ribosyl)anthranilate	-0.454555595188
+3	AcetateM	0.371166651528
+3	Deoxyuridine	0.625758884604
+3	Uracil	0.571624605
+3	(R)-Pantoate	-0.89846996772
+3	ASNxtX	0.946909455
+3	GNxt	0.707141212674
+3	Shikimate	-0.169283047667
+3	2-Oxoglutarate	0.39943034741
+3	Phosphatidyl-N-dimethylethanolamine	-0.300807824896
+3	THYxt	0.0924861142844
+3	L-Cystathionine	0.278817079
+3	2-Phospho-D-glycerate	-0.406300498421
+3	(R)-4'-Phosphopantothenoyl-L-cysteine	0.258959321515
+3	alpha-D-Glucose 6-phosphate	0.439991651708
+3	NAD+	-0.623109009715
+3	FUMxt	0.5805221024
+3	CO2	-0.688531416233
+3	5,10-Methenyltetrahydrofolate	1.09174830985
+3	L-Methionine	-0.681341332031
+3	Inosine	1.47146972842
+3	IsocitrateM	-0.508852142292
+3	CDP	0.119653635313
+3	Sphinganine 1-phosphate	0.0330218891235
+3	Thiamin diphosphate	0.0330218891235
+3	Acyl-sn-glycerol 3-phosphate	0.110897520535
+3	Ergosta-5,7,22,24(28)-tetraenol	-0.288899875848
+3	O-Acetylcarnitine	0.0315696225778
+3	Hexadecanoyl-[acp]	-0.187177656556
+3	Chorismate	-1.1627179695
+3	GlycineM	-0.716729252833
+3	2-Hydroxybutane-1,2,4-tricarboxylateM	0.432088976688
+3	DTTPxt	-0.537508726094
+3	dGMP	0.404468905337
+3	alpha-D-Mannose 1-phosphate	-0.5745832795
+3	Ethanol	0.854530455266
+3	Aminoimidazole ribotide	-0.742083587684
+3	Intermediate_Methylzymosterol_II	-0.915715039
+3	Pyridoxamine phosphate	0.0330218891235
+3	Oxygen	-0.9083668265
+3	L-Aspartate 4-semialdehyde	0.378994671824
+3	Phosphatidate	-0.2788506978
+3	UTP	-1.47158306082
+3	2-Isopropylmalate	-0.404630402
+3	GA6PxtX	0.0
+3	HYXN	2.86769353601
+3	SERxtX	1.2033410915
+3	1L-myo-Inositol 1-phosphate	-0.663766166344
+3	5-(5-Phospho-D-ribosylaminoformimino)-1-(5-phosphoribosyl)-imidazole-4-carboxamide	0.772842085
+3	CoA	0.458346252539
+3	PyruvateM	1.60505633587
+3	4-Phospho-L-aspartate	0.148997756892
+3	5,10-MethylenetetrahydrofolateM	0.639500717917
+3	Pyridoxamine	-0.476827093189
+3	Oleoyl-[acyl-carrier protein]	-0.187177656556
+3	1-(5-Phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate	-0.692300096109
+3	GLNxt	1.27278989278
+3	L-ProlineM	0.63996021975
+3	HomoisocitrateM	0.519128657
+3	Oxalosuccinate	0.904192962774
+3	ALAxtX	-1.155098939
+3	dCTP	0.254546710962
+3	PAPxt	-0.250235906667
+3	GLxt	1.733978205
+3	Acetaldehyde	1.20625385665
+3	1-(5'-Phosphoribosyl)-5-formamido-4-imidazolecarboxamide	-0.163527034146
+3	3-Dehydroquinate	-0.5282744765
+3	2-Dehydropantoate	0.411247526413
+3	LYSxt	0.224661598156
+3	6-Carboxyhexanoyl-CoA	-0.518962774452
+3	Riboflavin	-0.476827093189
+3	Adenosine	-1.91971714181
+3	ETHxtX	-0.341464426
+3	dGDP	-0.594240923017
+3	Biomass	-0.117215389481
+3	LEUxtX	0.0
+3	O-Acetyl-L-serine	-0.0486145866722
+3	L-Glutamate 5-semialdehydeM	0.04106660975
+3	PAPxtX	-0.0476107205
+3	dAMP	0.232307254011
+3	Thiamin	0.250686896079
+3	THYxtX	0.169773443977
+3	MalateM	-0.651802278812
+3	(R)-5-Phosphomevalonate	-0.123941653039
+3	SERxt	0.3023953375
+3	NADHM	0.674357058328
+3	Orotidine 5'-phosphate	-0.660381885422
+3	N6-(1,2-Dicarboxyethyl)-AMP	-0.135145609047
+3	Cytidine	0.262063003888
+3	Oxidized glutathione	-0.00909692994815
+3	AMP	0.0506404702764
+3	XANxtX	0.0
+3	Intermediate_Methylzymosterol_I	-0.619344690375
+3	(R)-3-Hydroxy-3-methyl-2-oxobutanoateM	0.317424372528
+3	CDPdiacylglycerol	0.710764924636
+3	PHExt	0.192995472781
+3	XANxt	1.06071181901
+3	FADH2M	-0.210168083594
+3	beta-D-Glucose 6-phosphate	0.167120418656
+3	Deoxyguanosine	-0.0872263768771
+3	1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide	-0.0759747787086
+3	(R)-2-OxoisovalerateM	1.24191760875
+3	HYXNxtX	2.231651257
+3	2-OxoglutarateM	-0.217754724952
+3	EthanolM	0.912700450554
+3	S-Adenosyl-L-homocysteine	-0.868154491448
+3	3-Hydroxyanthranilate	-0.627941040833
+3	METxtX	0.201279219
+3	L-Histidine	-1.31663813995
+3	Isocitrate	0.789258130556
+3	H+EXT	0.311348071268
+3	Formate	-0.732818737
+3	2-Aminomuconate	-0.249897943955
+3	S-Adenosyl-L-methionine	0.148940811129
+3	(R)-Pantothenate	0.120844616464
+3	"N-(5'-Phospho-D-1'-ribulosylformimino)-5-amino-1-(5""-phospho-D-ribosyl)-4-imidazolecarboxamide"	-0.991306769
+3	GMP	0.800544971099
+3	Cytosine	0.0959844669992
+3	dADP	-0.0514624756074
+3	Mannan	0.0
+3	GDP	0.538158497013
+3	GDPmannose	-0.302490543333
+3	dUMP	0.22553103324
+3	NADPHM	0.748641555847
+3	PROxtX	0.0
+3	PROxt	-0.28757321625
+3	Squalene	-0.169283047667
+3	(R)-Mevalonate	-0.220998591492
+3	Ferrocytochrome cM	0.317187607443
+3	D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate	-0.482022964855
+3	Orthophosphate	2.08115865691
+3	2-Oxoadipate	-0.177612646238
+3	(R)-2-Oxoisovalerate	0.775668853
+3	TRPxt	0.69925735275
+3	GLxtX	2.5530852615
+3	D-Mannose 6-phosphate	-0.360724743574
+3	Glyoxylate	0.88373322674
+3	Triacylglycerol	-0.143786608125
+3	L-Valine	-0.274109879073
+3	Anthranilate	-0.0407749540669
+3	Pyruvate	0.752635910672
+3	O-Acetyl-L-homoserine	0.20642766407
+3	Sphinganine	-0.476827093189
+3	PYRxt	0.0178445018181
+3	O-Phospho-L-homoserine	-0.237120620034
+3	Dimethylallyl diphosphate	-0.238413546594
+3	H+M	2.3125435974
+3	L-Isoleucine	-0.491370751073
+3	sn-Glycerol 3-phosphate	-0.191203109144
+3	NADPH	-0.391506664905
+3	Fumarate	0.494849717309
+3	dUTP	-0.885247477888
+3	DTTPxtX	-0.598190359
+3	D-Ribulose 5-phosphate	-0.133555421565
+3	L-Glutamate 5-semialdehyde	0.0752858800079
+3	L-Tryptophan	-0.14099980525
+3	N-Acetyl-L-glutamateM	-0.679157012991
+3	Oxidized thioredoxin	0.471763355894
+4	UREAxtX	0.2241923725
+4	5-O-(1-Carboxyvinyl)-3-phosphoshikimate	-0.787346763921
+4	Phosphatidylserine	1.18434760754
+4	ORNxt	-0.794960284083
+4	GLUxt	0.01325914608
+4	(R)-5-Diphosphomevalonate	-0.17189583034
+4	TRPxtX	0.69925735275
+4	(R)-2,3-dihydroxy-3-methylbutanoateM	0.473009287927
+4	Geranyl diphosphate	0.00834594042184
+4	PYRxtX	0.0178445018181
+4	GLNxtX	1.27278989278
+4	ATPM	0.944658528123
+4	ACALxtX	1.15948713687
+4	Glutathione	0.779194010846
+4	L-Arginine	0.831600423009
+4	beta-D-Fructose 1,6-bisphosphate	0.275758234783
+4	N-Acetyl-L-glutamate 5-semialdehydeM	0.081918065
+4	Dolichyl phosphate	-0.302490543333
+4	SUCCxt	0.314933835629
+4	CO2M	1.27256528167
+4	Thymine	1.02039790549
+4	Acetate	-0.240003053612
+4	BMxt	-0.117215389481
+4	5-Phosphoribosylamine	0.21955766598
+4	(S)-3-Hydroxy-3-methylglutaryl-CoA	-0.236844586589
+4	D-4'-Phosphopantothenate	0.192127837861
+4	Diacylglycerol	-0.2788506978
+4	CMP	0.657940346644
+4	Acetoacetyl-CoA	-0.464174021463
+4	Pyrophosphate	0.300519892006
+4	H2O2	0.199407242722
+4	HO-M	0.764777907889
+4	L-ThreonineM	-2.26692752809
+4	Prephenate	-0.8551473255
+4	Carnitine	0.0711941130921
+4	Dihydrofolate	0.588483444002
+4	PHExtX	0.192995472781
+4	OxaloglutarateM	-0.290958510492
+4	Succinate semialdehyde	-0.133044126572
+4	Guanosine	-0.0202852691998
+4	Succinate	0.319177486899
+4	2-(Formamido)-N1-(5'-phosphoribosyl)acetamidine	0.104470204689
+4	dTTP	-0.275487976919
+4	5-Methyltetrahydrofolate	-0.0689393857895
+4	2-Amino-3-carboxymuconate semialdehyde	-0.494813818125
+4	GLUxtX	0.0208040920699
+4	But-1-ene-1,2,4-tricarboxylateM	-0.0323397613125
+4	CTP	1.03745913185
+4	Orotate	-0.188587671278
+4	OxygenM	-0.9083668265
+4	2-OxoadipateM	-0.394168847062
+4	L-Asparagine	-0.206846326042
+4	2-AcetolactateM	1.7988177675
+4	Xanthosine	0.733967779623
+4	L-Kynurenine	-0.190133199375
+4	ASPxt	-1.1602900783
+4	1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	-0.454555595188
+4	Phosphatidyl-N-methylethanolamine	0.0351115890451
+4	LEUxt	0.42028838862
+4	L-Tyrosine	-0.613405633265
+4	ADPM	0.200872945531
+4	alpha,alpha-Trehalose	0.460721615128
+4	CitrateM	0.211815217608
+4	FMN	0.0486848131918
+4	VALxt	0.419289242427
+4	Carbamoyl phosphate	-0.227635095832
+4	4-Methylzymsterol	-0.223534544699
+4	NAD+M	-0.494167030362
+4	NADP+M	-1.32807868529
+4	UbiquinolM	0.368615034941
+4	FUMxtX	0.5805221024
+4	Adenosine 3',5'-bisphosphate	-0.314550140449
+4	Ergosta-5,7,24(28)-trienol	-0.263191221459
+4	L-Aspartate	-0.753524408287
+4	2-Aceto-2-hydroxy butyrateM	0.74127085688
+4	Sulfite	0.0159385787415
+4	5,10-Methylenetetrahydrofolate	0.930288133505
+4	Fecosterol	-0.00511045874206
+4	10-Formyltetrahydrofolate	-0.0887666911994
+4	AcetaldehydeM	-1.55158651239
+4	Phenylpyruvate	0.95794466
+4	Urea	-0.101161020174
+4	Acyl-[acyl-carrier protein]	-0.539722271183
+4	3-Carboxy-4-methyl-2-oxopentanoate	0.185025386679
+4	Indoleglycerol phosphate	-0.649012157
+4	dATP	-0.278214450045
+4	3-(4-Hydroxyphenyl)pyruvate	0.116092553683
+4	Phosphatidylcholine	0.0285878090021
+4	D-Ribose 5-phosphate	-0.598921942887
+4	L-Glutamine	0.0714870033745
+4	Hydrogen sulfide	0.0440068803818
+4	N-Acetyl-L-glutamate 5-phosphateM	0.408018957074
+4	FORxt	-0.732818737
+4	NH3	-0.064318934694
+4	alpha-D-Glutamyl phosphate	0.146577236092
+4	3-Dehydroshikimate	-0.5282744765
+4	5-Phospho-alpha-D-ribose 1-diphosphate	-0.648526808426
+4	UDP	0.330942948313
+4	OrthophosphateM	1.75850365485
+4	2-Aminomuconate 6-semialdehyde	-0.241713532
+4	GNxtX	0.707141212674
+4	Myristoyl-[acyl-carrier protein]	-0.184631074382
+4	SuccinateM	-0.0698876310288
+4	N-(L-Arginino)succinate	-0.187346320096
+4	Ergosterol	0.0545033350019
+4	Shikimate 3-phosphate	-0.0352524836821
+4	1-Phosphatidyl-D-myo-inositol	0.584960430722
+4	AONAxtX	-0.44890331875
+4	PNTOxt	0.120844616464
+4	GLYxtX	-0.71083525488
+4	Zymosterol	-0.140597414441
+4	O-AcetylcarnitineM	-0.433262528241
+4	L-Serine	0.313139168318
+4	Urea-1-carboxylate	-0.59495102945
+4	FADM	0.782870360958
+4	N2-Acetyl-L-ornithineM	-0.0469997522946
+4	dCDP	-0.150662017552
+4	Guanine	-0.822835424806
+4	OxaloacetateM	-0.00955845058794
+4	Acyl-carrier protein	-0.5887104826
+4	4,4-Dimethylcholesta-8,14,24-trienol	0.502639163917
+4	Ferricytochrome cM	1.08166019898
+4	HISxtX	-0.506833855344
+4	dGTP	-0.521783088208
+4	VALxtX	0.671958261281
+4	AONAxt	0.0292189624687
+4	Reduced thioredoxin	-0.523766625801
+4	L-OrnithineM	-0.335687736699
+4	Acyldihydroxyacetone phosphate	0.0194590310308
+4	ACALxt	1.20625385665
+4	THRxtX	0.0
+4	3-Methyl-2-oxobutanoateM	0.903288969702
+4	GLYxt	-0.611740305009
+4	Palmitoyl-[acyl-carrier protein]	-0.184631074382
+4	L-Lysine	-0.338457625016
+4	Linolenoyl-[acyl-carrier protein]	-0.184631074382
+4	Dephospho-CoA	0.0237520952432
+4	Pantetheine 4'-phosphate	0.258959321515
+4	Stearoyl-[acyl-carrier protein]	-0.184631074382
+4	Intermediate_Zymosterol_II	-0.712828295698
+4	gamma-L-Glutamyl-L-cysteine	-0.044601977768
+4	4-Aminobutanoate	0.539401559862
+4	D-Glucose 1-phosphate	-0.405952364817
+4	ACxtX	-0.176379199354
+4	Sedoheptulose 7-phosphate	0.281246691374
+4	Malate	0.134791770013
+4	1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole	0.216241372768
+4	D-Ribose 1-phosphate	1.0204468379
+4	N1-(5-Phospho-D-ribosyl)-ATP	0.574910290725
+4	N6-(L-1,3-Dicarboxypropyl)-L-lysine	-0.879341837505
+4	Tetrahydrofolate	-0.380889043686
+4	ETHxt	0.854530455266
+4	ASPxtX	-0.944377743312
+4	Episterol	-0.246049891547
+4	OxalosuccinateM	-0.882905799101
+4	CITxtX	-0.59347244025
+4	N1-(5-Phospho-D-ribosyl)-AMP	0.559629389195
+4	(S)-Dihydroorotate	-0.812233075174
+4	GA6Pxt	-0.0299553315645
+4	ILExtX	0.454697389281
+4	ATP	-0.224249405626
+4	GlutamateM	-0.885903532189
+4	D-Ribose	-1.00629956003
+4	Phosphoenolpyruvate	-0.824536564858
+4	2-OxobutanoateM	-1.536403739
+4	alpha,alpha'-Trehalose 6-phosphate	0.42779806368
+4	L-Cysteine	-0.345760704299
+4	Lanosterol	-0.23094143941
+4	Oxaloacetate	-0.636246771703
+4	UREAxt	0.2545737795
+4	Deoxy-ribose 1-phosphate	1.02406362829
+4	Oxidized flavoprotein	-0.0201142240833
+4	3-Phosphoserine	-0.586454275855
+4	5'-Phosphoribosyl-N-formylglycinamide	0.393822178047
+4	CYSxtX	0.0
+4	IMP	0.325678919045
+4	3-Methyl-2-oxobutanoate	1.24191760875
+4	L-Ornithine	-1.10391838058
+4	3-Phospho-D-glycerate	-0.917657383675
+4	Glycerone phosphate	-0.357678583734
+4	Acetyl-CoAM	0.241369455287
+4	L-Citrulline	-0.580204138749
+4	3-Phospho-D-glyceroyl phosphate	0.699912742564
+4	CO2xt	-0.688531416233
+4	L-Proline	1.39102405388
+4	Thiamin monophosphate	0.18627864918
+4	L-SerineM	0.691932047031
+4	ARGxtX	0.6845658765
+4	L-Threonine	-1.23413458203
+4	L-Histidinol	0.752514520705
+4	ADP	0.602866065821
+4	Malonyl-[acyl-carrier protein]	-0.419289644133
+4	alpha-D-Glucose	1.03383248454
+4	HISxt	-0.249897943955
+4	L-Homoserine	-0.157228396355
+4	D-Glucosamine 6-phosphate	-0.273967264842
+4	Intermediate_Zymosterol_I	-0.550997205674
+4	SUCCxtX	0.326810612143
+4	3-Phosphonooxypyruvate	-0.295803550479
+4	ACxt	-0.201689182883
+4	dUDP	-0.144643165778
+4	N-Carbamoyl-L-aspartate	-0.446248356352
+4	Glycine	1.0320504609
+4	Xanthosine 5'-phosphate	0.680470643723
+4	L-2-Aminoadipate 6-semialdehyde	-0.927670404034
+4	FORxtX	-0.126389578
+4	METxt	0.256949776969
+4	L-Formylkynurenine	-0.524683315875
+4	5'-Phosphoribosylglycinamide	0.269368761607
+4	3-Hydroxykynurenine	-0.273421786552
+4	Adenylylsulfate	0.215638787779
+4	Uridine	-0.871233061633
+4	ILExt	0.202028370427
+4	(S)-1-Pyrroline-5-carboxylate	0.0752858800079
+4	Phosphatidylethanolamine	0.724924218917
+4	(S)-2,3-Epoxysqualene	-0.267077988083
+4	4,4-Dimethylzymosterol	-0.400410649767
+4	Deoxyadenosine	-1.99934400299
+4	PNTOxtX	0.038411280937
+4	ASNxt	0.847384540431
+4	CITxt	-0.614966247771
+4	BMxtX	-0.0125544164407
+4	L-Glutamate	0.660802577257
+4	D-Erythrose 4-phosphate	-0.342805045882
+4	trans,trans-Farnesyl diphosphate	0.08781712262
+4	(S)-1-Pyrroline-5-carboxylateM	0.231374193183
+4	Dolichyl beta-D-mannosyl phosphate	-0.302490543333
+4	ORNxtX	-0.80508741975
+4	TYRxt	0.0821508148782
+4	Malonyl-CoA	-0.480728585124
+4	L-Leucine	-0.267109102795
+4	Deoxyinosine	0.250686896079
+4	2-IsopropylmalateM	0.572990211042
+4	D-Fructose 2,6-bisphosphate	0.1995498372
+4	Homocysteine	-0.0966942663407
+4	Xanthine	1.02039790549
+4	LYSxtX	0.224661598156
+4	6-Phospho-D-gluconate	0.292563213958
+4	beta-D-Fructose 6-phosphate	-0.31681013606
+4	3-(Imidazol-4-yl)-2-oxopropyl phosphate	0.694620855145
+4	Acetyl-CoA	-0.449414956464
+4	Dodecanoyl-[acyl-carrier protein]	-0.184631074382
+4	ARGxt	0.328831076826
+4	CarnitineM	0.565692048542
+4	FumarateM	1.26825036591
+4	THRxt	-0.528204589094
+4	Isopentenyl diphosphate	0.0240088644902
+4	3',5'-Cyclic AMP	-1.65652787215
+4	beta-Alanine	-1.3361951303
+4	Thymidine	0.412586192917
+4	ALAxt	-0.899516215181
+4	Adenine	-3.02069409214
+4	D-Glucono-1,5-lactone 6-phosphate	1.00629861456
+4	CoAM	0.227267567359
+4	Ubiquinone-9M	1.18548845175
+4	8-Amino-7-oxononanoate	-0.293849377096
+4	L-Histidinol phosphate	0.732236362177
+4	Citrate	-0.618718417355
+4	L-Alanine	-0.610378257728
+4	CYSxt	0.117457596625
+4	dTDP	0.660024975586
+4	Decanoyl-[acp]	-0.184631074382
+4	L-2-Aminoadipate	0.943740879083
+4	NH3M	-0.997013962
+4	TetrahydrofolateM	-0.859630249152
+4	dTMP	0.368021901821
+4	2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate	-0.199273326323
+4	NADH	1.21361189818
+4	UMP	-0.444586580914
+4	3'-Phosphoadenylylsulfate	-0.52318194837
+4	myo-Inositol	0.167120418656
+4	TYRxtX	0.347083075531
+4	DihydrofolateM	0.598779443411
+4	CO2xtX	-0.754312481436
+4	HYXNxt	2.86769353601
+4	D-Xylose-5-phosphate	-0.133555421565
+4	D-Glyceraldehyde 3-phosphate	0.811458221199
+4	L-Phenylalanine	-0.789712504006
+4	NADP+	0.423090541693
+4	Glycerol	1.70933838852
+4	N-(5-Phospho-D-ribosyl)anthranilate	-0.203713019652
+4	AcetateM	0.464302351418
+4	Deoxyuridine	0.57562769077
+4	Uracil	0.750318847999
+4	(R)-Pantoate	-0.775739076488
+4	ASNxtX	0.587435454243
+4	GNxt	0.675439403304
+4	Shikimate	-0.10873837351
+4	2-Oxoglutarate	0.381629407978
+4	Phosphatidyl-N-dimethylethanolamine	-0.0597528188441
+4	THYxt	0.173352596802
+4	L-Cystathionine	0.313436798915
+4	2-Phospho-D-glycerate	-0.378893158788
+4	(R)-4'-Phosphopantothenoyl-L-cysteine	0.0479018066771
+4	alpha-D-Glucose 6-phosphate	0.453035679545
+4	NAD+	-0.652609577071
+4	FUMxt	0.494849717309
+4	CO2	-0.664242864413
+4	5,10-Methenyltetrahydrofolate	1.12355823978
+4	L-Methionine	-0.574624682607
+4	Inosine	1.49445084799
+4	IsocitrateM	-0.523968247403
+4	CDP	0.0706357249839
+4	Sphinganine 1-phosphate	0.0486848131918
+4	Thiamin diphosphate	0.0486848131918
+4	Acyl-sn-glycerol 3-phosphate	0.186254911831
+4	Ergosta-5,7,22,24(28)-tetraenol	-0.27500379127
+4	O-Acetylcarnitine	0.0644068380775
+4	Hexadecanoyl-[acp]	-0.184631074382
+4	Chorismate	-1.2974589343
+4	GlycineM	-1.51842369102
+4	2-Hydroxybutane-1,2,4-tricarboxylateM	0.652606565837
+4	DTTPxt	-0.290749239078
+4	dGMP	0.359149204555
+4	alpha-D-Mannose 1-phosphate	-0.360724743574
+4	Ethanol	0.869931352662
+4	Aminoimidazole ribotide	-0.730690561813
+4	Intermediate_Methylzymosterol_II	-0.619344690375
+4	Pyridoxamine phosphate	0.0486848131918
+4	Oxygen	-0.9083668265
+4	L-Aspartate 4-semialdehyde	0.454874362056
+4	Phosphatidate	-0.126583839597
+4	UTP	-1.44634787832
+4	2-Isopropylmalate	-0.2855176217
+4	GA6PxtX	-0.271562684875
+4	HYXN	2.86472250754
+4	SERxtX	0.3023953375
+4	1L-myo-Inositol 1-phosphate	-0.390894933292
+4	5-(5-Phospho-D-ribosylaminoformimino)-1-(5-phosphoribosyl)-imidazole-4-carboxamide	0.371019034406
+4	CoA	0.463452305598
+4	PyruvateM	1.57331458707
+4	4-Phospho-L-aspartate	0.150541858894
+4	5,10-MethylenetetrahydrofolateM	0.722617426175
+4	Pyridoxamine	-0.205391657471
+4	Oleoyl-[acyl-carrier protein]	-0.184631074382
+4	1-(5-Phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate	-0.626519030906
+4	GLNxt	1.03313835993
+4	L-ProlineM	0.758250388333
+4	HomoisocitrateM	0.519832066
+4	Oxalosuccinate	0.875383032988
+4	ALAxtX	-0.581352201537
+4	dCTP	0.122893849143
+4	PAPxt	-0.417130168207
+4	GLxt	1.67688841114
+4	Acetaldehyde	1.17593106117
+4	1-(5'-Phosphoribosyl)-5-formamido-4-imidazolecarboxamide	-0.0591984544406
+4	3-Dehydroquinate	-0.309391387338
+4	2-Dehydropantoate	0.3093617202
+4	LYSxt	0.379850967423
+4	6-Carboxyhexanoyl-CoA	-0.54437479453
+4	Riboflavin	-0.205391657471
+4	Adenosine	-1.93247901993
+4	ETHxtX	0.912700450554
+4	dGDP	-0.399563838207
+4	Biomass	-0.0572187502954
+4	LEUxtX	0.772558898781
+4	O-Acetyl-L-serine	0.0230297330876
+4	L-Glutamate 5-semialdehydeM	0.159656174187
+4	PAPxtX	-0.250235906667
+4	dAMP	0.183908511729
+4	Thiamin	0.23950040932
+4	THYxtX	0.0924861142844
+4	MalateM	-0.401586323431
+4	(R)-5-Phosphomevalonate	-0.146113365988
+4	SERxt	0.982361086031
+4	NADHM	0.807078912909
+4	Orotidine 5'-phosphate	-0.371284809223
+4	N6-(1,2-Dicarboxyethyl)-AMP	-0.23900509532
+4	Cytidine	0.216542392388
+4	Oxidized glutathione	0.146748709862
+4	AMP	0.0568013488037
+4	XANxtX	1.06071181901
+4	Intermediate_Methylzymosterol_I	-0.448151051722
+4	(R)-3-Hydroxy-3-methyl-2-oxobutanoateM	0.450112641354
+4	CDPdiacylglycerol	0.505837674246
+4	PHExt	-0.0701255449617
+4	XANxt	1.02901000964
+4	FADH2M	-0.15363693229
+4	beta-D-Glucose 6-phosphate	0.439991651708
+4	Deoxyguanosine	-0.0948284559171
+4	1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide	-0.303319801945
+4	(R)-2-OxoisovalerateM	0.813130996528
+4	HYXNxtX	2.93879246967
+4	2-OxoglutarateM	-0.295328249635
+4	EthanolM	0.854530455266
+4	S-Adenosyl-L-homocysteine	-0.638413485504
+4	3-Hydroxyanthranilate	-0.288899875848
+4	METxtX	0.355582517167
+4	L-Histidine	-1.20472741454
+4	Isocitrate	0.750206721501
+4	H+EXT	0.292598274923
+4	Formate	-0.316522777375
+4	2-Aminomuconate	-0.137987218535
+4	S-Adenosyl-L-methionine	0.170316227122
+4	(R)-Pantothenate	0.153613329707
+4	"N-(5'-Phospho-D-1'-ribulosylformimino)-5-amino-1-(5""-phospho-D-ribosyl)-4-imidazolecarboxamide"	-0.218464684
+4	GMP	0.768874633155
+4	Cytosine	0.0504638554993
+4	dADP	-0.0914835605095
+4	Mannan	-0.302490543333
+4	GDP	0.522162756427
+4	GDPmannose	-0.877073822833
+4	dUMP	0.268853416417
+4	NADPHM	0.945447371466
+4	PROxtX	-0.28757321625
+4	PROxt	-0.169283047667
+4	Squalene	-0.118263306332
+4	(R)-Mevalonate	-0.164100395101
+4	Ferrocytochrome cM	0.286262714478
+4	D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate	-0.700124350549
+4	Orthophosphate	2.19907363946
+4	2-Oxoadipate	-0.101467283862
+4	(R)-2-Oxoisovalerate	1.67643935275
+4	TRPxt	0.24878447575
+4	GLxtX	1.733978205
+4	D-Mannose 6-phosphate	-0.490681572337
+4	Glyoxylate	0.904402452779
+4	Triacylglycerol	-0.13959785033
+4	L-Valine	-0.287921646967
+4	Anthranilate	-0.287985537628
+4	Pyruvate	0.714031166261
+4	O-Acetyl-L-homoserine	0.24368836811
+4	Sphinganine	-0.205391657471
+4	PYRxt	-0.0242672103282
+4	O-Phospho-L-homoserine	-0.230868099042
+4	Dimethylallyl diphosphate	0.00834594042184
+4	H+M	2.28608270705
+4	L-Isoleucine	-0.500559947222
+4	sn-Glycerol 3-phosphate	-0.164213287082
+4	NADPH	-0.443479025466
+4	Fumarate	0.531874096867
+4	dUTP	-0.808056679545
+4	DTTPxtX	-0.537508726094
+4	D-Ribulose 5-phosphate	-0.143586555419
+4	L-Glutamate 5-semialdehyde	0.0868318202114
+4	L-Tryptophan	0.312310693771
+4	N-Acetyl-L-glutamateM	-0.725933811699
+4	Oxidized thioredoxin	0.455759522129
+5	UREAxtX	0.2545737795
+5	5-O-(1-Carboxyvinyl)-3-phosphoshikimate	-0.777901960682
+5	Phosphatidylserine	0.911562714467
+5	ORNxt	-1.10391838058
+5	GLUxt	0.0689030062571
+5	(R)-5-Diphosphomevalonate	-0.206159733317
+5	TRPxtX	0.24878447575
+5	(R)-2,3-dihydroxy-3-methylbutanoateM	0.503390485142
+5	Geranyl diphosphate	0.0240088644902
+5	PYRxtX	-0.0242672103282
+5	GLNxtX	1.03313835993
+5	ATPM	0.957220854836
+5	ACALxtX	1.20625385665
+5	Glutathione	0.769707381062
+5	L-Arginine	0.83830153494
+5	beta-D-Fructose 1,6-bisphosphate	0.251996421727
+5	N-Acetyl-L-glutamate 5-semialdehydeM	0.355703375475
+5	Dolichyl phosphate	-0.302490543333
+5	SUCCxt	0.319177486899
+5	CO2M	1.31311087155
+5	Thymine	1.13831288804
+5	Acetate	-0.175166160178
+5	BMxt	-0.0572187502954
+5	5-Phosphoribosylamine	0.257165281779
+5	(S)-3-Hydroxy-3-methylglutaryl-CoA	-0.220178043667
+5	D-4'-Phosphopantothenate	0.167807478536
+5	Diacylglycerol	-0.126583839597
+5	CMP	0.826434949433
+5	Acetoacetyl-CoA	-0.447507478541
+5	Pyrophosphate	0.459058762637
+5	H2O2	0.072681122465
+5	HO-M	0.779626747854
+5	L-ThreonineM	-1.97584355903
+5	Prephenate	-0.989888290297
+5	Carnitine	0.100275887623
+5	Dihydrofolate	0.645003566023
+5	PHExtX	-0.0701255449617
+5	OxaloglutarateM	-0.0103273934454
+5	Succinate semialdehyde	-0.148338804743
+5	Guanosine	-0.051955607144
+5	Succinate	0.325248132797
+5	2-(Formamido)-N1-(5'-phosphoribosyl)acetamidine	0.131308383088
+5	dTTP	-0.306668708831
+5	5-Methyltetrahydrofolate	-0.0983779170489
+5	2-Amino-3-carboxymuconate semialdehyde	-0.245655980542
+5	GLUxtX	0.01325914608
+5	But-1-ene-1,2,4-tricarboxylateM	0.188177827837
+5	CTP	1.13955969124
+5	Orotate	-0.315313791535
+5	OxygenM	-0.9083668265
+5	2-OxoadipateM	-0.290958510492
+5	L-Asparagine	-0.175412559171
+5	2-AcetolactateM	1.7670760187
+5	Xanthosine	0.711252060482
+5	L-Kynurenine	-0.524683315875
+5	ASPxt	-1.16968029229
+5	1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	-0.203713019652
+5	Phosphatidyl-N-methylethanolamine	0.0495297443459
+5	LEUxt	0.426290018705
+5	L-Tyrosine	-0.55187092553
+5	ADPM	0.315309523509
+5	alpha,alpha-Trehalose	0.730849218893
+5	CitrateM	0.251395672563
+5	FMN	0.0144209102154
+5	VALxt	0.405477474533
+5	Carbamoyl phosphate	-0.182578672025
+5	4-Methylzymsterol	-0.259612896293
+5	NAD+M	-0.542997249299
+5	NADP+M	-1.35807641191
+5	UbiquinolM	0.381421150441
+5	FUMxtX	0.494849717309
+5	Adenosine 3',5'-bisphosphate	-0.308786590921
+5	Ergosta-5,7,24(28)-trienol	-0.318286052625
+5	L-Aspartate	-0.69788054811
+5	2-Aceto-2-hydroxy butyrateM	0.717394603063
+5	Sulfite	0.0375287885614
+5	5,10-Methylenetetrahydrofolate	0.905503295423
+5	Fecosterol	0.031499694896
+5	10-Formyltetrahydrofolate	-0.113704517854
+5	AcetaldehydeM	-1.50267233487
+5	Phenylpyruvate	0.5373381615
+5	Urea	0.0217238930087
+5	Acyl-[acyl-carrier protein]	-0.537434829175
+5	3-Carboxy-4-methyl-2-oxopentanoate	0.159279309787
+5	Indoleglycerol phosphate	-0.940158248188
+5	dATP	-0.310504516265
+5	3-(4-Hydroxyphenyl)pyruvate	0.157065218013
+5	Phosphatidylcholine	0.0543122845891
+5	D-Ribose 5-phosphate	-0.555799749256
+5	L-Glutamine	0.160666118352
+5	Hydrogen sulfide	0.00878955951937
+5	N-Acetyl-L-glutamate 5-phosphateM	0.355314192789
+5	FORxt	-0.316522777375
+5	NH3	0.0142763236176
+5	alpha-D-Glutamyl phosphate	0.191729135869
+5	3-Dehydroshikimate	-0.309391387338
+5	5-Phospho-alpha-D-ribose 1-diphosphate	-0.635754444543
+5	UDP	0.299520601326
+5	OrthophosphateM	1.86137423897
+5	2-Aminomuconate 6-semialdehyde	-0.494813818125
+5	GNxtX	0.675439403304
+5	Myristoyl-[acyl-carrier protein]	-0.161390380846
+5	SuccinateM	-0.0258993799239
+5	N-(L-Arginino)succinate	-0.212692985567
+5	Ergosterol	0.0280587982747
+5	Shikimate 3-phosphate	-0.0673243737782
+5	1-Phosphatidyl-D-myo-inositol	0.39895225744
+5	AONAxtX	0.0292189624687
+5	PNTOxt	0.153613329707
+5	GLYxtX	-0.611740305009
+5	Zymosterol	-0.180083276643
+5	O-AcetylcarnitineM	-0.404180753711
+5	L-Serine	0.316887633622
+5	Urea-1-carboxylate	-0.602747981415
+5	FADM	0.81574874872
+5	N2-Acetyl-L-ornithineM	0.0120279842583
+5	dCDP	-0.195868047274
+5	Guanine	-0.704920442252
+5	OxaloacetateM	0.0121584033483
+5	Acyl-carrier protein	-0.581566537271
+5	4,4-Dimethylcholesta-8,14,24-trienol	0.507496951148
+5	Ferricytochrome cM	1.05700954757
+5	HISxtX	-0.249897943955
+5	dGTP	-0.497530948132
+5	VALxtX	0.419289242427
+5	AONAxt	-0.293849377096
+5	Reduced thioredoxin	-0.537125046723
+5	L-OrnithineM	-0.310761489246
+5	Acyldihydroxyacetone phosphate	0.079355525532
+5	ACALxt	1.17593106117
+5	THRxtX	-0.528204589094
+5	3-Methyl-2-oxobutanoateM	0.968715911927
+5	GLYxt	-0.479548104101
+5	Palmitoyl-[acyl-carrier protein]	-0.161390380846
+5	L-Lysine	-0.328579754429
+5	Linolenoyl-[acyl-carrier protein]	-0.161390380846
+5	Dephospho-CoA	-0.0111970857928
+5	Pantetheine 4'-phosphate	0.0479018066771
+5	Stearoyl-[acyl-carrier protein]	-0.161390380846
+5	Intermediate_Zymosterol_II	-0.550997205674
+5	gamma-L-Glutamyl-L-cysteine	-0.00314586212866
+5	4-Aminobutanoate	0.595045420039
+5	D-Glucose 1-phosphate	-0.295337611809
+5	ACxtX	-0.201689182883
+5	Sedoheptulose 7-phosphate	0.294786610363
+5	Malate	0.15196598438
+5	1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole	0.25062450644
+5	D-Ribose 1-phosphate	1.13999952854
+5	N1-(5-Phospho-D-ribosyl)-ATP	0.541251892205
+5	N6-(L-1,3-Dicarboxypropyl)-L-lysine	-0.838521460024
+5	Tetrahydrofolate	-0.394949730066
+5	ETHxt	0.869931352662
+5	ASPxtX	-1.1602900783
+5	Episterol	-0.00511045874206
+5	OxalosuccinateM	-0.782678525948
+5	CITxtX	-0.614966247771
+5	N1-(5-Phospho-D-ribosyl)-AMP	0.574910290725
+5	(S)-Dihydroorotate	-0.883503068352
+5	GA6Pxt	-0.273967264842
+5	ILExtX	0.202028370427
+5	ATP	-0.0902213409608
+5	GlutamateM	-0.866004653631
+5	D-Ribose	-1.01060116374
+5	Phosphoenolpyruvate	-0.796174639839
+5	2-OxobutanoateM	-2.06460832809
+5	alpha,alpha'-Trehalose 6-phosphate	0.438939060472
+5	L-Cysteine	-0.279647540282
+5	Lanosterol	-0.26555343665
+5	Oxaloacetate	-0.643708825783
+5	UREAxt	-0.101161020174
+5	Deoxy-ribose 1-phosphate	1.14197861085
+5	Oxidized flavoprotein	-2.42132996732e-05
+5	3-Phosphoserine	-0.52284839359
+5	5'-Phosphoribosyl-N-formylglycinamide	0.424369590429
+5	CYSxtX	0.117457596625
+5	IMP	0.342835619619
+5	3-Methyl-2-oxobutanoate	0.903288969702
+5	L-Ornithine	-1.0132775003
+5	3-Phospho-D-glycerate	-0.762945755067
+5	Glycerone phosphate	-0.328837676973
+5	Acetyl-CoAM	0.248514948949
+5	L-Citrulline	-0.563779025585
+5	3-Phospho-D-glyceroyl phosphate	0.796011251059
+5	CO2xt	-0.664242864413
+5	L-Proline	1.34149253441
+5	Thiamin monophosphate	0.35332493485
+5	L-SerineM	0.313139168318
+5	ARGxtX	0.328831076826
+5	L-Threonine	-1.22033870403
+5	L-Histidinol	0.732015947411
+5	ADP	0.611687153425
+5	Malonyl-[acyl-carrier protein]	-0.379198055461
+5	alpha-D-Glucose	0.557005391348
+5	HISxt	-0.137987218535
+5	L-Homoserine	-0.150119181046
+5	D-Glucosamine 6-phosphate	-0.235279259412
+5	Intermediate_Zymosterol_I	-0.428752454439
+5	SUCCxtX	0.314933835629
+5	3-Phosphonooxypyruvate	-0.333842385554
+5	ACxt	-0.240003053612
+5	dUDP	-0.118556166963
+5	N-Carbamoyl-L-aspartate	-0.400809047884
+5	Glycine	0.992724961549
+5	Xanthosine 5'-phosphate	0.69787633149
+5	L-2-Aminoadipate 6-semialdehyde	-0.93440305737
+5	FORxtX	-0.732818737
+5	METxt	0.363666426393
+5	L-Formylkynurenine	-0.184700441609
+5	5'-Phosphoribosylglycinamide	0.254806201949
+5	3-Hydroxykynurenine	-0.326450150289
+5	Adenylylsulfate	0.184296898414
+5	Uridine	-0.872193968538
+5	ILExt	0.192839174278
+5	(S)-1-Pyrroline-5-carboxylate	0.0869103640223
+5	Phosphatidylethanolamine	0.692164109539
+5	(S)-2,3-Epoxysqualene	-0.257123360784
+5	4,4-Dimethylzymosterol	-0.453488805235
+5	Deoxyadenosine	-2.03192207487
+5	PNTOxtX	0.120844616464
+5	ASNxt	0.790167635958
+5	CITxt	-0.618718417355
+5	BMxtX	-0.117215389481
+5	L-Glutamate	0.680843868584
+5	D-Erythrose 4-phosphate	-0.308105214561
+5	trans,trans-Farnesyl diphosphate	0.103480046688
+5	(S)-1-Pyrroline-5-carboxylateM	0.412020955018
+5	Dolichyl beta-D-mannosyl phosphate	-0.877073822833
+5	ORNxtX	-0.794960284083
+5	TYRxt	0.0799934882346
+5	Malonyl-CoA	-0.486240129002
+5	L-Leucine	-0.204982165454
+5	Deoxyinosine	0.232307254011
+5	2-IsopropylmalateM	0.490992240854
+5	D-Fructose 2,6-bisphosphate	0.175788024143
+5	Homocysteine	-0.0497454446426
+5	Xanthine	1.13995059613
+5	LYSxtX	0.379850967423
+5	6-Phospho-D-gluconate	0.289600974692
+5	beta-D-Fructose 6-phosphate	-0.381257284891
+5	3-(Imidazol-4-yl)-2-oxopropyl phosphate	0.476519469451
+5	Acetyl-CoA	-0.450573351531
+5	Dodecanoyl-[acyl-carrier protein]	-0.161390380846
+5	ARGxt	0.451715990009
+5	CarnitineM	0.648910692009
+5	FumarateM	1.22488739351
+5	THRxt	-0.237120620034
+5	Isopentenyl diphosphate	-0.0104804589005
+5	3',5'-Cyclic AMP	-1.68136889048
+5	beta-Alanine	-1.34558534429
+5	Thymidine	0.415014734555
+5	ALAxt	-0.867670559228
+5	Adenine	-3.01417560649
+5	D-Glucono-1,5-lactone 6-phosphate	1.00361363914
+5	CoAM	0.199834160257
+5	Ubiquinone-9M	1.20415431935
+5	8-Amino-7-oxononanoate	-0.257063197863
+5	L-Histidinol phosphate	0.789677948242
+5	Citrate	-0.563202859982
+5	L-Alanine	-0.559512386416
+5	CYSxt	0.0440235767013
+5	dTDP	0.624945104183
+5	Decanoyl-[acp]	-0.161390380846
+5	L-2-Aminoadipate	0.995755480386
+5	NH3M	-1.52521855109
+5	TetrahydrofolateM	-0.69168479915
+5	dTMP	0.36553442197
+5	2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate	-0.224764943417
+5	NADH	1.26020372348
+5	UMP	-0.450899750644
+5	3'-Phosphoadenylylsulfate	-0.550690643129
+5	myo-Inositol	0.439991651708
+5	TYRxtX	0.0821508148782
+5	DihydrofolateM	0.588483444002
+5	CO2xtX	-0.688531416233
+5	HYXNxt	2.86472250754
+5	D-Xylose-5-phosphate	-0.143586555419
+5	D-Glyceraldehyde 3-phosphate	0.797954079446
+5	L-Phenylalanine	-0.723785585746
+5	NADP+	0.539105200757
+5	Glycerol	1.73632821058
+5	N-(5-Phospho-D-ribosyl)anthranilate	-0.284513643867
+5	AcetateM	0.762038464657
+5	Deoxyuridine	0.577708038941
+5	Uracil	0.704798236499
+5	(R)-Pantoate	-0.86692823956
+5	ASNxtX	0.847384540431
+5	GNxt	0.675387988194
+5	Shikimate	-0.170423657989
+5	2-Oxoglutarate	0.443680332618
+5	Phosphatidyl-N-dimethylethanolamine	-0.0382050204634
+5	THYxt	0.138796099326
+5	L-Cystathionine	0.146787358544
+5	2-Phospho-D-glycerate	-0.434996756675
+5	(R)-4'-Phosphopantothenoyl-L-cysteine	0.0495720876626
+5	alpha-D-Glucose 6-phosphate	0.410061561867
+5	NAD+	-0.64753134723
+5	FUMxt	0.531874096867
+5	CO2	-0.643072796452
+5	5,10-Methenyltetrahydrofolate	1.1057263132
+5	L-Methionine	-0.527091432277
+5	Inosine	1.48449898611
+5	IsocitrateM	-0.390581441784
+5	CDP	0.228986565295
+5	Sphinganine 1-phosphate	0.0144209102154
+5	Thiamin diphosphate	0.0144209102154
+5	Acyl-sn-glycerol 3-phosphate	0.165830553048
+5	Ergosta-5,7,22,24(28)-tetraenol	-0.316840866592
+5	O-Acetylcarnitine	0.0815021817686
+5	Hexadecanoyl-[acp]	-0.161390380846
+5	Chorismate	-1.15806758192
+5	GlycineM	-1.28835782254
+5	2-Hydroxybutane-1,2,4-tricarboxylateM	0.528705579338
+5	DTTPxt	-0.275487976919
+5	dGMP	0.525041687674
+5	alpha-D-Mannose 1-phosphate	-0.490681572337
+5	Ethanol	0.872615003783
+5	Aminoimidazole ribotide	-0.758909796531
+5	Intermediate_Methylzymosterol_II	-0.448151051722
+5	Pyridoxamine phosphate	0.0144209102154
+5	Oxygen	-1.15661906942
+5	L-Aspartate 4-semialdehyde	0.442098724039
+5	Phosphatidate	-0.0408891445271
+5	UTP	-1.48289178989
+5	2-Isopropylmalate	-0.0627328079576
+5	GA6PxtX	-0.0299553315645
+5	HYXN	2.99285540601
+5	SERxtX	0.982361086031
+5	1L-myo-Inositol 1-phosphate	-0.370818150348
+5	5-(5-Phospho-D-ribosylaminoformimino)-1-(5-phosphoribosyl)-imidazole-4-carboxamide	0.559629389195
+5	CoA	0.498326633326
+5	PyruvateM	1.56379274797
+5	4-Phospho-L-aspartate	0.125851217326
+5	5,10-MethylenetetrahydrofolateM	1.05235502933
+5	Pyridoxamine	-0.189728733403
+5	Oleoyl-[acyl-carrier protein]	-0.161390380846
+5	1-(5-Phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate	-0.602459224076
+5	GLNxt	1.06850096537
+5	L-ProlineM	0.806958924875
+5	HomoisocitrateM	0.432088976688
+5	Oxalosuccinate	0.886464355666
+5	ALAxtX	-0.899516215181
+5	dCTP	0.119670226662
+5	PAPxt	-0.314550140449
+5	GLxt	1.70933838852
+5	Acetaldehyde	1.12728874042
+5	1-(5'-Phosphoribosyl)-5-formamido-4-imidazolecarboxamide	-0.080430951066
+5	3-Dehydroquinate	-0.199273326323
+5	2-Dehydropantoate	0.440109015053
+5	LYSxt	0.424933758984
+5	6-Carboxyhexanoyl-CoA	-0.481269266402
+5	Riboflavin	-0.189728733403
+5	Adenosine	-1.92492522065
+5	ETHxtX	0.854530455266
+5	dGDP	-0.39831601942
+5	Biomass	0.0653439505467
+5	LEUxtX	0.42028838862
+5	O-Acetyl-L-serine	0.0221076243341
+5	L-Glutamate 5-semialdehydeM	0.231374193183
+5	PAPxtX	-0.417130168207
+5	dAMP	0.352770517895
+5	Thiamin	0.18614222861
+5	THYxtX	0.173352596802
+5	MalateM	-0.423181383338
+5	(R)-5-Phosphomevalonate	-0.124454426035
+5	SERxt	0.603568207318
+5	NADHM	0.778713986147
+5	Orotidine 5'-phosphate	-0.397190900052
+5	N6-(1,2-Dicarboxyethyl)-AMP	-0.21644311893
+5	Cytidine	0.169684502532
+5	Oxidized glutathione	0.158389685135
+5	AMP	0.200759443101
+5	XANxtX	1.02901000964
+5	Intermediate_Methylzymosterol_I	-0.436340300704
+5	(R)-3-Hydroxy-3-methyl-2-oxobutanoateM	0.530466053652
+5	CDPdiacylglycerol	0.505660077656
+5	PHExt	-0.0963133825058
+5	XANxt	1.02039790549
+5	FADH2M	-0.167731847825
+5	beta-D-Glucose 6-phosphate	0.453035679545
+5	Deoxyguanosine	-0.132473855136
+5	1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide	-0.260461396131
+5	(R)-2-OxoisovalerateM	0.945819265354
+5	HYXNxtX	2.86769353601
+5	2-OxoglutarateM	-0.278752133462
+5	EthanolM	0.869931352662
+5	S-Adenosyl-L-homocysteine	-0.605527897923
+5	3-Hydroxyanthranilate	-0.273421786552
+5	METxtX	0.256949776969
+5	L-Histidine	-1.22836903386
+5	Isocitrate	0.767107957701
+5	H+EXT	0.367741940857
+5	Formate	-0.651072893875
+5	2-Aminomuconate	-0.167487785891
+5	S-Adenosyl-L-methionine	0.135309002893
+5	(R)-Pantothenate	0.135838767616
+5	"N-(5'-Phospho-D-1'-ribulosylformimino)-5-amino-1-(5""-phospho-D-ribosyl)-4-imidazolecarboxamide"	-0.620287734594
+5	GMP	0.805386681803
+5	Cytosine	0.00827886172935
+5	dADP	0.0720117913273
+5	Mannan	-0.302490543333
+5	GDP	0.547277229443
+5	GDPmannose	-0.663215286907
+5	dUMP	0.221409233421
+5	NADPHM	1.22959678198
+5	PROxtX	-0.169283047667
+5	PROxt	-0.120574511125
+5	Squalene	-0.170782744373
+5	(R)-Mevalonate	-0.205664692533
+5	Ferrocytochrome cM	0.293195754117
+5	D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate	-0.660215615193
+5	Orthophosphate	2.24289650068
+5	2-Oxoadipate	-0.174830264394
+5	(R)-2-Oxoisovalerate	1.24765274053
+5	TRPxt	0.702094974771
+5	GLxtX	1.67688841114
+5	D-Mannose 6-phosphate	-0.31681013606
+5	Glyoxylate	0.875863379141
+5	Triacylglycerol	-0.136553023818
+5	L-Valine	-0.229557431214
+5	Anthranilate	-0.238588119389
+5	Pyruvate	0.890548936844
+5	O-Acetyl-L-homoserine	0.259036678538
+5	Sphinganine	-0.189728733403
+5	PYRxt	-0.0628719547395
+5	O-Phospho-L-homoserine	-0.24783595625
+5	Dimethylallyl diphosphate	0.0240088644902
+5	H+M	2.43606769912
+5	L-Isoleucine	-0.442195731469
+5	sn-Glycerol 3-phosphate	-0.174043923106
+5	NADPH	-0.429103113708
+5	Fumarate	0.528255005439
+5	dUTP	-0.829701913465
+5	DTTPxtX	-0.290749239078
+5	D-Ribulose 5-phosphate	-0.141530016821
+5	L-Glutamate 5-semialdehyde	0.0572484225128
+5	L-Tryptophan	-0.0475425410072
+5	N-Acetyl-L-glutamateM	-0.69729093496
+5	Oxidized thioredoxin	0.568613211512
+6	UREAxtX	-0.101161020174
+6	5-O-(1-Carboxyvinyl)-3-phosphoshikimate	-0.765528844696
+6	Phosphatidylserine	0.955194541022
+6	ORNxt	-1.0132775003
+6	GLUxt	0.088944297584
+6	(R)-5-Diphosphomevalonate	-0.0698600065385
+6	TRPxtX	0.702094974771
+6	(R)-2,3-dihydroxy-3-methylbutanoateM	0.547143707074
+6	Geranyl diphosphate	-0.0109403165457
+6	PYRxtX	-0.0628719547395
+6	GLNxtX	1.06850096537
+6	ATPM	1.05206131223
+6	ACALxtX	1.17593106117
+6	Glutathione	0.851856504505
+6	L-Arginine	0.81295486947
+6	beta-D-Fructose 1,6-bisphosphate	0.382956452311
+6	N-Acetyl-L-glutamate 5-semialdehydeM	0.340802590926
+6	Dolichyl phosphate	-0.877073822833
+6	SUCCxt	0.325248132797
+6	CO2M	1.26323237028
+6	Thymine	1.18213574926
+6	Acetate	-0.1235502715
+6	BMxt	0.0653439505467
+6	5-Phosphoribosylamine	0.342148200959
+6	(S)-3-Hydroxy-3-methylglutaryl-CoA	-0.221336438734
+6	D-4'-Phosphopantothenate	0.301835543201
+6	Diacylglycerol	-0.039570764603
+6	CMP	0.835256037036
+6	Acetoacetyl-CoA	-0.448665873608
+6	Pyrophosphate	0.531111738513
+6	H2O2	0.0243260681173
+6	HO-M	0.902165468171
+6	L-ThreonineM	-1.96204768103
+6	Prephenate	-0.850496937921
+6	Carnitine	0.12763706925
+6	Dihydrofolate	0.615047472875
+6	PHExtX	-0.0963133825058
+6	OxaloglutarateM	-0.0632144614955
+6	Succinate semialdehyde	-0.0862878801036
+6	Guanosine	-0.0154435584961
+6	Succinate	0.458172062819
+6	2-(Formamido)-N1-(5'-phosphoribosyl)acetamidine	0.270038467776
+6	dTTP	-0.187944869595
+6	5-Methyltetrahydrofolate	-0.00502980406788
+6	2-Amino-3-carboxymuconate semialdehyde	-0.231555792963
+6	GLUxtX	0.0689030062571
+6	But-1-ene-1,2,4-tricarboxylateM	0.064276841338
+6	CTP	1.18659663357
+6	Orotate	-0.363668845883
+6	OxygenM	-1.15661906942
+6	2-OxoadipateM	-0.0103273934454
+6	L-Asparagine	-0.0366824744827
+6	2-AcetolactateM	1.7575541796
+6	Xanthosine	0.728657748249
+6	L-Kynurenine	-0.184700441609
+6	ASPxt	-1.11403643211
+6	1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	-0.284513643867
+6	Phosphatidyl-N-methylethanolamine	0.0140429691001
+6	LEUxt	0.488416956046
+6	L-Tyrosine	-0.528150098966
+6	ADPM	0.352608160409
+6	alpha,alpha-Trehalose	0.741990215684
+6	CitrateM	0.264271258857
+6	FMN	0.148448974881
+6	VALxt	0.463841690286
+6	Carbamoyl phosphate	-0.166757485068
+6	4-Methylzymsterol	-0.240516920469
+6	NAD+M	-0.516534151181
+6	NADP+M	-1.35606631835
+6	UbiquinolM	0.433310464402
+6	FUMxtX	0.531874096867
+6	Adenosine 3',5'-bisphosphate	-0.260023609211
+6	Ergosta-5,7,24(28)-trienol	-0.302151817455
+6	L-Aspartate	-0.677839256783
+6	2-Aceto-2-hydroxy butyrateM	0.712788854429
+6	Sulfite	0.00593160237935
+6	5,10-Methylenetetrahydrofolate	0.896779504709
+6	Fecosterol	-0.017552569009
+6	10-Formyltetrahydrofolate	-0.0651473804185
+6	AcetaldehydeM	-1.51168319036
+6	Phenylpyruvate	0.402597196703
+6	Urea	0.0352298186231
+6	Acyl-[acyl-carrier protein]	-0.519771625411
+6	3-Carboxy-4-methyl-2-oxopentanoate	0.164559115918
+6	Indoleglycerol phosphate	-0.689315672652
+6	dATP	-0.187835976323
+6	3-(4-Hydroxyphenyl)pyruvate	0.244135386511
+6	Phosphatidylcholine	0.0188255093433
+6	D-Ribose 5-phosphate	-0.47361522519
+6	L-Glutamine	0.180934938877
+6	Hydrogen sulfide	0.0164814710495
+6	N-Acetyl-L-glutamate 5-phosphateM	0.385077792199
+6	FORxt	-0.651072893875
+6	NH3	0.0126823974039
+6	alpha-D-Glutamyl phosphate	0.231524441232
+6	3-Dehydroshikimate	-0.199273326323
+6	5-Phospho-alpha-D-ribose 1-diphosphate	-0.498995973618
+6	UDP	0.436830238209
+6	OrthophosphateM	1.8090430737
+6	2-Aminomuconate 6-semialdehyde	-0.245655980542
+6	GNxtX	0.675387988194
+6	Myristoyl-[acyl-carrier protein]	-0.137735428934
+6	SuccinateM	0.0119772738699
+6	N-(L-Arginino)succinate	-0.0900198493058
+6	Ergosterol	0.0672620298511
+6	Shikimate 3-phosphate	0.057496245811
+6	1-Phosphatidyl-D-myo-inositol	0.404400453225
+6	AONAxtX	-0.293849377096
+6	PNTOxt	0.135838767616
+6	GLYxtX	-0.479548104101
+6	Zymosterol	-0.160742480616
+6	O-AcetylcarnitineM	-0.376819572084
+6	L-Serine	0.380493515886
+6	Urea-1-carboxylate	-0.587586010582
+6	FADM	0.77955610359
+6	N2-Acetyl-L-ornithineM	0.0280098666902
+6	dCDP	-0.0202011607893
+6	Guanine	-0.661097581033
+6	OxaloacetateM	0.00333828809047
+6	Acyl-carrier protein	-0.569984097086
+6	4,4-Dimethylcholesta-8,14,24-trienol	0.478140985685
+6	Ferricytochrome cM	1.16021919738
+6	HISxtX	-0.137987218535
+6	dGTP	-0.510986169206
+6	VALxtX	0.405477474533
+6	AONAxt	-0.257063197863
+6	Reduced thioredoxin	-0.423128756038
+6	L-OrnithineM	-0.294222094879
+6	Acyldihydroxyacetone phosphate	0.0803049891619
+6	ACALxt	1.12728874042
+6	THRxtX	-0.237120620034
+6	3-Methyl-2-oxobutanoateM	0.999097109142
+6	GLYxt	-0.518873603451
+6	Palmitoyl-[acyl-carrier protein]	-0.137735428934
+6	L-Lysine	-0.338712706528
+6	Linolenoyl-[acyl-carrier protein]	-0.137735428934
+6	Dephospho-CoA	0.122830978873
+6	Pantetheine 4'-phosphate	0.0495720876626
+6	Stearoyl-[acyl-carrier protein]	-0.137735428934
+6	Intermediate_Zymosterol_II	-0.426980791378
+6	gamma-L-Glutamyl-L-cysteine	0.0366494432346
+6	4-Aminobutanoate	0.615086711366
+6	D-Glucose 1-phosphate	-0.286538803855
+6	ACxtX	-0.240003053612
+6	Sedoheptulose 7-phosphate	0.333435006391
+6	Malate	0.192301158627
+6	1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole	0.329997384053
+6	D-Ribose 1-phosphate	1.18382238976
+6	N1-(5-Phospho-D-ribosyl)-ATP	0.677551618984
+6	N6-(L-1,3-Dicarboxypropyl)-L-lysine	-0.816011488854
+6	Tetrahydrofolate	-0.334143108948
+6	ETHxt	0.872615003783
+6	ASPxtX	-1.16968029229
+6	Episterol	0.0317229275401
+6	OxalosuccinateM	-0.799743388432
+6	CITxtX	-0.618718417355
+6	N1-(5-Phospho-D-ribosyl)-AMP	0.541251892205
+6	(S)-Dihydroorotate	-0.838063759884
+6	GA6Pxt	-0.235279259412
+6	ILExtX	0.192839174278
+6	ATP	-0.0814225330071
+6	GlutamateM	-0.813044532359
+6	D-Ribose	-1.00911924472
+6	Phosphoenolpyruvate	-0.708830635133
+6	2-OxobutanoateM	-1.77352435903
+6	alpha,alpha'-Trehalose 6-phosphate	0.395964942794
+6	L-Cysteine	-0.293599924139
+6	Lanosterol	-0.255598809351
+6	Oxaloacetate	-0.62854685495
+6	UREAxt	0.0217238930087
+6	Deoxy-ribose 1-phosphate	1.18580147207
+6	Oxidized flavoprotein	-0.0293801787634
+6	3-Phosphoserine	-0.508411849825
+6	5'-Phosphoribosyl-N-formylglycinamide	0.406254384324
+6	CYSxtX	0.0440235767013
+6	IMP	0.449336414089
+6	3-Methyl-2-oxobutanoate	0.968715911927
+6	L-Ornithine	-1.01067618042
+6	3-Phospho-D-glycerate	-0.743937180718
+6	Glycerone phosphate	-0.348520443328
+6	Acetyl-CoAM	0.225581385784
+6	L-Citrulline	-0.522998244649
+6	3-Phospho-D-glyceroyl phosphate	0.842268715679
+6	CO2xt	-0.643072796452
+6	L-Proline	1.3587871114
+6	Thiamin monophosphate	0.362146022454
+6	L-SerineM	0.316887633622
+6	ARGxtX	0.451715990009
+6	L-Threonine	-1.23730656123
+6	L-Histidinol	0.789457533475
+6	ADP	0.342446414853
+6	Malonyl-[acyl-carrier protein]	-0.401711289798
+6	alpha-D-Glucose	0.828440827066
+6	HISxt	-0.161628837861
+6	L-Homoserine	-0.105240800716
+6	D-Glucosamine 6-phosphate	-0.142764788661
+6	Intermediate_Zymosterol_I	-0.465273485194
+6	SUCCxtX	0.319177486899
+6	3-Phosphonooxypyruvate	-0.294735353484
+6	ACxt	-0.175166160178
+6	dUDP	-0.15121262474
+6	N-Carbamoyl-L-aspartate	-0.370405634054
+6	Glycine	0.989608965279
+6	Xanthosine 5'-phosphate	0.708139282156
+6	L-2-Aminoadipate 6-semialdehyde	-0.86545934217
+6	FORxtX	-0.316522777375
+6	METxt	0.411199676723
+6	L-Formylkynurenine	-0.520915506493
+6	5'-Phosphoribosylglycinamide	0.314271273321
+6	3-Hydroxykynurenine	-0.312553285305
+6	Adenylylsulfate	0.320596625193
+6	Uridine	-0.88449639128
+6	ILExt	0.251203390031
+6	(S)-1-Pyrroline-5-carboxylate	0.0573269663237
+6	Phosphatidylethanolamine	0.419379216467
+6	(S)-2,3-Epoxysqualene	-0.139350903855
+6	4,4-Dimethylzymosterol	-0.435303465818
+6	Deoxyadenosine	-1.86306006871
+6	PNTOxtX	0.153613329707
+6	ASNxt	0.821601402829
+6	CITxt	-0.563202859982
+6	BMxtX	-0.0572187502954
+6	L-Glutamate	0.711811229766
+6	D-Erythrose 4-phosphate	-0.321609356313
+6	trans,trans-Farnesyl diphosphate	0.0682963073904
+6	(S)-1-Pyrroline-5-carboxylateM	0.384252361249
+6	Dolichyl beta-D-mannosyl phosphate	-0.663215286907
+6	ORNxtX	-1.10391838058
+6	TYRxt	0.14152819597
+6	Malonyl-CoA	-0.52195432924
+6	L-Leucine	-0.202205362662
+6	Deoxyinosine	0.199729182125
+6	2-IsopropylmalateM	0.49820710824
+6	D-Fructose 2,6-bisphosphate	0.306748054728
+6	Homocysteine	-0.0521531012722
+6	Xanthine	1.18377345735
+6	LYSxtX	0.424933758984
+6	6-Phospho-D-gluconate	0.286915999275
+6	beta-D-Fructose 6-phosphate	-0.270013890056
+6	3-(Imidazol-4-yl)-2-oxopropyl phosphate	0.509701961702
+6	Acetyl-CoA	-0.352299933364
+6	Dodecanoyl-[acyl-carrier protein]	-0.137735428934
+6	ARGxt	0.45841710194
+6	CarnitineM	0.641923906782
+6	FumarateM	1.26888508878
+6	THRxt	-0.223324742027
+6	Isopentenyl diphosphate	0.123547605765
+6	3',5'-Cyclic AMP	-1.54734082581
+6	beta-Alanine	-1.28603964799
+6	Thymidine	0.412527254704
+6	ALAxt	-0.816804687916
+6	Adenine	-2.87021751219
+6	D-Glucono-1,5-lactone 6-phosphate	1.1111700988
+6	CoAM	0.215442571899
+6	Ubiquinone-9M	1.2572509991
+6	8-Amino-7-oxononanoate	-0.200217154012
+6	L-Histidinol phosphate	0.809719239568
+6	Citrate	-0.576418990519
+6	L-Alanine	-0.537708679246
+6	CYSxt	0.110136740718
+6	dTDP	0.745715906164
+6	Decanoyl-[acp]	-0.137735428934
+6	L-2-Aminoadipate	1.01579677171
+6	NH3M	-1.23413458203
+6	TetrahydrofolateM	-0.611763501536
+6	dTMP	0.410249252297
+6	2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate	-0.179716559177
+6	NADH	1.26373677898
+6	UMP	-0.323863537435
+6	3'-Phosphoadenylylsulfate	-0.414390916351
+6	myo-Inositol	0.460068434652
+6	TYRxtX	0.0799934882346
+6	DihydrofolateM	0.645348200913
+6	CO2xtX	-0.664242864413
+6	HYXNxt	2.99285540601
+6	D-Xylose-5-phosphate	-0.14151593094
+6	D-Glyceraldehyde 3-phosphate	0.876518808811
+6	L-Phenylalanine	-0.703744294419
+6	NADP+	0.526641159365
+6	Glycerol	1.72649757455
+6	N-(5-Phospho-D-ribosyl)anthranilate	-0.201850359477
+6	AcetateM	0.697622650831
+6	Deoxyuridine	0.694494685334
+6	Uracil	0.657213867731
+6	(R)-Pantoate	-0.833366996904
+6	ASNxtX	0.790167635958
+6	GNxt	0.793302970748
+6	Shikimate	-0.15160878176
+6	2-Oxoglutarate	0.429975005118
+6	Phosphatidyl-N-dimethylethanolamine	-0.0739365320902
+6	THYxt	0.201170520894
+6	L-Cystathionine	0.145314182851
+6	2-Phospho-D-glycerate	-0.283849791093
+6	(R)-4'-Phosphopantothenoyl-L-cysteine	0.16086645233
+6	alpha-D-Glucose 6-phosphate	0.546361288646
+6	NAD+	-0.652533484608
+6	FUMxt	0.528255005439
+6	CO2	-0.648717016008
+6	5,10-Methenyltetrahydrofolate	1.10240515529
+6	L-Methionine	-0.561645479694
+6	Inosine	1.49781223931
+6	IsocitrateM	-0.351000986828
+6	CDP	0.240185026185
+6	Sphinganine 1-phosphate	0.148448974881
+6	Thiamin diphosphate	0.148448974881
+6	Acyl-sn-glycerol 3-phosphate	0.195220807473
+6	Ergosta-5,7,22,24(28)-tetraenol	-0.306086246601
+6	O-Acetylcarnitine	0.0908729127336
+6	Hexadecanoyl-[acp]	-0.137735428934
+6	Chorismate	-1.14598273965
+6	GlycineM	-1.34199830455
+6	2-Hydroxybutane-1,2,4-tricarboxylateM	0.549149549339
+6	DTTPxt	-0.306668708831
+6	dGMP	0.533862775277
+6	alpha-D-Mannose 1-phosphate	-0.31681013606
+6	Ethanol	0.919206829085
+6	Aminoimidazole ribotide	-0.624881731866
+6	Intermediate_Methylzymosterol_II	-0.436045031929
+6	Pyridoxamine phosphate	0.148448974881
+6	Oxygen	-1.28334518967
+6	L-Aspartate 4-semialdehyde	0.450135049335
+6	Phosphatidate	-0.0413195277645
+6	UTP	-1.34659206311
+6	2-Isopropylmalate	-0.144730778146
+6	GA6PxtX	-0.273967264842
+6	HYXN	3.03667826723
+6	SERxtX	0.603568207318
+6	1L-myo-Inositol 1-phosphate	-0.413792268026
+6	5-(5-Phospho-D-ribosylaminoformimino)-1-(5-phosphoribosyl)-imidazole-4-carboxamide	0.574910290725
+6	CoA	0.484858586659
+6	PyruvateM	1.6620202929
+6	4-Phospho-L-aspartate	0.259879281992
+6	5,10-MethylenetetrahydrofolateM	0.977952816354
+6	Pyridoxamine	-0.223992636379
+6	Oleoyl-[acyl-carrier protein]	-0.137735428934
+6	1-(5-Phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate	-0.566635736039
+6	GLNxt	1.15768008035
+6	L-ProlineM	0.757427405414
+6	HomoisocitrateM	0.652606565837
+6	Oxalosuccinate	0.998801485803
+6	ALAxtX	-0.867670559228
+6	dCTP	0.238593380415
+6	PAPxt	-0.308786590921
+6	GLxt	1.73632821058
+6	Acetaldehyde	1.303806511
+6	1-(5'-Phosphoribosyl)-5-formamido-4-imidazolecarboxamide	-0.0298599595766
+6	3-Dehydroquinate	-0.224764943417
+6	2-Dehydropantoate	0.414775630917
+6	LYSxt	0.434811629571
+6	6-Carboxyhexanoyl-CoA	-0.48678081028
+6	Riboflavin	-0.223992636379
+6	Adenosine	-1.77712824384
+6	ETHxtX	0.869931352662
+6	dGDP	-0.381924865927
+6	Biomass	0.066564013387
+6	LEUxtX	0.426290018705
+6	O-Acetyl-L-serine	0.0421994703431
+6	L-Glutamate 5-semialdehydeM	0.41718229107
+6	PAPxtX	-0.314550140449
+6	dAMP	0.361591605499
+6	Thiamin	0.35318851428
+6	THYxtX	0.138796099326
+6	MalateM	-0.376117001837
+6	(R)-5-Phosphomevalonate	0.00498987121196
+6	SERxt	0.607316672622
+6	NADHM	0.780595703956
+6	Orotidine 5'-phosphate	-0.378011923002
+6	N6-(1,2-Dicarboxyethyl)-AMP	-0.17920000223
+6	Cytidine	0.338179105322
+6	Oxidized glutathione	0.148747536829
+6	AMP	0.264498614069
+6	XANxtX	1.02039790549
+6	Intermediate_Methylzymosterol_I	-0.484335339497
+6	(R)-3-Hydroxy-3-methyl-2-oxobutanoateM	0.557403462746
+6	CDPdiacylglycerol	0.626644187574
+6	PHExt	-0.0303864642463
+6	XANxt	1.13995059613
+6	FADH2M	-0.133615125791
+6	beta-D-Glucose 6-phosphate	0.40977314497
+6	Deoxyguanosine	0.0367919208833
+6	1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide	-0.172426827172
+6	(R)-2-OxoisovalerateM	1.02617267765
+6	HYXNxtX	2.86472250754
+6	2-OxoglutarateM	-0.248583170325
+6	EthanolM	0.872615003783
+6	S-Adenosyl-L-homocysteine	-0.642174842063
+6	3-Hydroxyanthranilate	-0.326450150289
+6	METxtX	0.363666426393
+6	L-Histidine	-1.22329080402
+6	Isocitrate	0.815995642725
+6	H+EXT	0.368790489462
+6	Formate	-0.311090019609
+6	2-Aminomuconate	-0.162285696786
+6	S-Adenosyl-L-methionine	0.263965930392
+6	(R)-Pantothenate	0.231058623977
+6	"N-(5'-Phospho-D-1'-ribulosylformimino)-5-amino-1-(5""-phospho-D-ribosyl)-4-imidazolecarboxamide"	-0.431677379805
+6	GMP	0.916276328117
+6	Cytosine	0.176773464518
+6	dADP	0.0832102522175
+6	Mannan	-0.877073822833
+6	GDP	0.561652724646
+6	GDPmannose	-0.793172115671
+6	dUMP	0.355437298086
+6	NADPHM	1.19117628262
+6	PROxtX	-0.120574511125
+6	PROxt	-0.170106030586
+6	Squalene	-0.156096561138
+6	(R)-Mevalonate	-0.183531003192
+6	Ferrocytochrome cM	0.333402610148
+6	D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate	-0.573843234331
+6	Orthophosphate	2.05739713243
+6	2-Oxoadipate	-0.116724427476
+6	(R)-2-Oxoisovalerate	1.38034100935
+6	TRPxt	0.342241739993
+6	GLxtX	1.70933838852
+6	D-Mannose 6-phosphate	-0.381257284891
+6	Glyoxylate	1.00220569312
+6	Triacylglycerol	-0.113090990344
+6	L-Valine	-0.209564147491
+6	Anthranilate	-0.156779004749
+6	Pyruvate	0.899370024447
+6	O-Acetyl-L-homoserine	0.265780712673
+6	Sphinganine	-0.223992636379
+6	PYRxt	0.113645815844
+6	O-Phospho-L-homoserine	-0.139902446222
+6	Dimethylallyl diphosphate	-0.0107088650157
+6	H+M	2.486765552
+6	L-Isoleucine	-0.422202447747
+6	sn-Glycerol 3-phosphate	-0.154425004185
+6	NADPH	-0.323790695442
+6	Fumarate	0.598728482404
+6	dUTP	-0.795430434084
+6	DTTPxtX	-0.275487976919
+6	D-Ribulose 5-phosphate	-0.0237575598917
+6	L-Glutamate 5-semialdehyde	0.0970087897235
+6	L-Tryptophan	-0.0437940757026
+6	N-Acetyl-L-glutamateM	-0.680751540593
+6	Oxidized thioredoxin	0.601897226651
+7	UREAxtX	0.0217238930087
+7	5-O-(1-Carboxyvinyl)-3-phosphoshikimate	-0.67628605728
+7	Phosphatidylserine	1.05828506394
+7	ORNxt	-1.01067618042
+7	GLUxt	0.119911658766
+7	(R)-5-Diphosphomevalonate	-0.0610611985848
+7	TRPxtX	0.342241739993
+7	(R)-2,3-dihydroxy-3-methylbutanoateM	0.498000799754
+7	Geranyl diphosphate	0.12308774812
+7	PYRxtX	0.113645815844
+7	GLNxtX	1.15768008035
+7	ATPM	1.08935994913
+7	ACALxtX	1.12728874042
+7	Glutathione	0.709695504505
+7	L-Arginine	0.93562800573
+7	beta-D-Fructose 1,6-bisphosphate	0.391755260265
+7	N-Acetyl-L-glutamate 5-semialdehydeM	0.350506292473
+7	Dolichyl phosphate	-0.663215286907
+7	SUCCxt	0.458172062819
+7	CO2M	1.46673560973
+7	Thymine	0.99663638101
+7	Acetate	-0.2014951515
+7	BMxt	0.066564013387
+7	5-Phosphoribosylamine	0.362417021483
+7	(S)-3-Hydroxy-3-methylglutaryl-CoA	-0.123063020567
+7	D-4'-Phosphopantothenate	0.310634351155
+7	Diacylglycerol	-0.0400011478403
+7	CMP	0.566015298465
+7	Acetoacetyl-CoA	-0.350392455441
+7	Pyrophosphate	0.221617612013
+7	H2O2	0.0636317090875
+7	HO-M	0.849834302898
+7	L-ThreonineM	-1.97901553823
+7	Prephenate	-0.840478429923
+7	Carnitine	0.123663136701
+7	Dihydrofolate	0.603247823247
+7	PHExtX	-0.0303864642463
+7	OxaloglutarateM	-0.0367513633778
+7	Succinate semialdehyde	-0.0999932076036
+7	Guanosine	0.0954460878184
+7	Succinate	0.266806797519
+7	2-(Formamido)-N1-(5'-phosphoribosyl)acetamidine	0.256960904716
+7	dTTP	-0.179146061641
+7	5-Methyltetrahydrofolate	0.0133783170008
+7	2-Amino-3-carboxymuconate semialdehyde	-0.278917532061
+7	GLUxtX	0.088944297584
+7	But-1-ene-1,2,4-tricarboxylateM	0.0878490223581
+7	CTP	0.903633257074
+7	L-Aspartate	-0.646871895601
+7	OxygenM	-1.28334518967
+7	2-OxoadipateM	-0.0632144614955
+7	L-Asparagine	-0.0497600375422
+7	2-AcetolactateM	1.85578172453
+7	Xanthosine	0.738920698916
+7	L-Kynurenine	-0.520915506493
+7	ASPxt	-1.09399514078
+7	1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	-0.201219342039
+7	Phosphatidyl-N-methylethanolamine	0.142699896599
+7	LEUxt	0.491193758838
+7	L-Tyrosine	-0.497182737784
+7	alpha,alpha-Trehalose	0.699016098007
+7	CitrateM	0.253947248946
+7	FMN	0.157247782834
+7	VALxt	0.483834974009
+7	Carbamoyl phosphate	-0.179456979068
+7	4-Methylzymsterol	-0.291454389378
+7	NAD+M	-0.44179350141
+7	NADP+M	-1.23206069525
+7	UbiquinolM	0.381790626069
+7	FUMxtX	0.528255005439
+7	Adenosine 3',5'-bisphosphate	-0.274009657673
+7	Ergosta-5,7,24(28)-trienol	-0.195167773502
+7	Orotate	-0.326502716047
+7	2-Aceto-2-hydroxy butyrateM	0.811016399355
+7	Sulfite	0.145888754388
+7	5,10-Methylenetetrahydrofolate	0.869946052272
+7	Fecosterol	0.0446918447792
+7	10-Formyltetrahydrofolate	-0.0641928933801
+7	AcetaldehydeM	-1.49766805339
+7	Phenylpyruvate	0.541988549079
+7	Urea	0.00988315315232
+7	Acyl-[acyl-carrier protein]	-0.467340798064
+7	3-Carboxy-4-methyl-2-oxopentanoate	0.158486217676
+7	Indoleglycerol phosphate	-0.770116296867
+7	dATP	-0.196720425292
+7	3-(4-Hydroxyphenyl)pyruvate	0.168375608403
+7	Phosphatidylcholine	0.147482436842
+7	D-Ribose 5-phosphate	-0.601342947315
+7	L-Glutamine	0.04742392321
+7	Hydrogen sulfide	0.131059324081
+7	N-Acetyl-L-glutamate 5-phosphateM	0.479918249595
+7	FORxt	-0.311090019609
+7	NH3	-0.232036829346
+7	alpha-D-Glutamyl phosphate	0.288297936732
+7	3-Dehydroshikimate	-0.224764943417
+7	5-Phospho-alpha-D-ribose 1-diphosphate	-0.614241074046
+7	UDP	0.427353492642
+7	OrthophosphateM	2.3281717307
+7	2-Aminomuconate 6-semialdehyde	-0.231555792963
+7	GNxtX	0.793302970748
+7	SuccinateM	-0.0519830392412
+7	N-(L-Arginino)succinate	-0.0348659176776
+7	Ergosterol	0.147607989092
+7	Shikimate 3-phosphate	0.0486117968422
+7	1-Phosphatidyl-D-myo-inositol	0.513452164047
+7	AONAxtX	-0.257063197863
+7	PNTOxt	0.231058623977
+7	GLYxtX	-0.518873603451
+7	L-2-Aminoadipate	1.04676413289
+7	O-AcetylcarnitineM	-0.380793504632
+7	L-Serine	0.394930059652
+7	Urea-1-carboxylate	-0.600285504582
+7	FADM	0.905174735093
+7	N2-Acetyl-L-ornithineM	0.0829610291347
+7	dCDP	-0.0115805472893
+7	Guanine	-0.846596949283
+7	OxaloacetateM	0.0276989417375
+7	Acyl-carrier protein	-0.59845110877
+7	4,4-Dimethylcholesta-8,14,24-trienol	0.487291205546
+7	Ferricytochrome cM	1.20684249351
+7	HISxtX	-0.161628837861
+7	dGTP	-0.396989878521
+7	VALxtX	0.463841690286
+7	AONAxt	-0.200217154012
+7	Reduced thioredoxin	-0.453830473565
+7	L-OrnithineM	-0.237524544103
+7	Acyldihydroxyacetone phosphate	0.106006872898
+7	ACALxt	1.303806511
+7	THRxtX	-0.223324742027
+7	3-Methyl-2-oxobutanoateM	1.04285033107
+7	GLYxt	-0.521989599721
+7	Palmitoyl-[acyl-carrier protein]	-0.0924208291244
+7	L-Lysine	-0.370357931453
+7	Linolenoyl-[acyl-carrier protein]	-0.0924208291244
+7	Dephospho-CoA	0.131629786826
+7	Pantetheine 4'-phosphate	0.161763987529
+7	Stearoyl-[acyl-carrier protein]	-0.0924208291244
+7	Intermediate_Zymosterol_II	-0.463501822132
+7	gamma-L-Glutamyl-L-cysteine	0.0934229387346
+7	4-Aminobutanoate	0.646054072548
+7	D-Glucose 1-phosphate	-0.533871294855
+7	ACxtX	-0.175166160178
+7	Sedoheptulose 7-phosphate	0.415619530457
+7	Malate	0.117546217502
+7	1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole	0.218880808653
+7	D-Ribose 1-phosphate	0.998323021511
+7	N1-(5-Phospho-D-ribosyl)-ATP	0.686350426937
+7	N6-(L-1,3-Dicarboxypropyl)-L-lysine	-0.778162491854
+7	Tetrahydrofolate	-0.365266916115
+7	ETHxt	0.919206829085
+7	ASPxtX	-1.11403643211
+7	Episterol	-0.0173293363649
+7	OxalosuccinateM	-0.786564750532
+7	CITxtX	-0.563202859982
+7	N1-(5-Phospho-D-ribosyl)-AMP	0.677551618984
+7	(S)-Dihydroorotate	-0.80273762894
+7	GA6Pxt	-0.142764788661
+7	ILExtX	0.251203390031
+7	ATP	-0.328755024007
+7	GlutamateM	-0.677714726609
+7	D-Ribose	-0.836749427265
+7	Phosphoenolpyruvate	-0.8014277813
+7	2-OxobutanoateM	-1.75972848103
+7	alpha,alpha'-Trehalose 6-phosphate	0.532264669572
+7	L-Cysteine	-0.257722926074
+7	Lanosterol	-0.137826352422
+7	Oxaloacetate	-0.64124634895
+7	UREAxt	0.0352298186231
+7	Deoxy-ribose 1-phosphate	1.00030210382
+7	Oxidized flavoprotein	-0.0202299589018
+7	3-Phosphoserine	-0.477444488643
+7	5'-Phosphoribosyl-N-formylglycinamide	0.455823128789
+7	CYSxtX	0.110136740718
+7	IMP	0.309997080861
+7	3-Methyl-2-oxobutanoate	0.999097109142
+7	L-Ornithine	-0.986758648347
+7	3-Phospho-D-glycerate	-1.05805137572
+7	Glycerone phosphate	-0.30917712529
+7	Acetyl-CoAM	0.372212126614
+7	L-Citrulline	-0.496613340149
+7	3-Phospho-D-glyceroyl phosphate	0.656769347429
+7	CO2xt	-0.648717016008
+7	L-Proline	1.42354773955
+7	Thiamin monophosphate	0.0929052838826
+7	L-SerineM	0.380886144789
+7	ARGxtX	0.45841710194
+7	L-Threonine	-1.12937305121
+7	L-Histidinol	0.809498824802
+7	Myristoyl-[acyl-carrier protein]	-0.0924208291244
+7	Malonyl-[acyl-carrier protein]	-0.393228114848
+7	alpha-D-Glucose	0.839676239085
+7	HISxt	-0.15655060802
+7	L-Homoserine	-0.163796191262
+7	D-Glucosamine 6-phosphate	-0.154468980774
+7	Intermediate_Zymosterol_I	-0.446177509369
+7	SUCCxtX	0.325248132797
+7	3-Phosphonooxypyruvate	-0.316124872944
+7	ACxt	-0.1235502715
+7	dUDP	-0.00814531379759
+7	N-Carbamoyl-L-aspartate	-0.437900552492
+7	Glycine	0.961025875892
+7	Xanthosine 5'-phosphate	0.540616953717
+7	L-2-Aminoadipate 6-semialdehyde	-0.92987027177
+7	FORxtX	-0.651072893875
+7	METxt	0.376645629306
+7	L-Formylkynurenine	-0.503054942745
+7	5'-Phosphoribosylglycinamide	0.333829901956
+7	3-Hydroxykynurenine	-0.196011391401
+7	Adenylylsulfate	0.329395433146
+7	Uridine	-0.757460178071
+7	ILExt	0.271196673753
+7	(S)-1-Pyrroline-5-carboxylate	0.0970873335345
+7	Phosphatidylethanolamine	0.466318545025
+7	(S)-2,3-Epoxysqualene	-0.151814945248
+7	4,4-Dimethylzymosterol	-0.329991047552
+7	Deoxyadenosine	-1.8542389811
+7	PNTOxtX	0.135838767616
+7	ASNxt	0.960331487517
+7	CITxt	-0.576418990519
+7	BMxtX	0.0653439505467
+7	D-Erythrose 4-phosphate	-0.243044626949
+7	trans,trans-Farnesyl diphosphate	0.202324372056
+7	(S)-1-Pyrroline-5-carboxylateM	0.397809473693
+7	Dolichyl beta-D-mannosyl phosphate	-0.793172115671
+7	ORNxtX	-1.0132775003
+7	TYRxt	0.165249022534
+7	Malonyl-CoA	-1.08867254024
+7	L-Leucine	-0.0761750949625
+7	Deoxyinosine	0.345923174546
+7	2-IsopropylmalateM	0.475273545076
+7	D-Fructose 2,6-bisphosphate	0.315546862682
+7	Homocysteine	-0.0110565912333
+7	Xanthine	0.998274089101
+7	LYSxtX	0.434811629571
+7	6-Phospho-D-gluconate	0.394472458932
+7	beta-D-Fructose 6-phosphate	-0.208824507599
+7	3-(Imidazol-4-yl)-2-oxopropyl phosphate	0.596074342565
+7	Acetyl-CoA	-0.626047856935
+7	Dodecanoyl-[acyl-carrier protein]	-0.0924208291244
+7	ARGxt	0.43307043647
+7	CarnitineM	0.661086538411
+7	FumarateM	1.30676174257
+7	THRxt	-0.240292599235
+7	Isopentenyl diphosphate	0.132346413718
+7	3',5'-Cyclic AMP	-1.53854201786
+7	beta-Alanine	-1.26599835666
+7	Thymidine	0.457242085032
+7	ALAxt	-0.795000980746
+7	Adenine	-2.80392877439
+7	D-Glucono-1,5-lactone 6-phosphate	1.09774728499
+7	CoAM	0.280501676973
+7	Ubiquinone-9M	1.41193082093
+7	8-Amino-7-oxononanoate	-0.177743563263
+7	L-Histidinol phosphate	0.84068660075
+7	Citrate	-0.567935815569
+7	L-Alanine	-0.480935183746
+7	CYSxt	0.0961843568614
+7	dTDP	0.754514714118
+7	Decanoyl-[acp]	-0.0924208291244
+7	Zymosterol	-0.214105543282
+7	NH3M	-1.22033870403
+7	TetrahydrofolateM	-0.5993494715
+7	dTMP	0.408211654595
+7	2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate	-0.115641487401
+7	NADH	1.35256889448
+7	UMP	-0.313964878487
+7	3'-Phosphoadenylylsulfate	-0.405592108397
+7	myo-Inositol	0.411229480044
+7	TYRxtX	0.14152819597
+7	DihydrofolateM	0.615392107765
+7	CO2xtX	-0.643072796452
+7	HYXNxt	3.03667826723
+7	D-Xylose-5-phosphate	-0.0237434740109
+7	D-Glyceraldehyde 3-phosphate	0.918384966657
+7	L-Phenylalanine	-0.672776933238
+7	NADP+	0.326374635865
+7	Glycerol	1.74611649347
+7	N-(5-Phospho-D-ribosyl)anthranilate	-0.0788154790183
+7	AcetateM	0.727738526377
+7	Deoxyuridine	0.702830398132
+7	Uracil	0.82570847052
+7	(R)-Pantoate	-0.751898203801
+7	ASNxtX	0.821601402829
+7	GNxt	0.837125831967
+7	Shikimate	-0.0462963634946
+7	2-Oxoglutarate	0.640025451284
+7	Phosphatidyl-N-dimethylethanolamine	0.0547203954083
+7	THYxt	0.281853114019
+7	L-Cystathionine	0.23395151376
+7	2-Phospho-D-glycerate	-0.264841216744
+7	(R)-4'-Phosphopantothenoyl-L-cysteine	0.207903394668
+7	alpha-D-Glucose 6-phosphate	0.555160096599
+7	NAD+	-0.118611116942
+7	FUMxt	0.598728482404
+7	5,10-Methenyltetrahydrofolate	1.07847147767
+7	L-Methionine	-0.460834402922
+7	Inosine	1.6066797181
+7	IsocitrateM	-0.338125400535
+7	CDP	-0.0290557123863
+7	Sphinganine 1-phosphate	0.157247782834
+7	Thiamin diphosphate	0.157247782834
+7	Acyl-sn-glycerol 3-phosphate	0.261105447044
+7	Ergosta-5,7,22,24(28)-tetraenol	-0.200773828335
+7	O-Acetylcarnitine	0.124417085253
+7	Hexadecanoyl-[acp]	-0.0924208291244
+7	Chorismate	-1.13360962366
+7	GlycineM	-1.30673339276
+7	2-Hydroxybutane-1,2,4-tricarboxylateM	0.577653294644
+7	DTTPxt	-0.187944869595
+7	dGMP	0.219748580277
+7	alpha-D-Mannose 1-phosphate	-0.381257284891
+7	Ethanol	0.922739884585
+7	Aminoimidazole ribotide	-0.616082923912
+7	Intermediate_Methylzymosterol_II	-0.484040070722
+7	Pyridoxamine phosphate	0.157247782834
+7	Oxygen	-1.33170024402
+7	L-Aspartate 4-semialdehyde	0.557262988193
+7	Phosphatidate	-0.0151608096447
+7	UTP	-1.33779325516
+7	2-Isopropylmalate	-0.13751591076
+7	GA6PxtX	-0.235279259412
+7	HYXN	2.85117889898
+7	SERxtX	0.607316672622
+7	1L-myo-Inositol 1-phosphate	-0.277492541247
+7	5-(5-Phospho-D-ribosylaminoformimino)-1-(5-phosphoribosyl)-imidazole-4-carboxamide	0.541251892205
+7	CoA	0.245915538909
+7	PyruvateM	1.71650090885
+7	4-Phospho-L-aspartate	0.26977794094
+7	5,10-MethylenetetrahydrofolateM	1.00656778315
+7	Pyridoxamine	-0.0899645717138
+7	Oleoyl-[acyl-carrier protein]	-0.0924208291244
+7	1-(5-Phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate	-0.572279955594
+7	GLNxt	1.17794890088
+7	L-ProlineM	0.774721982402
+7	HomoisocitrateM	0.515023492722
+7	Oxalosuccinate	0.929550301886
+7	ALAxtX	-0.816804687916
+7	dCTP	0.295263378501
+7	PAPxt	-0.260023609211
+7	GLxt	1.72649757455
+7	Acetaldehyde	1.3126275986
+7	1-(5'-Phosphoribosyl)-5-formamido-4-imidazolecarboxamide	0.0208626099199
+7	3-Dehydroquinate	-0.179716559177
+7	2-Dehydropantoate	0.406051840204
+7	LYSxt	0.424678677472
+7	6-Carboxyhexanoyl-CoA	-0.522495010518
+7	Riboflavin	-0.0899645717138
+7	Adenosine	-1.71083950603
+7	ETHxtX	0.872615003783
+7	dGDP	-0.327441090457
+7	Biomass	0.155396128887
+7	LEUxtX	0.488416956046
+7	O-Acetyl-L-serine	0.14047288851
+7	L-Glutamate 5-semialdehydeM	0.389413697301
+7	PAPxtX	-0.308786590921
+7	dAMP	0.0923508669276
+7	Thiamin	0.362009601884
+7	THYxtX	0.201170520894
+7	MalateM	-0.404149607186
+7	(R)-5-Phosphomevalonate	-0.0295541008952
+7	SERxt	0.670922554886
+7	NADHM	0.894374593448
+7	Orotidine 5'-phosphate	-0.24890726216
+7	N6-(1,2-Dicarboxyethyl)-AMP	-0.187671568725
+7	Cytidine	0.347000192925
+7	Oxidized glutathione	0.230896660272
+7	AMP	-0.0449955124314
+7	XANxtX	1.13995059613
+7	Intermediate_Methylzymosterol_I	-0.466870702628
+7	(R)-3-Hydroxy-3-methyl-2-oxobutanoateM	0.508567698596
+7	CDPdiacylglycerol	0.673681129911
+7	PHExt	-0.0103451729194
+7	XANxt	1.18377345735
+7	FADH2M	-0.196631703429
+7	beta-D-Glucose 6-phosphate	0.546072871748
+7	Deoxyguanosine	0.0479903817734
+7	1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide	-0.152158006647
+7	(R)-2-OxoisovalerateM	1.05311008675
+7	HYXNxtX	2.99285540601
+7	2-OxoglutarateM	-0.179515418678
+7	EthanolM	0.919206829085
+7	S-Adenosyl-L-homocysteine	-0.579069390641
+7	3-Hydroxyanthranilate	-0.312553285305
+7	METxtX	0.411199676723
+7	L-Histidine	-1.2282929414
+7	Isocitrate	0.780286710982
+7	H+EXT	0.235279473795
+7	Formate	-0.647305084493
+7	2-Aminomuconate	-0.167287834165
+7	S-Adenosyl-L-methionine	0.272764738346
+7	(R)-Pantothenate	0.231885846077
+7	"N-(5'-Phospho-D-1'-ribulosylformimino)-5-amino-1-(5""-phospho-D-ribosyl)-4-imidazolecarboxamide"	-0.416396478275
+7	GMP	0.903198765058
+7	Cytosine	0.185594552122
+7	dADP	-0.186030486354
+7	Mannan	-0.663215286907
+7	GDP	0.540648136715
+7	GDPmannose	-0.619300679394
+7	dUMP	0.36423610604
+7	NADPHM	1.21598887936
+7	PROxtX	-0.170106030586
+7	PROxt	-0.152811453598
+7	Squalene	-0.050784142872
+7	(R)-Mevalonate	-0.0691570888827
+7	Ferrocytochrome cM	0.565422342898
+7	D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate	-0.553574413806
+7	2-Oxoadipate	-0.0685356216938
+7	(R)-2-Oxoisovalerate	1.46069442165
+7	TRPxt	0.345990205297
+7	GLxtX	1.73632821058
+7	D-Mannose 6-phosphate	-0.270013890056
+7	Glyoxylate	0.986681344159
+7	Triacylglycerol	-0.0892658589216
+7	L-Valine	-0.178596786309
+7	Anthranilate	-0.118913125281
+7	Pyruvate	0.630129285876
+7	O-Acetyl-L-homoserine	0.330099374085
+7	Sphinganine	-0.0899645717138
+7	PYRxt	0.122466903447
+7	O-Phospho-L-homoserine	-0.204170664815
+7	Dimethylallyl diphosphate	0.12331919965
+7	H+M	2.2864990285
+7	L-Isoleucine	-0.391235086565
+7	sn-Glycerol 3-phosphate	-0.150597527394
+7	NADPH	-0.399337441533
+7	Fumarate	0.516903219785
+7	dUTP	-0.652259544652
+7	DTTPxtX	-0.306668708831
+7	D-Ribulose 5-phosphate	-0.0362216012846
+7	L-Glutamate 5-semialdehyde	0.227636372924
+7	L-Tryptophan	0.0238634280086
+7	N-Acetyl-L-glutamateM	-0.624053989817
+7	Oxidized thioredoxin	0.287783031651
+8	UREAxtX	0.0352298186231
+8	5-O-(1-Carboxyvinyl)-3-phosphoshikimate	-0.768883203446
+8	Phosphatidylserine	1.07855388447
+8	ORNxt	-0.986758648347
+8	(R)-4'-Phosphopantothenoyl-L-cysteine	-0.0750599818324
+8	(R)-5-Diphosphomevalonate	-0.308393689585
+8	TRPxtX	0.345990205297
+8	(R)-2,3-dihydroxy-3-methylbutanoateM	0.692140626372
+8	Geranyl diphosphate	0.131886556073
+8	PYRxtX	0.122466903447
+8	GLNxtX	1.17794890088
+8	ACALxtX	1.303806511
+8	Glutathione	0.798527620005
+8	L-Arginine	0.990781937359
+8	beta-D-Fructose 1,6-bisphosphate	0.144422769265
+8	N-Acetyl-L-glutamate 5-semialdehydeM	0.439075937875
+8	Dolichyl phosphate	-0.793172115671
+8	SUCCxt	0.266806797519
+8	CO2M	1.36959169998
+8	BMxt	0.155396128887
+8	5-Phosphoribosylamine	0.228906005817
+8	(S)-3-Hydroxy-3-methylglutaryl-CoA	-0.396810944139
+8	D-4'-Phosphopantothenate	0.0633018601549
+8	Diacylglycerol	-0.0138424297206
+8	Acetoacetyl-CoA	-0.624140379013
+8	Pyrophosphate	0.740746269013
+8	H2O2	0.0993336499345
+8	HO-M	1.3689629599
+8	L-ThreonineM	-1.85563398299
+8	Prephenate	-0.828105313938
+8	Carnitine	0.125453444308
+8	Dihydrofolate	0.537450352104
+8	PHExtX	-0.0103451729194
+8	OxaloglutarateM	0.0404002750953
+8	Succinate semialdehyde	0.110057238563
+8	Guanosine	0.0823685247589
+8	Succinate	0.785935454519
+8	2-(Formamido)-N1-(5'-phosphoribosyl)acetamidine	0.0566943812164
+8	dTTP	-0.426478552641
+8	2-Amino-3-carboxymuconate semialdehyde	-0.26580874391
+8	GLUxtX	0.119911658766
+8	But-1-ene-1,2,4-tricarboxylateM	0.116352767663
+8	OxygenM	-1.33170024402
+8	2-OxoadipateM	-0.0367513633778
+8	L-Asparagine	-0.250026561042
+8	2-AcetolactateM	1.91026234048
+8	Xanthosine	0.571398370476
+8	ASPxt	-1.0630277796
+8	1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	-0.0781844615802
+8	Phosphatidyl-N-methylethanolamine	0.151498704552
+8	LEUxt	0.617224026538
+8	alpha,alpha-Trehalose	0.835315824785
+8	CitrateM	0.276116504161
+8	FMN	-0.0900847081656
+8	VALxt	0.514802335191
+8	4-Methylzymsterol	0.242467978289
+8	NAD+M	-0.48043338016
+8	NADP+M	-1.26297259825
+8	FUMxtX	0.598728482404
+8	Adenosine 3',5'-bisphosphate	-0.512952705423
+8	Ergosta-5,7,24(28)-trienol	-0.278269194202
+8	Orotate	-0.2908007752
+8	L-Kynurenine	-0.502860806182
+8	Sulfite	0.0137094840038
+8	5,10-Methylenetetrahydrofolate	1.41126527527
+8	Fecosterol	-0.149827700887
+8	10-Formyltetrahydrofolate	-0.31152538438
+8	AcetaldehydeM	-1.44116401293
+8	Phenylpyruvate	0.552007057077
+8	Urea	0.132556289413
+8	Acyl-[acyl-carrier protein]	-0.786713375564
+8	3-Carboxy-4-methyl-2-oxopentanoate	0.677614874676
+8	Indoleglycerol phosphate	-0.682445864617
+8	dATP	-0.444052916292
+8	3-(4-Hydroxyphenyl)pyruvate	0.687504265403
+8	Phosphatidylcholine	0.156281244796
+8	D-Ribose 5-phosphate	-0.0822142903147
+8	Hydrogen sulfide	0.0479579033813
+8	N-Acetyl-L-glutamate 5-phosphateM	0.52654154572
+8	FORxt	-0.647305084493
+8	3-Dehydroshikimate	-0.179403723175
+8	L-Glutamate 5-semialdehydeM	0.402970809746
+8	UDP	0.180021001642
+8	2-Aminomuconate 6-semialdehyde	-0.279432333572
+8	GNxtX	0.837125831967
+8	SuccinateM	0.467145617759
+8	N-(L-Arginino)succinate	-0.282198408678
+8	Ergosterol	0.0288916738068
+8	Shikimate 3-phosphate	-0.198720694158
+8	1-Phosphatidyl-D-myo-inositol	0.561726920657
+8	DTTPxt	-0.179146061641
+8	PNTOxt	0.231885846077
+8	GA6Pxt	-0.154468980774
+8	Zymosterol	0.319816824384
+8	O-AcetylcarnitineM	-0.379003197025
+8	L-Serine	0.425897420834
+8	FADM	0.772981731593
+8	N2-Acetyl-L-ornithineM	0.218290834885
+8	dCDP	-0.388517581289
+8	OxaloacetateM	-0.126860573262
+8	Acyl-carrier protein	-0.86552200077
+8	4,4-Dimethylcholesta-8,14,24-trienol	0.605063662475
+8	HISxtX	-0.15655060802
+8	dGTP	-0.427691596047
+8	VALxtX	0.483834974009
+8	AONAxt	-0.177743563263
+8	Reduced thioredoxin	-0.695086340065
+8	Acyldihydroxyacetone phosphate	0.0429170764982
+8	ACALxt	1.3126275986
+8	THRxtX	-0.240292599235
+8	3-Methyl-2-oxobutanoateM	0.993707423754
+8	GLYxt	-0.550572689108
+8	Palmitoyl-[acyl-carrier protein]	-0.213048762374
+8	L-Lysine	0.163564436213
+8	Linolenoyl-[acyl-carrier protein]	-0.213048762374
+8	Dephospho-CoA	-0.115702704174
+8	Pantetheine 4'-phosphate	0.208800929866
+8	Stearoyl-[acyl-carrier protein]	-0.213048762374
+8	Intermediate_Zymosterol_II	-0.444405846308
+8	ACxtX	-0.1235502715
+8	Sedoheptulose 7-phosphate	0.287891808332
+8	Malate	-0.0121402083311
+8	5-Methyltetrahydrofolate	-0.233954173999
+8	N1-(5-Phospho-D-ribosyl)-ATP	0.439017935937
+8	Tetrahydrofolate	-0.573119929448
+8	ETHxt	0.922739884585
+8	ASPxtX	-1.09399514078
+8	Episterol	0.0449150774234
+8	OxalosuccinateM	-0.701184144027
+8	CITxtX	-0.576418990519
+8	N1-(5-Phospho-D-ribosyl)-AMP	0.686868003876
+8	(S)-Dihydroorotate	-0.870232547378
+8	GLYxtX	-0.521989599721
+8	ILExtX	0.271196673753
+8	L-OrnithineM	-0.102194738353
+8	D-Ribose	-0.770460689459
+8	2-OxobutanoateM	-1.77669633823
+8	alpha,alpha'-Trehalose 6-phosphate	0.541063477526
+8	L-Cysteine	-0.128716735778
+8	Lanosterol	-0.150290393815
+8	Oxidized flavoprotein	0.0975424980275
+8	5'-Phosphoribosyl-N-formylglycinamide	0.456777615828
+8	CYSxtX	0.0961843568614
+8	IMP	0.829125737861
+8	3-Methyl-2-oxobutanoate	1.04285033107
+8	L-Ornithine	-0.89607547193
+8	3-Hydroxykynurenine	-0.271558137492
+8	Glycerone phosphate	-0.305349648499
+8	Acetyl-CoAM	0.367909053705
+8	L-Citrulline	-0.187253696482
+8	L-Proline	1.45817812733
+8	L-SerineM	0.395322688555
+8	ARGxtX	0.43307043647
+8	L-Threonine	-1.1936412698
+8	L-Histidinol	0.840466185984
+8	2-Aminomuconate	0.366634533502
+8	Malonyl-[acyl-carrier protein]	-0.959946325848
+8	alpha-D-Glucose	0.796702121407
+8	HISxt	-0.161552745398
+8	L-Homoserine	-0.0749640757617
+8	D-Glucosamine 6-phosphate	-0.287979996441
+8	Intermediate_Zymosterol_I	-0.497114978278
+8	SUCCxtX	0.458172062819
+8	3-Phosphonooxypyruvate	0.203003784056
+8	2-OxoglutarateM	-0.179515418678
+8	dUDP	-0.140324584182
+8	N-Carbamoyl-L-aspartate	0.103418670508
+8	Glycine	1.49494824356
+8	Xanthosine 5'-phosphate	1.05974561072
+8	L-2-Aminoadipate 6-semialdehyde	-0.84103815627
+8	FORxtX	-0.311090019609
+8	METxt	0.477456706078
+8	L-Formylkynurenine	-0.442518682628
+8	5'-Phosphoribosylglycinamide	0.0864974109559
+8	Adenylylsulfate	0.0820629421464
+8	Uridine	-0.747561519123
+8	ILExt	0.302164034935
+8	(S)-1-Pyrroline-5-carboxylate	0.227714916734
+8	Phosphatidylethanolamine	0.569409067948
+8	GMP	0.702932241558
+8	4,4-Dimethylzymosterol	-0.405537793643
+8	Deoxyadenosine	-2.12347971968
+8	PNTOxtX	0.231058623977
+8	ASNxt	0.947253924458
+8	CITxt	-0.567935815569
+8	GDP	0.629480252215
+8	D-Erythrose 4-phosphate	-0.201178469103
+8	trans,trans-Farnesyl diphosphate	0.211123180009
+8	(S)-1-Pyrroline-5-carboxylateM	0.460777283954
+8	Dolichyl beta-D-mannosyl phosphate	-0.619300679394
+8	ORNxtX	-1.01067618042
+8	TYRxt	0.196216383716
+8	Deoxyinosine	0.35474426215
+8	2-IsopropylmalateM	0.624619669995
+8	D-Fructose 2,6-bisphosphate	0.0682143716819
+8	5-Phospho-alpha-D-ribose 1-diphosphate	-0.525408958546
+8	Homocysteine	0.0984078252667
+8	LYSxtX	0.424678677472
+8	6-Phospho-D-gluconate	0.381049645124
+8	beta-D-Fructose 6-phosphate	-0.390940010335
+8	3-(Imidazol-4-yl)-2-oxopropyl phosphate	0.61634316309
+8	Acetyl-CoA	-0.106919199935
+8	Dodecanoyl-[acyl-carrier protein]	-0.213048762374
+8	ARGxt	0.55574357273
+8	CarnitineM	0.71079908443
+8	FumarateM	1.24280142946
+8	THRxt	-0.132359089207
+8	Isopentenyl diphosphate	-0.114986077282
+8	3',5'-Cyclic AMP	-1.78587450886
+8	beta-Alanine	-1.23503099548
+8	Thymidine	0.455204487329
+8	ALAxt	-0.738227485246
+8	Adenine	-3.11342290089
+8	D-Glucono-1,5-lactone 6-phosphate	0.897480761489
+8	CoAM	0.261181737598
+8	Citrate	-1.13465402657
+8	CYSxt	0.132061354926
+8	dTDP	0.507182223118
+8	Decanoyl-[acp]	-0.213048762374
+8	2-Hydroxybutane-1,2,4-tricarboxylateM	0.65485189157
+8	NH3M	-1.24264935584
+8	TetrahydrofolateM	-0.61532138182
+8	dTMP	0.207945131095
+8	2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate	-0.208238633567
+8	UMP	-0.561297369487
+8	3'-Phosphoadenylylsulfate	-0.652924599397
+8	2-Oxoadipate	-0.0760417780688
+8	TYRxtX	0.165249022534
+8	DihydrofolateM	0.603592458137
+8	CO2xtX	-0.648717016008
+8	HYXNxt	2.85117889898
+8	D-Xylose-5-phosphate	-0.0362075154038
+8	D-Glyceraldehyde 3-phosphate	0.779045633429
+8	Glycerol	1.74994397027
+8	N-(5-Phospho-D-ribosyl)anthranilate	-0.260930981754
+8	AcetateM	0.764759903302
+8	Deoxyuridine	0.455497907132
+8	Uracil	0.834529558124
+8	(R)-Pantoate	-0.827444949892
+8	ASNxtX	0.960331487517
+8	GNxt	0.651626463717
+8	Shikimate	-0.121843109585
+8	NADPH	0.119791215467
+8	Phosphatidyl-N-dimethylethanolamine	0.063519203362
+8	THYxt	0.0815865905186
+8	L-Cystathionine	0.207992761915
+8	2-Phospho-D-glycerate	-0.578955411744
+8	5,10-MethylenetetrahydrofolateM	1.08130843292
+8	alpha-D-Glucose 6-phosphate	0.307827605599
+8	FUMxt	0.516903219785
+8	5,10-Methenyltetrahydrofolate	1.61239384533
+8	L-Methionine	-0.602969532815
+8	Inosine	1.46734038487
+8	IsocitrateM	-0.348449410445
+8	Sphinganine 1-phosphate	-0.0900847081656
+8	Thiamin diphosphate	-0.0900847081656
+8	Acyl-sn-glycerol 3-phosphate	-0.121625083556
+8	Ergosta-5,7,22,24(28)-tetraenol	-0.283875249035
+8	O-Acetylcarnitine	-0.0303299779968
+8	Hexadecanoyl-[acp]	-0.213048762374
+8	Chorismate	-1.04436683624
+8	GlycineM	-1.26045146209
+8	AONAxtX	-0.200217154012
+8	alpha-D-Mannose 1-phosphate	-0.26897423216
+8	Ethanol	1.44186854158
+8	8-Amino-7-oxononanoate	-0.363242931513
+8	Intermediate_Methylzymosterol_II	-0.466575433853
+8	Pyridoxamine phosphate	-0.0900847081656
+8	Oxygen	-1.29239460305
+8	L-Aspartate 4-semialdehyde	0.438546672907
+8	Phosphatidate	-0.0782506060447
+8	UTP	-1.58512574616
+8	2-Isopropylmalate	-0.156280838171
+8	GA6PxtX	-0.142764788661
+8	SERxtX	0.670922554886
+8	1L-myo-Inositol 1-phosphate	-0.268693733294
+8	5-(5-Phospho-D-ribosylaminoformimino)-1-(5-phosphoribosyl)-imidazole-4-carboxamide	0.679901614273
+8	4-Phospho-L-aspartate	0.0224454499395
+8	Pyridoxamine	-0.08116576376
+8	Oleoyl-[acyl-carrier protein]	-0.213048762374
+8	GLNxt	1.04443788521
+8	L-ProlineM	0.85066926154
+8	HomoisocitrateM	0.538595673742
+8	Oxalosuccinate	1.44867895889
+8	ALAxtX	-0.795000980746
+8	dCTP	-0.0442926732992
+8	PAPxt	-0.274009657673
+8	GLxt	1.74611649347
+8	Acetaldehyde	1.04338686003
+8	1-(5'-Phosphoribosyl)-5-formamido-4-imidazolecarboxamide	-0.00905158048923
+8	3-Dehydroquinate	-0.114151369452
+8	2-Dehydropantoate	0.379218387766
+8	LYSxt	0.393033452547
+8	6-Carboxyhexanoyl-CoA	-1.08921322152
+8	Riboflavin	-0.08116576376
+8	Adenosine	-2.02033363253
+8	ETHxtX	0.919206829085
+8	dGDP	-0.4391997096
+8	THYxtX	0.281853114019
+8	LEUxtX	0.491193758838
+8	O-Acetyl-L-serine	-0.17889968899
+8	PAPxtX	-0.260023609211
+8	Thiamin	0.0927688633124
+8	MalateM	-0.527252867186
+8	(R)-5-Phosphomevalonate	-0.229820624395
+8	SERxt	0.685359098652
+8	NADHM	0.845817941162
+8	Orotidine 5'-phosphate	-0.380615948363
+8	N6-(1,2-Dicarboxyethyl)-AMP	-0.128450158392
+8	Cytidine	0.0777594543538
+8	Oxidized glutathione	0.0887356602724
+8	AMP	0.474133144569
+8	XANxtX	1.18377345735
+8	Intermediate_Methylzymosterol_I	-0.361558284363
+8	(R)-3-Hydroxy-3-methyl-2-oxobutanoateM	0.710126660142
+8	CDPdiacylglycerol	0.390717753411
+8	PHExt	0.0206221882624
+8	Aminoimidazole ribotide	-0.863415414912
+8	XANxt	0.998274089101
+8	FADH2M	-0.113535303263
+8	beta-D-Glucose 6-phosphate	0.554871679702
+8	Deoxyguanosine	-0.266123813227
+8	1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide	-0.285669022314
+8	(R)-2-OxoisovalerateM	1.0008495277
+8	HYXNxtX	3.03667826723
+8	ACxt	-0.2014951515
+8	EthanolM	0.923034305876
+8	S-Adenosyl-L-homocysteine	-0.983828584498
+8	3-Hydroxyanthranilate	-0.194100868551
+8	METxtX	0.376645629306
+8	L-Histidine	-0.694370573732
+8	Isocitrate	0.783798586648
+8	UREAxt	0.00988315315232
+8	Formate	-0.627876584421
+8	Myristoyl-[acyl-carrier protein]	-0.213048762374
+8	S-Adenosyl-L-methionine	0.0254322473457
+8	(R)-Pantothenate	-0.0154466449227
+8	"N-(5'-Phospho-D-1'-ribulosylformimino)-5-amino-1-(5""-phospho-D-ribosyl)-4-imidazolecarboxamide"	-0.443627706523
+8	(S)-2,3-Epoxysqualene	-0.352081468748
+8	Cytosine	-0.0836461864493
+8	Mannan	-0.793172115671
+8	BMxtX	0.066564013387
+8	GDPmannose	-0.680491599684
+8	dUMP	0.11690361504
+8	NADPHM	1.2193582339
+8	PROxtX	-0.152811453598
+8	PROxt	-0.0880508254457
+8	Squalene	-0.126330888963
+8	(R)-Mevalonate	-0.281785161438
+8	D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate	-0.687085429473
+8	myo-Inositol	0.547529206822
+8	(R)-2-Oxoisovalerate	1.48763183075
+8	TRPxt	0.413647709009
+8	GLxtX	1.72649757455
+8	D-Mannose 6-phosphate	-0.20712480253
+8	Glyoxylate	0.825844099825
+8	Triacylglycerol	-0.043951259112
+8	PyruvateM	1.71650090885
+8	Anthranilate	-0.319179648781
+8	O-Acetyl-L-homoserine	-0.0222358159155
+8	Sphinganine	-0.08116576376
+8	PYRxt	-0.146773835124
+8	O-Phospho-L-homoserine	-0.115338549315
+8	2-Aceto-2-hydroxy butyrateM	0.865497015311
+8	Dimethylallyl diphosphate	0.132118007603
+8	sn-Glycerol 3-phosphate	-0.0617654118937
+8	Fumarate	0.605735335285
+8	dUTP	-0.839513630198
+8	DTTPxtX	-0.187944869595
+8	D-Ribulose 5-phosphate	-0.236488124785
+8	L-Glutamate 5-semialdehyde	0.316468488424
+8	L-Tryptophan	0.0384924590242
+8	N-Acetyl-L-glutamateM	-0.488724184067
+9	Ergosterol	0.548020330807
+9	L-Ornithine	-0.53519598993
+9	UREAxtX	0.00988315315232
+9	Phosphatidylserine	0.945042868802
+9	ORNxt	-0.89607547193
+9	1-Phosphatidyl-D-myo-inositol	0.278763544157
+9	DTTPxt	-0.426478552641
+9	Uridine	-0.994894010123
+9	GLYxtX	-0.550572689108
+9	HomoisocitrateM	0.567099419047
+9	TRPxtX	0.413647709009
+9	(S)-1-Pyrroline-5-carboxylate	0.316547032234
+9	ALAxtX	-0.738227485246
+9	(R)-2,3-dihydroxy-3-methylbutanoateM	0.603198945943
+9	PAPxt	-0.512952705423
+9	ORNxtX	-0.986758648347
+9	Geranyl diphosphate	-0.115445934927
+9	4,4-Dimethylzymosterol	0.113590863357
+9	PNTOxtX	0.231885846077
+9	GLNxtX	1.04443788521
+9	O-AcetylcarnitineM	-0.287860911525
+9	ASNxt	0.746987400958
+9	Prephenate	-0.738862526521
+9	CITxt	-1.13465402657
+9	FADM	1.29211038859
+9	THYxtX	0.0815865905186
+9	1-(5'-Phosphoribosyl)-5-formamido-4-imidazolecarboxamide	-0.209318103989
+9	GLxt	1.74994397027
+9	AONAxtX	-0.177743563263
+9	3-Dehydroquinate	-0.206748515619
+9	2-Dehydropantoate	0.920537610766
+9	LYSxt	0.926955820213
+9	D-Erythrose 4-phosphate	-0.340517802331
+9	trans,trans-Farnesyl diphosphate	-0.0362093109906
+9	Riboflavin	-0.32849825476
+9	(S)-1-Pyrroline-5-carboxylateM	0.383497526454
+9	Adenosine	-1.50120497553
+9	N-Acetyl-L-glutamate 5-semialdehydeM	0.387556099542
+9	LEUxtX	0.617224026538
+9	dGDP	-0.3503675941
+9	SUCCxt	0.785935454519
+9	4,4-Dimethylcholesta-8,14,24-trienol	0.592599621083
+9	alpha-D-Mannose 1-phosphate	-0.206085144635
+9	L-ProlineM	0.885299649318
+9	CO2M	1.36959169998
+9	HISxtX	-0.161552745398
+9	dGTP	-0.668947462547
+9	VALxtX	0.514802335191
+9	SERxt	0.716326459834
+9	Deoxyinosine	0.0855035235787
+9	2-IsopropylmalateM	0.620316597086
+9	Diacylglycerol	-0.0769322261206
+9	O-Acetyl-L-serine	0.34022896801
+9	(R)-3-Hydroxy-3-methyl-2-oxobutanoateM	0.612982750392
+9	Homocysteine	-0.437297653067
+9	(S)-3-Hydroxy-3-methylglutaryl-CoA	0.122317712861
+9	Acyldihydroxyacetone phosphate	-0.198338790002
+9	PNTOxt	-0.0154466449227
+9	ACALxt	1.04338686003
+9	6-Phospho-D-gluconate	0.180783121624
+9	Glycerone phosphate	-0.216517532999
+9	Acetyl-CoAM	0.367909053705
+9	MalateM	-0.00812421018553
+9	Dolichyl beta-D-mannosyl phosphate	-0.680491599684
+9	L-SerineM	0.426290049736
+9	THRxtX	-0.132359089207
+9	AONAxt	-0.363242931513
+9	GLYxt	-0.0166503214408
+9	ARGxt	0.610897504359
+9	CarnitineM	0.691479145055
+9	FumarateM	1.76193008646
+9	Acetoacetyl-CoA	-0.105011722013
+9	Orotidine 5'-phosphate	-0.291783832863
+9	H2O2	0.031838731497
+9	DTTPxtX	-0.179146061641
+9	Pantetheine 4'-phosphate	-0.0741624466335
+9	THRxt	-0.1966273078
+9	FUMxtX	0.516903219785
+9	Intermediate_Zymosterol_II	-0.495343315217
+9	L-ThreonineM	-1.91990220158
+9	Oxidized glutathione	0.177567775772
+9	Carnitine	0.216595729808
+9	XANxtX	0.998274089101
+9	ACALxtX	1.3126275986
+9	Intermediate_Methylzymosterol_I	-0.437105030454
+9	Thymidine	0.254937963829
+9	PHExtX	0.0206221882624
+9	Adenine	-2.59429424389
+9	ACxtX	-0.2014951515
+9	Sedoheptulose 7-phosphate	0.807020465332
+9	OxaloglutarateM	0.00176039634534
+9	Phosphatidylethanolamine	0.589677888472
+9	Guanosine	-0.117897998741
+9	2-Aminomuconate 6-semialdehyde	-0.266323545422
+9	L-Proline	1.97730678433
+9	CYSxt	0.261067545222
+9	PAPxtX	-0.274009657673
+9	2-Amino-3-carboxymuconate semialdehyde	-0.147356327156
+9	FADH2M	0.405593353737
+9	beta-D-Glucose 6-phosphate	0.307539188702
+9	Inosine	1.98646904187
+9	ASPxtX	-1.0630277796
+9	Episterol	-0.149604468243
+9	2-Hydroxybutane-1,2,4-tricarboxylateM	0.65485189157
+9	But-1-ene-1,2,4-tricarboxylateM	0.193551364589
+9	OxalosuccinateM	-0.732096047027
+9	CITxtX	-0.567935815569
+9	PYRxtX	-0.146773835124
+9	TetrahydrofolateM	-0.684981857757
+9	(S)-Dihydroorotate	-0.328913324378
+9	(R)-2-OxoisovalerateM	1.20240848925
+9	GA6Pxt	-0.287979996441
+9	L-Kynurenine	-0.442324546065
+9	ILExtX	0.302164034935
+9	HYXNxtX	2.85117889898
+9	2-OxoadipateM	0.0404002750953
+9	myo-Inositol	0.556328014776
+9	TYRxtX	0.196216383716
+9	EthanolM	1.44216296288
+9	GA6PxtX	-0.154468980774
+9	2-AcetolactateM	1.91026234048
+9	S-Adenosyl-L-homocysteine	-0.464699927498
+9	3-Hydroxyanthranilate	-0.269647614641
+9	2-OxobutanoateM	-1.65477659122
+9	L-Glutamate 5-semialdehydeM	0.465938620007
+9	METxtX	0.477456706078
+9	LYSxtX	0.393033452547
+9	DihydrofolateM	0.537794986994
+9	Xanthosine	1.09052702748
+9	Isocitrate	0.629239071648
+9	D-Xylose-5-phosphate	-0.236474038904
+9	D-Glyceraldehyde 3-phosphate	1.29817429043
+9	alpha,alpha'-Trehalose 6-phosphate	0.293730986526
+9	Glycerol	1.83877608577
+9	L-Cysteine	-0.664422214111
+9	Lanosterol	-0.350556917315
+9	1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	-0.260299964316
+9	N-(5-Phospho-D-ribosyl)anthranilate	0.258197675246
+9	Phosphatidyl-N-methylethanolamine	-0.0958337864476
+9	UREAxt	0.132556289413
+9	Formate	-0.567340324304
+9	Oxidized flavoprotein	0.0850784566346
+9	Uracil	0.565288819553
+9	Triacylglycerol	-0.164579192362
+9	alpha,alpha-Trehalose	0.844114632738
+9	ASNxtX	0.947253924458
+9	5'-Phosphoribosyl-N-formylglycinamide	0.209445124828
+9	CitrateM	0.121556989161
+9	Shikimate	0.397285547415
+9	Intermediate_Zymosterol_I	0.0368073893882
+9	Phosphatidyl-N-dimethylethanolamine	-0.183813287638
+9	"N-(5'-Phospho-D-1'-ribulosylformimino)-5-amino-1-(5""-phospho-D-ribosyl)-4-imidazolecarboxamide"	-0.304977984455
+9	3-Methyl-2-oxobutanoate	0.993396392695
+9	L-Cystathionine	0.243525608115
+9	3-Hydroxykynurenine	0.247570519508
+9	5,10-MethylenetetrahydrofolateM	1.00402867542
+9	BMxtX	0.155396128887
+9	FUMxt	0.605735335285
+9	Dolichyl phosphate	-0.619300679394
+9	beta-D-Fructose 6-phosphate	0.128188646665
+9	ETHxtX	0.922739884585
+9	L-Methionine	-0.514137417315
+9	3-(Imidazol-4-yl)-2-oxopropyl phosphate	0.482832147423
+9	ETHxt	1.44186854158
+9	Squalene	0.392797768037
+9	IsocitrateM	-0.326280155231
+9	NADPHM	1.16783839557
+9	AcetateM	0.726120024552
+9	ARGxtX	0.55574357273
+9	PROxtX	-0.0880508254457
+9	PROxt	-0.0534204376679
+9	Ergosta-5,7,24(28)-trienol	0.240859462798
+9	(R)-Mevalonate	0.237343495562
+9	Orotate	-0.358295693638
+9	Acyl-sn-glycerol 3-phosphate	0.397503573444
+9	2-Aceto-2-hydroxy butyrateM	0.865497015311
+9	Sulfite	0.102541599504
+9	(R)-2-Oxoisovalerate	1.43229037105
+9	TRPxt	0.428276740024
+9	Fecosterol	0.369300956113
+9	3-Methyl-2-oxobutanoateM	1.18143093553
+9	L-Threonine	-1.1048091543
+9	Ergosta-5,7,22,24(28)-tetraenol	0.235253407965
+9	D-Mannose 6-phosphate	-0.389240305266
+9	GLxtX	1.74611649347
+9	O-Acetylcarnitine	0.488798679003
+9	AcetaldehydeM	-1.51844377043
+9	Phenylpyruvate	0.554661071858
+9	Chorismate	-1.13696398241
+9	(R)-Pantoate	-0.308316292892
+9	GlycineM	-1.26007465253
+9	Acyl-[acyl-carrier protein]	-0.267584718564
+9	O-Acetyl-L-homoserine	0.496892841085
+9	Indoleglycerol phosphate	-0.559410984158
+9	Sphinganine	-0.32849825476
+9	alpha-D-Glucose	0.933001848185
+9	HISxt	0.372369622268
+9	L-Arginine	0.743449446359
+9	Intermediate_Methylzymosterol_II	-0.361263015587
+9	Phosphatidylcholine	-0.0910512462044
+9	CYSxtX	0.132061354926
+9	NH3M	-1.11926780059
+9	Oxygen	-1.2566926622
+9	L-Aspartate 4-semialdehyde	0.957675329907
+9	N1-(5-Phospho-D-ribosyl)-AMP	0.439535512876
+9	Hydrogen sulfide	0.567086560381
+9	Phosphatidate	-0.319506472545
+9	SUCCxtX	0.266806797519
+9	Dimethylallyl diphosphate	-0.115214483397
+9	Urea	0.187710221041
+9	FORxt	-0.627876584421
+9	2-Isopropylmalate	-0.00693471325076
+9	3-Dehydroshikimate	-0.113838533451
+9	dUDP	-0.0514924686822
+9	D-Ribose	-1.07995481596
+9	SERxtX	0.685359098652
+9	1L-myo-Inositol 1-phosphate	-0.516026224294
+9	Mannan	-0.619300679394
+9	GDPmannose	-0.56714927287
+9	dUTP	-0.320384973198
+9	FORxtX	-0.647305084493
+9	5-(5-Phospho-D-ribosylaminoformimino)-1-(5-phosphoribosyl)-imidazole-4-carboxamide	0.689217999165
+9	GNxtX	0.651626463717
+9	L-Tryptophan	0.069459820206
+9	OxygenM	-1.29239460305
+9	METxt	0.335321576185
+9	Pyridoxamine	-0.32849825476
+9	L-Formylkynurenine	-0.421499065667
+10	UREAxtX	0.132556289413
+10	ORNxt	-0.53519598993
+10	2-IsopropylmalateM	0.620316597086
+10	L-ProlineM	1.40442830632
+10	Diacylglycerol	-0.318188092621
+10	HomoisocitrateM	0.644298015973
+10	TRPxtX	0.428276740024
+10	(R)-2,3-dihydroxy-3-methylbutanoateM	0.603198945943
+10	Phosphatidylethanolamine	0.456166872806
+10	2-Amino-3-carboxymuconate semialdehyde	-0.222903073247
+10	GLxt	1.83877608577
+10	PNTOxtX	-0.0154466449227
+10	2-OxoadipateM	-0.011119563238
+10	ACALxtX	1.04338686003
+10	D-Erythrose 4-phosphate	0.178610854669
+10	ETHxtX	1.44186854158
+10	ORNxtX	-0.89607547193
+10	4,4-Dimethylcholesta-8,14,24-trienol	0.392333097583
+10	HISxtX	0.372369622268
+10	PAPxtX	-0.512952705423
+10	Homocysteine	0.0818310039334
+10	LYSxtX	0.926955820213
+10	Dolichyl beta-D-mannosyl phosphate	-0.564969612739
+10	THRxtX	-0.1966273078
+10	3-Methyl-2-oxobutanoateM	1.09248925511
+10	ARGxt	0.363565013359
+10	H2O2	0.573157954497
+10	DTTPxtX	-0.426478552641
+10	(R)-3-Hydroxy-3-methyl-2-oxobutanoateM	0.612982750392
+10	Intermediate_Zymosterol_II	0.0385790524496
+10	L-ThreonineM	-1.83107008608
+10	Prephenate	-0.831459672688
+10	Intermediate_Methylzymosterol_I	0.0820236265463
+10	THRxt	-0.1077951923
+10	Phenylpyruvate	0.643903859275
+10	But-1-ene-1,2,4-tricarboxylateM	0.193551364589
+10	NH3M	-1.18353601919
+10	TetrahydrofolateM	-0.684981857757
+10	(R)-2-OxoisovalerateM	1.1052645795
+10	GLYxtX	-0.0166503214408
+10	L-Kynurenine	-0.421304929104
+10	OxygenM	-1.25630877037
+10	3-Hydroxyanthranilate	0.249481042359
+10	L-Glutamate 5-semialdehydeM	0.388658862507
+10	METxtX	0.335321576185
+10	2-OxobutanoateM	-1.71904480982
+10	UREAxt	0.187710221041
+10	L-Cysteine	-0.145293557111
+10	1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	0.258828692684
+10	Formate	-0.546320707343
+10	Oxidized flavoprotein	-0.115188066865
+10	alpha,alpha-Trehalose	0.596782141738
+10	ASNxtX	0.746987400958
+10	CYSxtX	0.261067545222
+10	"N-(5'-Phospho-D-1'-ribulosylformimino)-5-amino-1-(5""-phospho-D-ribosyl)-4-imidazolecarboxamide"	-0.295661599563
+10	3-Methyl-2-oxobutanoate	1.18111990447
+10	Dolichyl phosphate	-0.680491599684
+10	FUMxtX	0.605735335285
+10	IsocitrateM	-0.480839670231
+10	PROxt	0.465708219332
+10	Orotate	0.183023529362
+10	myo-Inositol	0.308995523776
+10	(R)-2-Oxoisovalerate	1.6338493326
+10	TRPxt	0.459244101206
+10	ARGxtX	0.610897504359
+10	GLxtX	1.74994397027
+10	D-Mannose 6-phosphate	0.129888351734
+10	alpha-D-Mannose 1-phosphate	-0.388200647371
+10	Episterol	0.369524188757
+10	Urea	-0.0596222699585
+10	GlycineM	-1.26007465253
+10	AONAxtX	-0.363242931513
+10	Indoleglycerol phosphate	-0.741526486895
+10	2-Aminomuconate 6-semialdehyde	-0.147871128668
+10	alpha-D-Glucose	0.941800656139
+10	Intermediate_Methylzymosterol_II	-0.436809761678
+10	CYSxt	-0.274637933111
+10	CITxtX	-1.13465402657
+10	Oxygen	-1.32418758064
+10	SUCCxtX	0.785935454519
+10	FORxt	-0.567340324304
+10	2-Isopropylmalate	-0.0112377861599
+10	3-Dehydroshikimate	-0.206435679617
+10	GA6PxtX	-0.287979996441
+10	D-Ribose	-0.560826158959
+10	SERxtX	0.716326459834
+10	Mannan	-0.680862453746
+10	GDPmannose	-0.504260185344
+10	PROxtX	-0.0534204376679
+10	FORxtX	-0.627876584421
+10	5-(5-Phospho-D-ribosylaminoformimino)-1-(5-phosphoribosyl)-imidazole-4-carboxamide	0.441885508165
+10	METxt	0.424153691685
+10	L-Formylkynurenine	-0.387434968367
+11	L-Kynurenine	-0.387240831804
+11	UREAxtX	0.187710221041
+11	OxygenM	-1.3238036888
+11	(R)-2-Oxoisovalerate	1.53670542285
+11	ARGxtX	0.363565013359
+11	THRxtX	-0.1077951923
+11	3-Methyl-2-oxobutanoateM	1.09248925511
+11	HomoisocitrateM	0.644298015973
+11	TRPxtX	0.459244101206
+11	GLxtX	1.83877608577
+11	alpha-D-Mannose 1-phosphate	0.130928009629
+11	METxtX	0.424153691685
+11	2-Amino-3-carboxymuconate semialdehyde	0.296225583753
+11	2-OxobutanoateM	-1.63021269432
+11	Indoleglycerol phosphate	-0.222397829895
+11	UREAxt	-0.0596222699585
+11	alpha-D-Glucose	0.694468165139
+11	Intermediate_Methylzymosterol_II	0.0823188953217
+11	Formate	-0.512256610043
+11	CYSxt	0.244490723889
+11	Oxygen	-0.782868357642
+11	CYSxtX	-0.274637933111
+11	2-Aminomuconate 6-semialdehyde	-0.223417874759
+11	"N-(5'-Phospho-D-1'-ribulosylformimino)-5-amino-1-(5""-phospho-D-ribosyl)-4-imidazolecarboxamide"	-0.542994090563
+11	3-Methyl-2-oxobutanoate	1.09217822405
+11	FORxt	-0.546320707343
+11	2-Isopropylmalate	-0.0112377861599
+11	Dolichyl beta-D-mannosyl phosphate	-0.502080525213
+11	ORNxtX	-0.53519598993
+11	Dolichyl phosphate	-0.564969612739
+11	Mannan	-0.565340466801
+11	GDPmannose	-0.686375688081
+11	PROxtX	0.465708219332
+11	FORxtX	-0.567340324304
+11	Phenylpyruvate	0.551306713108
+11	NH3M	-1.09470390369
+11	(R)-2-OxoisovalerateM	1.1052645795
+12	Dolichyl phosphate	-0.502080525213
+12	GDPmannose	-0.167247031081
+12	UREAxtX	-0.0596222699585
+12	OxygenM	-0.782484465805
+12	CYSxtX	0.244490723889
+12	FORxtX	-0.546320707343
+12	3-Methyl-2-oxobutanoate	1.09217822405
+12	FORxt	-0.512256610043
+12	(R)-2-Oxoisovalerate	1.53670542285
+12	Dolichyl beta-D-mannosyl phosphate	-0.68419602795
+12	2-Aminomuconate 6-semialdehyde	0.295710782241
+12	Mannan	-0.502451379276
+13	Dolichyl beta-D-mannosyl phosphate	-0.16506737095
+13	Dolichyl phosphate	-0.68419602795
+13	FORxtX	-0.512256610043
+13	Mannan	-0.684566882012
+14	Dolichyl phosphate	-0.16506737095
+14	Mannan	-0.165438225012
