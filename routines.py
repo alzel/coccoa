@@ -279,16 +279,19 @@ def write_network_gml(B, file_name, reaction_folds, reaction_genes, scoring=None
     nx.write_graphml(H, file_name)
 
 
-def load_column(path, key=0, skip_lines = 0, sep="\t"):
+def load_column(path, key=0, skip_lines = 0,comment="#", sep="\t"):
     """
     loads column, where key value denotes unique column, default is first column
     """
     array = []
+    comment_regex = re.compile("^" + comment)
     try:
         f = open(path)
         for c, cline in enumerate(f):
             if skip_lines > c:
                 skip_lines -= 1
+                continue
+            if comment_regex.match(cline):
                 continue
 
             cline = cline.strip()
@@ -654,7 +657,7 @@ def metabolites_scoring(U, metabolites, consumption, production, degree=None):
     return scores
 
 
-def metabolite_scoring_forward(B, metabolites, reaction_folds, metabolite_folds = None,  degree=None):
+def metabolite_scoring_forward(B, metabolites, reaction_folds, metabolite_folds=None, degree=None):
     """For a given list of metabolites and degree returns genes for CoCCoA scores. By default calculates maximum possible degree.
     U: (DiGraph) graph of metabolites.
     metabolites: (list) list of metabolites.
@@ -688,7 +691,6 @@ def metabolite_scoring_forward(B, metabolites, reaction_folds, metabolite_folds 
     for metabolite in found_metabolites:
         path_lengths = nx.single_source_dijkstra_path_length(U, metabolite,
                                                              cutoff=degree) #returns nodes and shortest path lengths until nodes, cutoff is maximal distance for search
-        #print path_lengths
         distances = {}
         for k, v in path_lengths.iteritems(): #reversing path lengths to get nodes which are at the distance from source metabolite distance[distance][metabolite]
             if v in distances:
@@ -698,14 +700,12 @@ def metabolite_scoring_forward(B, metabolites, reaction_folds, metabolite_folds 
         distances = collections.OrderedDict(sorted(distances.items()))
         path_members = {}
         metabolite_paths = set()
-        #print distances
         reaction_edges = set() # contains reactions used in paths
         path_hash = collections.defaultdict(dict) #stores hash[distance][source][target] =  reaction
 
         pathways = {} #stores shortest paths at distance
 
         for distance, mets in distances.iteritems():
-            #print "Distance metabolites:", distance, mets
             pathways[distance] = []
             for m in mets:
                 shortest_paths = [p for p in nx.all_shortest_paths(U, source=metabolite, target=m)]
@@ -713,9 +713,8 @@ def metabolite_scoring_forward(B, metabolites, reaction_folds, metabolite_folds 
                     pathways[distance].append(path)
                     source = 0
                     target = source + 1
-                    #print path
                     while target < len(path): #collecting all reactions connecting metabolites for each path
-                        #print path[source], path[target]
+
                         common_edges = set()
                         s_node = path[source]
                         t_node = path[target]
@@ -724,11 +723,7 @@ def metabolite_scoring_forward(B, metabolites, reaction_folds, metabolite_folds 
                         metabolite_paths.add(s_node)
                         metabolite_paths.add(t_node)
 
-                        #print "source node, reaction", s_node, source_cons
-                        #print "target node, reaction", t_node, target_prod
                         common_edges = set(target_prod) & set(source_cons) # common edge
-                        #print "Common", common_edges
-                        #print "######################"
 
                         if distance in path_members:
                             path_members[distance].update(common_edges)
@@ -737,16 +732,10 @@ def metabolite_scoring_forward(B, metabolites, reaction_folds, metabolite_folds 
 
                         if len(common_edges) < 1:
                             raise RuntimeError("Something REALLY wrong!")
-                        #print "Source {0}, target {1}".format(s_node, t_node)
-                        #path_hash[s_node][t_node] = common_edges.copy()
                         path_hash[s_node][t_node] = common_edges.copy()
-
-                        # for common_reaction in common_edges:
-                        #     path_hash[s_node][t_node].add(common_reaction)
                         reaction_edges.update(common_edges)
                         source = target
                         target += 1
-        #print pathways
 
         for distance_global in distances.keys():
             pathways_distance = pathways.copy()
@@ -767,12 +756,10 @@ def metabolite_scoring_forward(B, metabolites, reaction_folds, metabolite_folds 
                 if i > distance_global:
                     del pathways_distance[i]
 
-            #print pathways
-            #print path_hash
             dist_score = []
             accounted = {}
             pathways_distance = collections.OrderedDict(sorted(pathways_distance.items()))
-            #print "distance, pathway", distance_global, pathways_distance
+
             for distance, paths in pathways_distance.iteritems(): #notice paths are in reverse order
                 if distance == 0:
                     continue
@@ -787,25 +774,13 @@ def metabolite_scoring_forward(B, metabolites, reaction_folds, metabolite_folds 
                     if not denominator:
                         raise RuntimeError("Something REALLY wrong, node metabolite seems to be not connected!")
 
-                    #print "starting scoring in path",  distance, path
                     source = 0
                     target = source + 1
                     while target < len(path):
                         s_node = path[source]
                         t_node = path[target]
-                        #print "Source {0}, target {1}".format(s_node, t_node)
-
                         if s_node in path_hash and path_hash[s_node][t_node]:
                             node_production_degree = float(U.out_degree(s_node))
-                            #node_production_degree = float(B.out_degree(s_node))
-
-                            #tmp_degree = 0
-                            #for r in B.successors(s_node):
-                            #    if r in reaction_folds:
-                            #        tmp_degree += 1
-                            #if tmp_degree:
-                            #    node_production_degree = float(tmp_degree)
-
                             if node_production_degree:
                                 denominator *= node_production_degree
 
@@ -1227,7 +1202,7 @@ def metabolite_scoring_bf(B, metabolites, reaction_folds, metabolite_folds=None,
 
 
 def metabolite_scoring_backward(B, metabolites, reaction_folds, metabolite_folds=None, degree=None):
-    """For a given list of metabolites and degree returns genes for CoCCoA scores. By default calculates maximum possible degree.
+    """For a given list of metabolites and degree returns scores for CoCCoA at given. By default calculates maximum possible degree.
     U: (DiGraph) graph of metabolites.
     metabolites: (list) list of metabolites.
     degree: (int) CoCCoA degree
@@ -1314,9 +1289,9 @@ def metabolite_scoring_backward(B, metabolites, reaction_folds, metabolite_folds
                         source = target
                         target += 1
         #print "###Path_hash", path_hash
-        print distances.keys()
+        #print distances.keys()
         for distance_global in distances.keys():
-            print "For degree", distance_global
+            #print "For degree", distance_global
 
             pathways_distance = _filter_pathways_light(pathways=pathways, max_distance=distance_global)
             dist_score = []
@@ -1338,7 +1313,7 @@ def metabolite_scoring_backward(B, metabolites, reaction_folds, metabolite_folds
                     if not denominator:
                         raise RuntimeError("Something REALLY wrong, node metabolite seems to be not connected!")
 
-                    print "starting scoring in path",  distance, path
+                    #print "starting scoring in path",  distance, path
                     source = 0
                     target = source + 1
                     while target < len(path):
@@ -1376,7 +1351,7 @@ def metabolite_scoring_backward(B, metabolites, reaction_folds, metabolite_folds
                                 reaction_score = 0 #score of each flux
                                 if prod_reaction in reaction_folds:
                                     reaction_score = 1.0/(float(len_path)*denominator)*reaction_folds[prod_reaction]/len(path_hash[s_node][t_node])
-                                    print prod_reaction, reaction_score, denominator, (float(len_path)*denominator)
+                                    #print prod_reaction, reaction_score, denominator, (float(len_path)*denominator)
                                 dist_score.append(reaction_score)
 
                                 #adding metabolite fold changes information, if available

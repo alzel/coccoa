@@ -1,9 +1,6 @@
 from unittest import TestCase
 from coccoa import *
-from routines import create_DiGraph, set_bounds, get_consumption_scores, get_production_scores, get_consumption_genes, \
-    get_production_genes, metabolites_scoring, metabolite_scoring_forward, metabolite_scoring_bf, \
-    metabolite_scoring_backward, get_all_degrees_genes_backward, \
-    get_all_degrees_genes, get_all_degrees_genes_forward, shuffle_expression
+from routines import *
 
 
 class Tests(TestCase):
