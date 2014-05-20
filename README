@@ -1,4 +1,4 @@
-Computes CoCCoA scores for metabolites at a given CoCCoA degree or distance from metabolite of interest. Please see original publication for details about methodology
+Computes CoCCoA scores for metabolites at a given CoCCoA degree or distance from metabolite of interest.
 
 REQUIREMENTS
    coccoa.py requires Python module networkx to be installed
@@ -19,6 +19,7 @@ FILES
    coccoa_tests.py - unit tests for coccoa.py 
 
 EXAMPLES
+Please see original publication for details about methodology.
    1)computes scores up to 1st CoCCoA degree, see Figure 2 in the manuscript, taking into accout genes with p-values < 0.05
       python coccoa.py -folds examples/pf_gluc_vs_wt.expr -minmax examples/fluxes.minmax -r2g examples/reaction_orf_iso1.txt -degree 2 -i examples/model.bioopt -o examples/scores.1 -pval 0.05
    OUTPUT
@@ -33,12 +34,12 @@ EXAMPLES
       python coccoa.py -folds examples/pf_gluc_vs_wt.expr -minmax examples/fluxes.minmax -r2g examples/reaction_orf_iso1.txt -degree 2 -i examples/model.bioopt -o examples/scores_alt.2 -forward
    OUTPUT
       examples/scores_alt.2.backward - contains 3 columns (degree, metabolite, score). Here score is computed using genes up 2nd + 1 metabolite neighbours away in backward direction (production side)
-      examples/scores_alt.2.forward - contains 3 columns (degree, metabolite, score). Here score is computed using genes up 2nd + 1 metabolites neighbours away in forward direction (production side)
+      examples/scores_alt.2.forward - contains 3 columns (degree, metabolite, score). Here score is computed using genes up 2nd + 1 metabolites neighbours away in forward direction (consumption side)
       e.g. To compute the final score for L-Asparagine using 2 backward and 1 forward distant gene neighbours: (-0.142430566) + 0.946909455 = 0.804478889, notice minus on consumtion site (forward). 
       This procedure should be performend only for alternative CoCCoA formulation. Notice, for higher order network distances a considerable ammont is required to compute scores.
 
 AUTHOR
-   Aleksej Zelezniak
+   Aleksej Zelezniak, aleksej.zelezniak@embl.de
 
 CITATION
    Zelezniak A, Sheridan S, Patil KR (2014) Contribution of Network Connectivity in Determining the Relationship between Gene Expression and Metabolite Concentration Changes. PLoS Comput Biol 10(4): e1003572. doi:10.1371/journal.pcbi.1003572
